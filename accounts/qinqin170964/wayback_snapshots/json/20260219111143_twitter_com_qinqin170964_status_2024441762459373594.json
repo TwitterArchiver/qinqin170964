@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024421055851614217",
+    "created_at": "2026-02-19T11:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024441762459373594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022438221590990848",
+          "start": 0,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024441762459373594",
+    "in_reply_to_user_id": "2022438221590990848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024440487160201396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_96 好喜欢年上。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024421055851614217",
+        "created_at": "2026-02-19T11:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024441762459373594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022438221590990848",
+              "start": 0,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024441762459373594",
+        "in_reply_to_user_id": "2022438221590990848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024440487160201396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_96 好喜欢年上。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022438221590990848",
+        "conversation_id": "2024421055851614217",
+        "created_at": "2026-02-19T11:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024440487160201396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024440487160201396",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024421055851614217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 年上是最好的🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 30,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及 | 我是小遥 之前的账号都鼠了",
+        "id": "2022438221590990848",
+        "name": "遥",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023132154692272128/kQXliKeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 57,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 109
+        },
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}

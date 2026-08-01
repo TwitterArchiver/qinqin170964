@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2055309130462888019",
+    "created_at": "2026-05-15T15:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055309653941371309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055309653941371309",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055309130462888019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 喝个感冒药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2055309130462888019",
+        "created_at": "2026-05-15T15:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055309653941371309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055309653941371309",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055309130462888019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 喝个感冒药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632079685436727299",
+        "conversation_id": "2055309130462888019",
+        "created_at": "2026-05-15T15:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055309130462888019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055309130462888019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点怕冷呼气有点热，难道要生病了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 53,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2048108396097032584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054584040343416832/pHgwrnWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3026,
+          "following_count": 189,
+          "like_count": 28024,
+          "listed_count": 6,
+          "media_count": 406,
+          "tweet_count": 5509
+        },
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

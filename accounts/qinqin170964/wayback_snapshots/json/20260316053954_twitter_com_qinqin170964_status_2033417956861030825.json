@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2033417956861030825",
+    "created_at": "2026-03-16T05:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033417956861030825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ishung3/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ishung3/status/2033086850743881988",
+          "start": 4,
+          "url": "https://t.co/tANBdHFw5g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033417956861030825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033086850743881988",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "震撼！ https://t.co/tANBdHFw5g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1956,
+        "media_key": "3_2033086838785867776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb5tUdagAAcWbX.jpg",
+        "width": 1179
+      },
+      {
+        "height": 877,
+        "media_key": "3_2033086838811004928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb5tUjaEAA_6oK.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2033417956861030825",
+        "created_at": "2026-03-16T05:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033417956861030825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ishung3/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ishung3/status/2033086850743881988",
+              "start": 4,
+              "url": "https://t.co/tANBdHFw5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033417956861030825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033086850743881988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震撼！ https://t.co/tANBdHFw5g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033086838785867776",
+            "3_2033086838811004928"
+          ]
+        },
+        "author_id": "1595377655880515585",
+        "conversation_id": "2033086850743881988",
+        "created_at": "2026-03-15T07:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033086850743881988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44wzyke4Nk",
+              "end": 58,
+              "expanded_url": "https://x.com/ishung3/status/2033086850743881988/photo/1",
+              "media_key": "3_2033086838785867776",
+              "start": 35,
+              "url": "https://t.co/44wzyke4Nk"
+            },
+            {
+              "display_url": "pic.x.com/44wzyke4Nk",
+              "end": 58,
+              "expanded_url": "https://x.com/ishung3/status/2033086850743881988/photo/1",
+              "media_key": "3_2033086838811004928",
+              "start": 35,
+              "url": "https://t.co/44wzyke4Nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033086850743881988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 61282,
+          "like_count": 402,
+          "quote_count": 22,
+          "reply_count": 34,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "为了满足大家日益迫切的被豆橛子抽的需求\n本店特地上架豆橛子SP鞭（？ https://t.co/44wzyke4Nk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 41,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T11:24:49.000Z",
+        "description": "什么都会点什么都半吊子的无业游民/瑟瑟品牌主理咪/开了个情趣用品店有需要可以来瞅瞅：菟菟子Lepus/挺神经一精神病/不接线下！！！/小店TG群https://t.co/6NKab1QsW7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zhennanrenqun",
+                "end": 95,
+                "expanded_url": "https://t.me/zhennanrenqun",
+                "start": 72,
+                "url": "https://t.co/6NKab1QsW7"
+              }
+            ]
+          }
+        },
+        "id": "1595377655880515585",
+        "location": "星流沉渊",
+        "name": "白糖玫瑰",
+        "pinned_tweet_id": "1843090700445048888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885268813647929345/22_qbiMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6641,
+          "following_count": 745,
+          "like_count": 18434,
+          "listed_count": 39,
+          "media_count": 1386,
+          "tweet_count": 5519
+        },
+        "username": "ishung3",
+        "verified": false
+      }
+    ]
+  }
+}

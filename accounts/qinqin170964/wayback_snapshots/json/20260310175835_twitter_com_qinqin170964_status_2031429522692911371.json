@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2031391325657117105",
+    "created_at": "2026-03-10T17:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031429522692911371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638533193166102530",
+          "start": 0,
+          "username": "ChaosO_o1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031429522692911371",
+    "in_reply_to_user_id": "1638533193166102530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031427420490969416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaosO_o1 卧槽吓我一雷，但是好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2031427412777734144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEUeA2bkAAzAB-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2031391325657117105",
+        "created_at": "2026-03-10T17:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031429522692911371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638533193166102530",
+              "start": 0,
+              "username": "ChaosO_o1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031429522692911371",
+        "in_reply_to_user_id": "1638533193166102530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031427420490969416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaosO_o1 卧槽吓我一雷，但是好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031427412777734144"
+          ]
+        },
+        "author_id": "1638533193166102530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031391325657117105",
+        "created_at": "2026-03-10T17:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031427420490969416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O03lbcdsLg",
+              "end": 37,
+              "expanded_url": "https://x.com/ChaosO_o1/status/2031427420490969416/photo/1",
+              "media_key": "3_2031427412777734144",
+              "start": 14,
+              "url": "https://t.co/O03lbcdsLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031427420490969416",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031391325657117105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 https://t.co/O03lbcdsLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 37,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T13:28:57.000Z",
+        "description": "她，那个温柔的幽灵就在他头上，几步楼梯的距离而已。他时刻注意着她的夜舞，她的夜曲抚慰着楼下的失眠人。",
+        "id": "1638533193166102530",
+        "location": "霍格沃兹魔法学院",
+        "name": "shepy",
+        "pinned_tweet_id": "1896621196688654453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027163448552136705/iHleJZSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 37,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 319
+        },
+        "username": "ChaosO_o1",
+        "verified": false
+      }
+    ]
+  }
+}

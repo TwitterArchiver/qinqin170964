@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024331103356735948",
+    "created_at": "2026-02-19T11:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024451431315681608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653066707194515457",
+          "start": 0,
+          "username": "nicoleee0402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024451431315681608",
+    "in_reply_to_user_id": "1653066707194515457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024331103356735948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nicoleee0402 我支持你。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1219,
+        "media_key": "3_2024331091025498112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfeZuRakAAeAQd.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024331103356735948",
+        "created_at": "2026-02-19T11:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024451431315681608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653066707194515457",
+              "start": 0,
+              "username": "nicoleee0402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024451431315681608",
+        "in_reply_to_user_id": "1653066707194515457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024331103356735948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nicoleee0402 我支持你。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024331091025498112"
+          ]
+        },
+        "author_id": "1653066707194515457",
+        "conversation_id": "2024331103356735948",
+        "created_at": "2026-02-19T03:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024331103356735948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Yc4biv8lD",
+              "end": 65,
+              "expanded_url": "https://x.com/nicoleee0402/status/2024331103356735948/photo/1",
+              "media_key": "3_2024331091025498112",
+              "start": 42,
+              "url": "https://t.co/2Yc4biv8lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024331103356735948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我感觉每一个女孩子都很漂亮，和一个女生认识久了我总能突然有一天发现她其实很漂亮 https://t.co/2Yc4biv8lD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 30,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T16:00:10.000Z",
+        "description": "祝你开心૮₍ ˊᗜˋ₎ა",
+        "id": "1653066707194515457",
+        "name": "咕噜咕噜",
+        "pinned_tweet_id": "2023362173574230035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022916827681296384/GYrCz5Uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 32,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 74
+        },
+        "username": "nicoleee0402",
+        "verified": false
+      }
+    ]
+  }
+}

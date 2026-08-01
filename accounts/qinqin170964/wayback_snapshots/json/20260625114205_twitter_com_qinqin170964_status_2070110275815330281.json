@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069702566481408000"
+      ],
+      "media_source_tweet_id": [
+        "2069702622530154848"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2070110275815330281",
+    "created_at": "2026-06-25T11:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070110275815330281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025829748904267777",
+          "start": 3,
+          "username": "iciiibal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sXXNakw7xU",
+          "end": 57,
+          "expanded_url": "https://x.com/iciiibal/status/2069702622530154848/video/1",
+          "media_key": "13_2069702566481408000",
+          "start": 34,
+          "url": "https://t.co/sXXNakw7xU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070110275815330281",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9645
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069702622530154848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @iciiibal: 지나가는 트친을 이유없이 핥아보세요 https://t.co/sXXNakw7xU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16133,
+        "height": 960,
+        "media_key": "13_2069702566481408000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069702566481408000/img/V2PAjGr0vhqyKA_b.jpg",
+        "public_metrics": {
+          "view_count": 176457
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069702566481408000/vid/avc1/320x426/yMB6HCiX8z0iQW5g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069702566481408000/vid/avc1/480x640/IHY-B0cNzQOP67V4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069702566481408000/vid/avc1/720x960/iIThGJh_ZQ2-z2r1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069702566481408000/pl/7ZhTmGNtNCV3ONLA.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069702566481408000"
+          ],
+          "media_source_tweet_id": [
+            "2069702622530154848"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2070110275815330281",
+        "created_at": "2026-06-25T11:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070110275815330281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025829748904267777",
+              "start": 3,
+              "username": "iciiibal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXXNakw7xU",
+              "end": 57,
+              "expanded_url": "https://x.com/iciiibal/status/2069702622530154848/video/1",
+              "media_key": "13_2069702566481408000",
+              "start": 34,
+              "url": "https://t.co/sXXNakw7xU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070110275815330281",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9645
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069702622530154848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @iciiibal: 지나가는 트친을 이유없이 핥아보세요 https://t.co/sXXNakw7xU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069702566481408000"
+          ]
+        },
+        "author_id": "2025829748904267777",
+        "conversation_id": "2069702622530154848",
+        "created_at": "2026-06-24T08:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069702622530154848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXXNakw7xU",
+              "end": 43,
+              "expanded_url": "https://x.com/iciiibal/status/2069702622530154848/video/1",
+              "media_key": "13_2069702566481408000",
+              "start": 20,
+              "url": "https://t.co/sXXNakw7xU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069702622530154848",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1945,
+          "impression_count": 738112,
+          "like_count": 25941,
+          "quote_count": 417,
+          "reply_count": 6,
+          "retweet_count": 9645
+        },
+        "reply_settings": "following",
+        "text": "지나가는 트친을 이유없이 핥아보세요 https://t.co/sXXNakw7xU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 43,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T07:07:15.000Z",
+        "description": "사이버 다이어리",
+        "id": "2025829748904267777",
+        "location": "멘션스루 고의 아닙니다 비팔알림🔕",
+        "name": "또요",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069709720894529536/9J4uui6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 643,
+          "like_count": 22384,
+          "listed_count": 3,
+          "media_count": 1097,
+          "tweet_count": 8062
+        },
+        "url": "",
+        "username": "iciiibal",
+        "verified": true
+      }
+    ]
+  }
+}

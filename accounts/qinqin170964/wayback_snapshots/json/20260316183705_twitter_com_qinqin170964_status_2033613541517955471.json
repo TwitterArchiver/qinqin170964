@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2033564104624070884",
+    "created_at": "2026-03-16T18:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033613541517955471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002861837885251585",
+          "start": 0,
+          "username": "yuzhiboxiaoke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033613541517955471",
+    "in_reply_to_user_id": "2002861837885251585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033608577026572330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhiboxiaoke 王者dd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2033564104624070884",
+        "created_at": "2026-03-16T18:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033613541517955471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2002861837885251585",
+              "start": 0,
+              "username": "yuzhiboxiaoke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033613541517955471",
+        "in_reply_to_user_id": "2002861837885251585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033608577026572330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhiboxiaoke 王者dd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002861837885251585",
+        "conversation_id": "2033564104624070884",
+        "created_at": "2026-03-16T18:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033608577026572330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033608577026572330",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033564104624070884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 一起玩吗 省标元流射手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 39,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T22:02:02.000Z",
+        "description": "笼中鸟何时飞",
+        "id": "2002861837885251585",
+        "name": "Xiaoke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032187650460041218/aaat1dNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "yuzhiboxiaoke",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2071246491113738367",
+    "created_at": "2026-07-01T16:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072360249210863693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "79551246",
+          "start": 0,
+          "username": "sazozo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072360249210863693",
+    "in_reply_to_user_id": "79551246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071246491113738367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sazozo0 太可爱了宝宝们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2071246349237182464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6LlKibYAAijzM.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2071246369294340096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6LmVQbUAA8m4x.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2071246491113738367",
+        "created_at": "2026-07-01T16:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072360249210863693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "79551246",
+              "start": 0,
+              "username": "sazozo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072360249210863693",
+        "in_reply_to_user_id": "79551246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071246491113738367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sazozo0 太可爱了宝宝们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071246349237182464",
+            "3_2071246369294340096"
+          ]
+        },
+        "author_id": "79551246",
+        "conversation_id": "2071246491113738367",
+        "created_at": "2026-06-28T14:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071246491113738367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dA4K4llBQ1",
+              "end": 46,
+              "expanded_url": "https://x.com/sazozo0/status/2071246491113738367/photo/1",
+              "media_key": "3_2071246349237182464",
+              "start": 23,
+              "url": "https://t.co/dA4K4llBQ1"
+            },
+            {
+              "display_url": "pic.x.com/dA4K4llBQ1",
+              "end": 46,
+              "expanded_url": "https://x.com/sazozo0/status/2071246491113738367/photo/1",
+              "media_key": "3_2071246369294340096",
+              "start": 23,
+              "url": "https://t.co/dA4K4llBQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071246491113738367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7482,
+          "impression_count": 2753916,
+          "like_count": 71290,
+          "quote_count": 878,
+          "reply_count": 143,
+          "retweet_count": 4939
+        },
+        "reply_settings": "everyone",
+        "text": "元気にミジのオタクやってるティルが見たいよぉ https://t.co/dA4K4llBQ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 47,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-03T19:53:54.000Z",
+        "description": "たまにお絵描きするけど腰が重い◆基本れぼでその他雑多に／最近👾🎤◆Sorry, I'm machine translating everything but Japanese.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=52091",
+                "start": 0,
+                "url": "https://t.co/VjfmzEj06I"
+              }
+            ]
+          }
+        },
+        "id": "79551246",
+        "name": "さざれ",
+        "pinned_tweet_id": "1708142833499328920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610288014542123009/8wyfrH2c_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48408,
+          "following_count": 246,
+          "like_count": 3982,
+          "listed_count": 160,
+          "media_count": 917,
+          "tweet_count": 51360
+        },
+        "url": "https://t.co/VjfmzEj06I",
+        "username": "sazozo0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024441972988268844",
+    "created_at": "2026-02-19T12:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T13:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024456070346023017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004977573332492288",
+          "start": 0,
+          "username": "gzi1068795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024456070346023017",
+    "in_reply_to_user_id": "2004977573332492288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024441972988268844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzi1068795 感觉是吃到什么东西会过敏吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024441972988268844",
+        "created_at": "2026-02-19T12:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024456070346023017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004977573332492288",
+              "start": 0,
+              "username": "gzi1068795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024456070346023017",
+        "in_reply_to_user_id": "2004977573332492288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024441972988268844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzi1068795 感觉是吃到什么东西会过敏吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004977573332492288",
+        "conversation_id": "2024441972988268844",
+        "created_at": "2026-02-19T11:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024441972988268844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024441972988268844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我吃寿司🍣舌头会麻？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 30,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/来这是为了搞同人 / 绘画练习中/男的别来烦我/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 176,
+          "like_count": 4580,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2139
+        },
+        "username": "gzi1068795",
+        "verified": false
+      }
+    ]
+  }
+}

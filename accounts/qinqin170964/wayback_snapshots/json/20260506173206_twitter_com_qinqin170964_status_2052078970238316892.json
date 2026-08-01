@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2051717729024143375",
+    "created_at": "2026-05-06T17:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052078970238316892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1474085787972997148",
+          "start": 0,
+          "username": "yumero_gaisaki"
+        },
+        {
+          "end": 30,
+          "id": "1667731761948917760",
+          "start": 16,
+          "username": "zong_eryanzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052078970238316892",
+    "in_reply_to_user_id": "1474085787972997148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051957571842695538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumero_gaisaki @zong_eryanzhi 漂亮女人在哪里。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2051717729024143375",
+        "created_at": "2026-05-06T17:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052078970238316892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1474085787972997148",
+              "start": 0,
+              "username": "yumero_gaisaki"
+            },
+            {
+              "end": 30,
+              "id": "1667731761948917760",
+              "start": 16,
+              "username": "zong_eryanzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052078970238316892",
+        "in_reply_to_user_id": "1474085787972997148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051957571842695538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumero_gaisaki @zong_eryanzhi 漂亮女人在哪里。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474085787972997148",
+        "conversation_id": "2051717729024143375",
+        "created_at": "2026-05-06T09:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051957571842695538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1667731761948917760",
+              "start": 0,
+              "username": "zong_eryanzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051957571842695538",
+        "in_reply_to_user_id": "1667731761948917760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2874,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051717729024143375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zong_eryanzhi 其實我覺得網戀開出漂亮女人几率非常高。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 53,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:33:50.000Z",
+        "description": "adachi gaisaki",
+        "id": "1474085787972997148",
+        "name": "安達 骸咲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996209380958814208/BaIfRhsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 4,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 207
+        },
+        "username": "yumero_gaisaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T03:13:59.000Z",
+        "description": "纯发牢骚废话 等待一个纯情处男",
+        "id": "1667731761948917760",
+        "name": "话说三遍淡如水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036837485888909312/BCfrjBM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 99,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 68
+        },
+        "username": "zong_eryanzhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2034786972699697366",
+    "created_at": "2026-03-20T02:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T03:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034814612580049403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992391597003255808",
+          "start": 0,
+          "username": "tiancaiG1ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034814612580049403",
+    "in_reply_to_user_id": "1992391597003255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034814481113690468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancaiG1ovo 我一直哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2034786972699697366",
+        "created_at": "2026-03-20T02:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034814612580049403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992391597003255808",
+              "start": 0,
+              "username": "tiancaiG1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034814612580049403",
+        "in_reply_to_user_id": "1992391597003255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034814481113690468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancaiG1ovo 我一直哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992391597003255808",
+        "conversation_id": "2034786972699697366",
+        "created_at": "2026-03-20T02:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034814481113690468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034814481113690468",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034786972699697366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 天呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/互关加wx私）女生互关私）男的私信骚扰我小心你全家/l背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2034138274990854395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 52,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T00:36:04.000Z",
+        "description": "叹息间是夜晚   求你们陪我玩https://t.co/faCvjYRwGd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aggg61398",
+                "end": 38,
+                "expanded_url": "http://ngl.link/aggg61398",
+                "start": 15,
+                "url": "https://t.co/faCvjYRwGd"
+              }
+            ]
+          }
+        },
+        "id": "1992391597003255808",
+        "name": "缺乏色彩的阿G",
+        "pinned_tweet_id": "2023360997323669963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023828770399072257/48Bij7r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 112,
+          "like_count": 6078,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1525
+        },
+        "username": "tiancaiG1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

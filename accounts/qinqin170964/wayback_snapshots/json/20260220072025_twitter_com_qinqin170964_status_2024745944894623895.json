@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024559907346022710",
+    "created_at": "2026-02-20T07:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T08:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024745944894623895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1970396131088838656",
+          "start": 0,
+          "username": "womoneyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024745944894623895",
+    "in_reply_to_user_id": "1970396131088838656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024745143828451693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@womoneyy 我支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024559907346022710",
+        "created_at": "2026-02-20T07:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024745944894623895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1970396131088838656",
+              "start": 0,
+              "username": "womoneyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024745944894623895",
+        "in_reply_to_user_id": "1970396131088838656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024745143828451693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@womoneyy 我支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970396131088838656",
+        "conversation_id": "2024559907346022710",
+        "created_at": "2026-02-20T07:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024745143828451693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024745143828451693",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024559907346022710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 想把仇人和蚊子关在一个房间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 49,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 26,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 32,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T07:53:54.000Z",
+        "description": "不约炮不卡泡｜🚪88｜私信只回口令｜祝大家天天开心",
+        "id": "1970396131088838656",
+        "name": "財神爺獨生女",
+        "pinned_tweet_id": "2024090917737799895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024374236324749312/3fJqAVmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 264
+        },
+        "username": "womoneyy",
+        "verified": false
+      }
+    ]
+  }
+}

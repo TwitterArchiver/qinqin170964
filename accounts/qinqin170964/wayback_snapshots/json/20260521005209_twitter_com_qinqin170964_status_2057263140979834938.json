@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2057069980408242191",
+    "created_at": "2026-05-21T00:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057263140979834938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054963834096406528",
+          "start": 0,
+          "username": "GeJiu634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057263140979834938",
+    "in_reply_to_user_id": "2054963834096406528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057193938931327246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeJiu634 不讲不讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2057069980408242191",
+        "created_at": "2026-05-21T00:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057263140979834938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054963834096406528",
+              "start": 0,
+              "username": "GeJiu634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057263140979834938",
+        "in_reply_to_user_id": "2054963834096406528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057193938931327246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeJiu634 不讲不讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054963834096406528",
+        "conversation_id": "2057069980408242191",
+        "created_at": "2026-05-20T20:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057193938931327246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057193938931327246",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057069980408242191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 许愿要去正规许愿池"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 52,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T16:35:56.000Z",
+        "description": "每天都重复同样的事 有点无聊",
+        "id": "2054963834096406528",
+        "name": "九歌",
+        "pinned_tweet_id": "2057178739050422525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056415540130856962/xTqSPmtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 43
+        },
+        "username": "GeJiu634",
+        "verified": false
+      }
+    ]
+  }
+}

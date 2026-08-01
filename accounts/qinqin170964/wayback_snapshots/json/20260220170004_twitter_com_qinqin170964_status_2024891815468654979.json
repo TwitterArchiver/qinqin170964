@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024872254098825239",
+    "created_at": "2026-02-20T17:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024891815468654979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992391597003255808",
+          "start": 0,
+          "username": "G13660193251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024891815468654979",
+    "in_reply_to_user_id": "1992391597003255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024887759920365990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G13660193251 我就这样吊儿郎当一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024872254098825239",
+        "created_at": "2026-02-20T17:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024891815468654979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992391597003255808",
+              "start": 0,
+              "username": "G13660193251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024891815468654979",
+        "in_reply_to_user_id": "1992391597003255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024887759920365990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G13660193251 我就这样吊儿郎当一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992391597003255808",
+        "conversation_id": "2024872254098825239",
+        "created_at": "2026-02-20T16:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024887759920365990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024887759920365990",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024872254098825239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 37步侧卧是对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 49,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 26,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 28,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T00:36:04.000Z",
+        "description": "叹息间是夜晚   求你们陪我玩https://t.co/faCvjYRwGd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aggg61398",
+                "end": 38,
+                "expanded_url": "http://ngl.link/aggg61398",
+                "start": 15,
+                "url": "https://t.co/faCvjYRwGd"
+              }
+            ]
+          }
+        },
+        "id": "1992391597003255808",
+        "name": "缺乏色彩的阿G",
+        "pinned_tweet_id": "2023360997323669963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023828770399072257/48Bij7r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 104,
+          "like_count": 3438,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1038
+        },
+        "username": "G13660193251",
+        "verified": false
+      }
+    ]
+  }
+}

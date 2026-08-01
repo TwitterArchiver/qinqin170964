@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036692944049360896"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2036692950684680254",
+    "created_at": "2026-03-25T06:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T07:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036692950684680254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSpFpRsppw",
+          "end": 36,
+          "expanded_url": "https://x.com/qinqin170964/status/2036692950684680254/photo/1",
+          "media_key": "3_2036692944049360896",
+          "start": 13,
+          "url": "https://t.co/PSpFpRsppw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036692950684680254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人现生每天三种状态一览 https://t.co/PSpFpRsppw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2036692944049360896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPJcRabUAAq4mI.jpg",
+        "width": 1861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036692944049360896"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2036692950684680254",
+        "created_at": "2026-03-25T06:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036692950684680254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSpFpRsppw",
+              "end": 36,
+              "expanded_url": "https://x.com/qinqin170964/status/2036692950684680254/photo/1",
+              "media_key": "3_2036692944049360896",
+              "start": 13,
+              "url": "https://t.co/PSpFpRsppw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036692950684680254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人现生每天三种状态一览 https://t.co/PSpFpRsppw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/互关加wx私）女生互关私）男的私信骚扰我小心你全家/l背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2035910352299511905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 57,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

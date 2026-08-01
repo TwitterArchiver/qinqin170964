@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2069852236973219964",
+    "created_at": "2026-06-25T11:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070111133550444884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1999161935875428352",
+          "start": 0,
+          "username": "PlzNoFare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070111133550444884",
+    "in_reply_to_user_id": "1999161935875428352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069852236973219964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlzNoFare 一直在挑衅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2069852232565104640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmXo5OXoAAeteq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2069852236973219964",
+        "created_at": "2026-06-25T11:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070111133550444884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1999161935875428352",
+              "start": 0,
+              "username": "PlzNoFare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070111133550444884",
+        "in_reply_to_user_id": "1999161935875428352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069852236973219964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlzNoFare 一直在挑衅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069852232565104640"
+          ]
+        },
+        "author_id": "1999161935875428352",
+        "conversation_id": "2069852236973219964",
+        "created_at": "2026-06-24T18:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069852236973219964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUsuhh9f9G",
+              "end": 44,
+              "expanded_url": "https://x.com/PlzNoFare/status/2069852236973219964/photo/1",
+              "media_key": "3_2069852232565104640",
+              "start": 21,
+              "url": "https://t.co/CUsuhh9f9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069852236973219964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4910,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小人机我忍你很久了 在我评论区拉屎啥意思 https://t.co/CUsuhh9f9G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 42,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T17:00:56.000Z",
+        "description": "谢谢你喜欢我 虽然这是你应该做的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/plznofare",
+                "end": 23,
+                "expanded_url": "https://ngl.link/plznofare",
+                "start": 0,
+                "url": "https://t.co/ggtDqaXdrE"
+              }
+            ]
+          }
+        },
+        "id": "1999161935875428352",
+        "location": "🇬🇧",
+        "name": "禁止发热",
+        "pinned_tweet_id": "2057276967653638149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999164161431896064/JyH2A1uS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 115,
+          "like_count": 5066,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/ggtDqaXdrE",
+        "username": "PlzNoFare",
+        "verified": true
+      }
+    ]
+  }
+}

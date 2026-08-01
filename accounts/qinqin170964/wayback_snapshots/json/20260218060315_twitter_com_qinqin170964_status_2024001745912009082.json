@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2023962129657983047",
+    "created_at": "2026-02-18T06:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024001745912009082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992391597003255808",
+          "start": 0,
+          "username": "G13660193251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024001745912009082",
+    "in_reply_to_user_id": "1992391597003255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023997332216512732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G13660193251 不要爬着爬着在山上睡着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2023962129657983047",
+        "created_at": "2026-02-18T06:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024001745912009082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992391597003255808",
+              "start": 0,
+              "username": "G13660193251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024001745912009082",
+        "in_reply_to_user_id": "1992391597003255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023997332216512732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G13660193251 不要爬着爬着在山上睡着了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992391597003255808",
+        "conversation_id": "2023962129657983047",
+        "created_at": "2026-02-18T05:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023997332216512732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023997332216512732",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023996724772303232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 被拉出来吃完饭更困了😢诶下阶段是爬山怎么都困不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Kowloon, Kowloon City, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.18333,
+                  22.31667
+                ],
+                "type": "Point"
+              },
+              "locality": "Kowloon",
+              "region": "Kowloon City"
+            }
+          ]
+        },
+        "description": "来看点让人心情愉悦的/+🛰️私我只扩互关/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 48,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 25,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T00:36:04.000Z",
+        "description": "叹息间是夜晚",
+        "id": "1992391597003255808",
+        "name": "缺乏色彩的阿G",
+        "pinned_tweet_id": "2023360997323669963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023828770399072257/48Bij7r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 101,
+          "like_count": 2531,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 842
+        },
+        "username": "G13660193251",
+        "verified": false
+      }
+    ]
+  }
+}

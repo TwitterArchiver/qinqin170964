@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2067777178880901480",
+    "created_at": "2026-06-19T20:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068073404809519112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "895865440404033538",
+          "start": 0,
+          "username": "IAmBleeding_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068073404809519112",
+    "in_reply_to_user_id": "895865440404033538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067777178880901480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IAmBleeding_ 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2067777178880901480",
+        "created_at": "2026-06-19T20:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068073404809519112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "895865440404033538",
+              "start": 0,
+              "username": "IAmBleeding_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068073404809519112",
+        "in_reply_to_user_id": "895865440404033538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067777178880901480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IAmBleeding_ 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "895865440404033538",
+        "conversation_id": "2067777178880901480",
+        "created_at": "2026-06-19T01:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067777178880901480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067777178880901480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7845,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我对于这些能记得住擦边肌肉男ID的人很神奇 这玩意不是刷到了顺手点个关注然后马不停蹄继续刷下一个吗\n谁会特意喜欢一个擦边男 毕竟网络上每天都会有一堆新人让你看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 43,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-11T04:32:20.000Z",
+        "description": "Witness me",
+        "id": "895865440404033538",
+        "name": "亚洲魅力女孩儿",
+        "pinned_tweet_id": "1973673906180591784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048944295005294592/gJD4fMyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 455,
+          "like_count": 3547,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1010
+        },
+        "url": "",
+        "username": "IAmBleeding_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2077762634104053783",
+    "created_at": "2026-07-16T15:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077783103754674306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1779854230175817728",
+          "start": 0,
+          "username": "YbyyWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077783103754674306",
+    "in_reply_to_user_id": "1779854230175817728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077762634104053783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YbyyWg 我每次看评论就这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2077762634104053783",
+        "created_at": "2026-07-16T15:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077783103754674306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1779854230175817728",
+              "start": 0,
+              "username": "YbyyWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077783103754674306",
+        "in_reply_to_user_id": "1779854230175817728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077762634104053783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YbyyWg 我每次看评论就这样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779854230175817728",
+        "conversation_id": "2077762634104053783",
+        "created_at": "2026-07-16T14:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077762634104053783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077762634104053783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兴高采烈的点进一条有趣的推特，想看到大家讨论，结果一看都是人机气死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 53,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 844
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T12:48:22.000Z",
+        "description": "垃圾桶",
+        "id": "1779854230175817728",
+        "name": "幸福降临",
+        "pinned_tweet_id": "2048619816039440762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833287159329275904/PdXsNcjK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 77,
+          "like_count": 901,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "YbyyWg",
+        "verified": false
+      }
+    ]
+  }
+}

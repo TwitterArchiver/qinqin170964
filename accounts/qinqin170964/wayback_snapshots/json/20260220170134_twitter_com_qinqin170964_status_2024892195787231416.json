@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024887854909063598",
+    "created_at": "2026-02-20T17:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024892195787231416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952302490218831872",
+          "start": 0,
+          "username": "cooulaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024892195787231416",
+    "in_reply_to_user_id": "1952302490218831872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024887854909063598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cooulaaa 我也是。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024887854909063598",
+        "created_at": "2026-02-20T17:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024892195787231416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952302490218831872",
+              "start": 0,
+              "username": "cooulaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024892195787231416",
+        "in_reply_to_user_id": "1952302490218831872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024887854909063598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cooulaaa 我也是。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952302490218831872",
+        "conversation_id": "2024887854909063598",
+        "created_at": "2026-02-20T16:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024887854909063598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024887854909063598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被我特别害怕我发一些很色情的东西然后被我互关的可爱小女孩讨厌…\n我想开个小号搞黄但是我的邮箱都被占了用不了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 49,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 26,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 28,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:36:11.000Z",
+        "description": "草履虫的日记本or朋友圈｜完全话痨｜暴露癖。｜不线下 除非喜欢的人｜许愿一个大奶肌肉黑框眼镜纯情小处男ᗜ𐃷ᗜ˶ಣ｜提问箱👉https://t.co/RBn9R5a4wy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8D%89%E5%B…",
+                "end": 84,
+                "expanded_url": "https://ngl.link/%E8%8D%89%E5%B1%A5%E8%99%AB",
+                "start": 61,
+                "url": "https://t.co/RBn9R5a4wy"
+              }
+            ]
+          }
+        },
+        "id": "1952302490218831872",
+        "location": "有🚪",
+        "name": "忧郁萌神草履虫",
+        "pinned_tweet_id": "2021942519559565621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018169323169415168/PM-Vm_1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 162,
+          "like_count": 236,
+          "listed_count": 9,
+          "media_count": 89,
+          "tweet_count": 386
+        },
+        "username": "cooulaaa",
+        "verified": false
+      }
+    ]
+  }
+}

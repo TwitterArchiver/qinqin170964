@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2063515695950999660",
+    "created_at": "2026-06-07T10:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063565034970825140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037614188256776192",
+          "start": 0,
+          "username": "gezi_loveMomoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063565034970825140",
+    "in_reply_to_user_id": "2037614188256776192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063515695950999660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gezi_loveMomoki 我也想过她这种生活"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063515682306945024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMUlIBacAAJFGd.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2063515695950999660",
+        "created_at": "2026-06-07T10:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063565034970825140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037614188256776192",
+              "start": 0,
+              "username": "gezi_loveMomoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063565034970825140",
+        "in_reply_to_user_id": "2037614188256776192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063515695950999660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gezi_loveMomoki 我也想过她这种生活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063515682306945024"
+          ]
+        },
+        "author_id": "2037614188256776192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063515695950999660",
+        "created_at": "2026-06-07T06:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063515695950999660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtH52qdkdu",
+              "end": 60,
+              "expanded_url": "https://x.com/gezi_loveMomoki/status/2063515695950999660/photo/1",
+              "media_key": "3_2063515682306945024",
+              "start": 37,
+              "url": "https://t.co/wtH52qdkdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063515695950999660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1102,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好爽啊，好爽，我也想过上这种生活，我看她好久了，不用上班，一个人住爽飞了 https://t.co/wtH52qdkdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 52,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T19:34:29.000Z",
+        "description": "大号被封了就在这说话了，乙代梦全肯定，本号禁腐禁㽖禁rn禁rh，隐私账号不要关注我，只支持染色体为xx且心理认同为女的女孩",
+        "id": "2037614188256776192",
+        "location": "520",
+        "name": "鸽子",
+        "pinned_tweet_id": "2050509168910733742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037614374270255104/W_C1e1eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 160,
+          "like_count": 5178,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 2463
+        },
+        "username": "gezi_loveMomoki",
+        "verified": false
+      }
+    ]
+  }
+}

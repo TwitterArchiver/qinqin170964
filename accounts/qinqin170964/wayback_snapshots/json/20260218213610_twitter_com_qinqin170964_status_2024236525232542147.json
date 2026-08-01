@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024236511328337921"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024236525232542147",
+    "created_at": "2026-02-18T21:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T22:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024236525232542147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/86HBU9FSET",
+          "end": 23,
+          "expanded_url": "https://x.com/qinqin170964/status/2024236525232542147/photo/1",
+          "media_key": "3_2024236511328337921",
+          "start": 0,
+          "url": "https://t.co/86HBU9FSET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024236525232542147",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/86HBU9FSET"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2024236511328337921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBeIYdcaAAEckRu.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024236511328337921"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024236525232542147",
+        "created_at": "2026-02-18T21:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T22:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024236525232542147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86HBU9FSET",
+              "end": 23,
+              "expanded_url": "https://x.com/qinqin170964/status/2024236525232542147/photo/1",
+              "media_key": "3_2024236511328337921",
+              "start": 0,
+              "url": "https://t.co/86HBU9FSET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024236525232542147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/86HBU9FSET"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Kowloon, Kowloon City, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.18333,
+                  22.31667
+                ],
+                "type": "Point"
+              },
+              "locality": "Kowloon",
+              "region": "Kowloon City"
+            }
+          ]
+        },
+        "description": "来看点让人心情愉悦的/+🛰️私我只扩互关/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 48,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 25,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 26,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

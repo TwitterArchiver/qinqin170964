@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2069733411485577369",
+    "created_at": "2026-06-25T11:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070113728721555549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424401401904451585",
+          "start": 0,
+          "username": "noperlove8meish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070113728721555549",
+    "in_reply_to_user_id": "1424401401904451585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069733411485577369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noperlove8meish 好美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6505,
+        "height": 1280,
+        "media_key": "13_2069733294250561537",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069733294250561537/img/viS2Cod2TY2aUtZM.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069733294250561537/vid/avc1/320x568/O2nSmVgAJPQGJoRy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069733294250561537/vid/avc1/480x852/NFASfXdL3eKgabE7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069733294250561537/vid/avc1/720x1280/fUl9G17DHQcDcdo3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069733294250561537/pl/sRW5UTPVJgi6utVG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2069733411485577369",
+        "created_at": "2026-06-25T11:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070113728721555549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424401401904451585",
+              "start": 0,
+              "username": "noperlove8meish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070113728721555549",
+        "in_reply_to_user_id": "1424401401904451585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069733411485577369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noperlove8meish 好美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069733294250561537"
+          ]
+        },
+        "author_id": "1424401401904451585",
+        "conversation_id": "2069733411485577369",
+        "created_at": "2026-06-24T10:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069733411485577369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2FFgnUsmr",
+              "end": 23,
+              "expanded_url": "https://x.com/noperlove8meish/status/2069733411485577369/video/1",
+              "media_key": "13_2069733294250561537",
+              "start": 0,
+              "url": "https://t.co/m2FFgnUsmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069733411485577369",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m2FFgnUsmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 42,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T16:05:42.000Z",
+        "description": "目标是成为一个不高不低不好不坏的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nobudo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nobudo",
+                "start": 0,
+                "url": "https://t.co/lXte4VSY8w"
+              }
+            ]
+          }
+        },
+        "id": "1424401401904451585",
+        "name": "nobido",
+        "pinned_tweet_id": "2028443728357285962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899003148225888256/frUVYAdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 118,
+          "like_count": 8847,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/lXte4VSY8w",
+        "username": "noperlove8meish",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020698642609512450"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2020698648225701896",
+    "created_at": "2026-02-09T03:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T04:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020698648225701896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WFEAwcySdK",
+          "end": 41,
+          "expanded_url": "https://x.com/qinqin170964/status/2020698648225701896/photo/1",
+          "media_key": "3_2020698642609512450",
+          "start": 18,
+          "url": "https://t.co/WFEAwcySdK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020698648225701896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的对象到底去哪里了，后任快跑起来 https://t.co/WFEAwcySdK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2020698642609512450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAr2tZbaoAIpQpa.jpg",
+        "width": 763
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020698642609512450"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2020698648225701896",
+        "created_at": "2026-02-09T03:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020698648225701896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WFEAwcySdK",
+              "end": 41,
+              "expanded_url": "https://x.com/qinqin170964/status/2020698648225701896/photo/1",
+              "media_key": "3_2020698642609512450",
+              "start": 18,
+              "url": "https://t.co/WFEAwcySdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020698648225701896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的对象到底去哪里了，后任快跑起来 https://t.co/WFEAwcySdK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "双｜来看点让人心情愉悦的",
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002439042634559491/oYhxdNgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

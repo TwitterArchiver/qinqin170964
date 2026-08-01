@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025608664565108736"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2025608670915281180",
+    "created_at": "2026-02-22T16:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025608670915281180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uAPLwOPg6g",
+          "end": 78,
+          "expanded_url": "https://x.com/qinqin170964/status/2025608670915281180/photo/1",
+          "media_key": "3_2025608664565108736",
+          "start": 55,
+          "url": "https://t.co/uAPLwOPg6g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025608670915281180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被我这种人缠上 是不是很可爱 是不是很无奈 是不是很享受 是不是有时候很想我 是不是后悔没有早点开口和我说话 https://t.co/uAPLwOPg6g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2025608664565108736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxoWSlbUAAPGAh.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025608664565108736"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2025608670915281180",
+        "created_at": "2026-02-22T16:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025608670915281180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uAPLwOPg6g",
+              "end": 78,
+              "expanded_url": "https://x.com/qinqin170964/status/2025608670915281180/photo/1",
+              "media_key": "3_2025608664565108736",
+              "start": 55,
+              "url": "https://t.co/uAPLwOPg6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025608670915281180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被我这种人缠上 是不是很可爱 是不是很无奈 是不是很享受 是不是有时候很想我 是不是后悔没有早点开口和我说话 https://t.co/uAPLwOPg6g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 60,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 37,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 28,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2064021205984960652",
+    "created_at": "2026-06-10T02:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064534731337941230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979304917652377601",
+          "start": 0,
+          "username": "anchen2077"
+        },
+        {
+          "end": 25,
+          "id": "1860306063637282816",
+          "start": 12,
+          "username": "lunarain0810"
+        },
+        {
+          "end": 34,
+          "id": "1691735155856265216",
+          "start": 26,
+          "username": "kunli77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064534731337941230",
+    "in_reply_to_user_id": "1979304917652377601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064507284001276178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anchen2077 @lunarain0810 @kunli77 贱蝻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2064021205984960652",
+        "created_at": "2026-06-10T02:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064534731337941230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979304917652377601",
+              "start": 0,
+              "username": "anchen2077"
+            },
+            {
+              "end": 25,
+              "id": "1860306063637282816",
+              "start": 12,
+              "username": "lunarain0810"
+            },
+            {
+              "end": 34,
+              "id": "1691735155856265216",
+              "start": 26,
+              "username": "kunli77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064534731337941230",
+        "in_reply_to_user_id": "1979304917652377601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064507284001276178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anchen2077 @lunarain0810 @kunli77 贱蝻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979304917652377601",
+        "conversation_id": "2064021205984960652",
+        "created_at": "2026-06-10T00:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064507284001276178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860306063637282816",
+              "start": 0,
+              "username": "lunarain0810"
+            },
+            {
+              "end": 22,
+              "id": "1691735155856265216",
+              "start": 14,
+              "username": "kunli77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064507284001276178",
+        "in_reply_to_user_id": "1860306063637282816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064310697706787113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lunarain0810 @kunli77 比黑木耳好太多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 43,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:54:07.000Z",
+        "description": "日常辱女！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhaodibisi.com",
+                "end": 23,
+                "expanded_url": "http://www.zhaodibisi.com",
+                "start": 0,
+                "url": "https://t.co/6Q1Q9amAjl"
+              }
+            ]
+          }
+        },
+        "id": "1979304917652377601",
+        "location": "招娣的头上",
+        "name": "遇到困难睡大觉",
+        "pinned_tweet_id": "2062443087465714121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058341226534039552/G29Vc7_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 312,
+          "like_count": 4411,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/6Q1Q9amAjl",
+        "username": "anchen2077",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T12:55:19.000Z",
+        "description": "",
+        "id": "1860306063637282816",
+        "name": "Lunarain_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058579164823969793/GUskEwen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 51,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "lunarain0810",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T08:54:42.000Z",
+        "description": "发推只是为了发泄",
+        "id": "1691735155856265216",
+        "name": "困梨",
+        "pinned_tweet_id": "2033574442492932270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011152701481222144/Leqk47I-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 95,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 236
+        },
+        "username": "kunli77",
+        "verified": false
+      }
+    ]
+  }
+}

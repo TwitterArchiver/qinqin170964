@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024464600838918498",
+    "created_at": "2026-02-19T15:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024511896561606748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824147976509591556",
+          "start": 0,
+          "username": "ovo520puppy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024511896561606748",
+    "in_reply_to_user_id": "1824147976509591556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024464600838918498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovo520puppy1 简直就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024464600838918498",
+        "created_at": "2026-02-19T15:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024511896561606748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824147976509591556",
+              "start": 0,
+              "username": "ovo520puppy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024511896561606748",
+        "in_reply_to_user_id": "1824147976509591556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024464600838918498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo520puppy1 简直就是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824147976509591556",
+        "conversation_id": "2024464600838918498",
+        "created_at": "2026-02-19T12:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024464600838918498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024464600838918498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3703,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想做爱但是没恋人 又不想接受炮友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 30,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T18:16:27.000Z",
+        "description": "🚪 88普通，解锁推上没有的新图钱和视频，偶尔掉落新图（不开朋友圈）/188解锁朋友圈可看照片比较粘人/",
+        "id": "1824147976509591556",
+        "location": "在你心里 现实一个屌丝请不要把我乱发也别扒",
+        "name": "哭哭狗",
+        "pinned_tweet_id": "1994804891194462687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845337981307043852/OcZ3lIgE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3674,
+          "following_count": 94,
+          "like_count": 688,
+          "listed_count": 31,
+          "media_count": 62,
+          "tweet_count": 442
+        },
+        "username": "ovo520puppy1",
+        "verified": false
+      }
+    ]
+  }
+}

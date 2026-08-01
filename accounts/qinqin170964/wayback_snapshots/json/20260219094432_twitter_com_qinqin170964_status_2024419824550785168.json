@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2023821136195453129",
+    "created_at": "2026-02-19T09:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024419824550785168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "noway4777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024419824550785168",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023821136195453129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noway4777 年上加油。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2023821136195453129",
+        "created_at": "2026-02-19T09:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024419824550785168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "noway4777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024419824550785168",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023821136195453129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noway4777 年上加油。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979251596501618688",
+        "conversation_id": "2023821136195453129",
+        "created_at": "2026-02-17T18:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023821136195453129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023821136195453129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1673,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再过二十年我依旧爱年上………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 28,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "你好可爱",
+        "id": "1979251596501618688",
+        "name": "欺负一只兔子",
+        "pinned_tweet_id": "2016710002405511479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022621187499790336/NgOoXyJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 103,
+          "like_count": 12007,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 5110
+        },
+        "username": "noway4777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2079259408249299227",
+    "created_at": "2026-07-20T17:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079261329479922007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992391597003255808",
+          "start": 0,
+          "username": "tiancaiG1ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079261329479922007",
+    "in_reply_to_user_id": "1992391597003255808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079259408249299227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancaiG1ovo 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2079259408249299227",
+        "created_at": "2026-07-20T17:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079261329479922007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992391597003255808",
+              "start": 0,
+              "username": "tiancaiG1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079261329479922007",
+        "in_reply_to_user_id": "1992391597003255808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079259408249299227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancaiG1ovo 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992391597003255808",
+        "conversation_id": "2079259408249299227",
+        "created_at": "2026-07-20T17:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079259408249299227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079259408249299227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我果然还是不止一点缺关注吧嗯，我的双相别发了求求了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 52,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T00:36:04.000Z",
+        "description": "叹息间是夜晚   求你们陪我玩https://t.co/faCvjYRwGd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aggg61398",
+                "end": 38,
+                "expanded_url": "http://ngl.link/aggg61398",
+                "start": 15,
+                "url": "https://t.co/faCvjYRwGd"
+              }
+            ]
+          }
+        },
+        "id": "1992391597003255808",
+        "name": "缺乏色彩的阿G",
+        "pinned_tweet_id": "2023360997323669963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069799482020024321/0k8d_hmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 110,
+          "like_count": 7913,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 2121
+        },
+        "url": "",
+        "username": "tiancaiG1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

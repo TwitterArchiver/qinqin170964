@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2034170939949412616",
+    "created_at": "2026-03-18T07:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T08:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034172355422130585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031977894889865219",
+          "start": 0,
+          "username": "strong13799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034172355422130585",
+    "in_reply_to_user_id": "2031977894889865219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034170939949412616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strong13799 妈妈妈妈妈妈妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11794,
+        "height": 1280,
+        "media_key": "7_2034170907208687616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2034170907208687616/pu/img/V_UhO9FZeSXc66At.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034170907208687616/pu/vid/avc1/320x568/5Vu8LLlR5urrrOPf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034170907208687616/pu/vid/avc1/480x852/DwTHBeedpz2tMGaA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034170907208687616/pu/vid/avc1/720x1280/2r5lEc4Wq5T8jP7p.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2034170907208687616/pu/pl/6o2dpKr16306UAuO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2034170939949412616",
+        "created_at": "2026-03-18T07:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034172355422130585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031977894889865219",
+              "start": 0,
+              "username": "strong13799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034172355422130585",
+        "in_reply_to_user_id": "2031977894889865219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034170939949412616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strong13799 妈妈妈妈妈妈妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2034170907208687616"
+          ]
+        },
+        "author_id": "2031977894889865219",
+        "conversation_id": "2034170939949412616",
+        "created_at": "2026-03-18T07:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034170939949412616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "cos"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "妈妈"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eL0jVTMxey",
+              "end": 47,
+              "expanded_url": "https://x.com/strong13799/status/2034170939949412616/video/1",
+              "media_key": "7_2034170907208687616",
+              "start": 24,
+              "url": "https://t.co/eL0jVTMxey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034170939949412616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打野最权威的妈妈来了 #cos #妈妈 #反差 https://t.co/eL0jVTMxey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/互关加wx私）女生互关私）男的私信骚扰我小心你全家/l背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 48,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T06:17:49.000Z",
+        "description": "乌萨奇666",
+        "id": "2031977894889865219",
+        "name": ".坏兔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031979219945996290/Cka4-hIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 44,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 91
+        },
+        "username": "strong13799",
+        "verified": false
+      }
+    ]
+  }
+}

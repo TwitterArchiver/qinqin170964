@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2033247733541392588",
+    "created_at": "2026-03-16T06:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033429657409007915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027452087488106496",
+          "start": 0,
+          "username": "JaseTemple44244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033429657409007915",
+    "in_reply_to_user_id": "2027452087488106496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033424570896801890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JaseTemple44244 法的还有你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2033247733541392588",
+        "created_at": "2026-03-16T06:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033429657409007915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027452087488106496",
+              "start": 0,
+              "username": "JaseTemple44244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033429657409007915",
+        "in_reply_to_user_id": "2027452087488106496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033424570896801890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JaseTemple44244 法的还有你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027452087488106496",
+        "conversation_id": "2033247733541392588",
+        "created_at": "2026-03-16T06:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033424570896801890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033424570896801890",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033247733541392588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 ⌚🥦\n☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 41,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T18:33:46.000Z",
+        "description": "小号（私信受限制），要福利🈷私信聊天号\n@chihiro20091201",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "chihiro20091201"
+              }
+            ]
+          }
+        },
+        "id": "2027452087488106496",
+        "location": "距离你4.5公里",
+        "name": "Claire🏠女大找同城炮友🏠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033425048175030272/3dJxCFjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "JaseTemple44244",
+        "verified": false
+      }
+    ]
+  }
+}

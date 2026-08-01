@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2023596795977494883",
+    "created_at": "2026-02-17T03:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T04:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023596795977494883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1229440357760241665",
+          "start": 3,
+          "username": "qiaoqiao147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023596795977494883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022691729246437660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiaoqiao147: 有没有可能有的人她就是喜欢搞黄色，她的身材很曼妙想展示给别人看看，很难理解吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2023596795977494883",
+        "created_at": "2026-02-17T03:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023596795977494883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1229440357760241665",
+              "start": 3,
+              "username": "qiaoqiao147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023596795977494883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022691729246437660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiaoqiao147: 有没有可能有的人她就是喜欢搞黄色，她的身材很曼妙想展示给别人看看，很难理解吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229440357760241665",
+        "conversation_id": "2022691729246437660",
+        "created_at": "2026-02-14T15:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022691729246437660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022691729246437660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 150988,
+          "like_count": 872,
+          "quote_count": 6,
+          "reply_count": 58,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "有没有可能有的人她就是喜欢搞黄色，她的身材很曼妙想展示给别人看看，很难理解吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Kowloon, Kowloon City, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.18333,
+                  22.31667
+                ],
+                "type": "Point"
+              },
+              "locality": "Kowloon",
+              "region": "Kowloon City"
+            }
+          ]
+        },
+        "description": "来看点让人心情愉悦的",
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 34,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T16:20:21.000Z",
+        "description": "不加好友丨互联网女菩萨丨不会索要财物丨无tg丨注意防骗丨自娱自乐感谢关注",
+        "id": "1229440357760241665",
+        "location": "与君同舟",
+        "name": "乔乔",
+        "pinned_tweet_id": "1935979340786979288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465214093611069445/hnZwCOQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108344,
+          "following_count": 131,
+          "like_count": 3278,
+          "listed_count": 364,
+          "media_count": 974,
+          "tweet_count": 2893
+        },
+        "username": "qiaoqiao147",
+        "verified": false
+      }
+    ]
+  }
+}

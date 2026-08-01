@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024538195313250553",
+    "created_at": "2026-02-19T17:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024541558444638481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673394046503616512",
+          "start": 0,
+          "username": "brohungryasfuck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024541558444638481",
+    "in_reply_to_user_id": "1673394046503616512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024538195313250553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brohungryasfuck 我将挨个亲吻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2024538187843108864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiawWCaAAA23EN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024538195313250553",
+        "created_at": "2026-02-19T17:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024541558444638481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673394046503616512",
+              "start": 0,
+              "username": "brohungryasfuck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024541558444638481",
+        "in_reply_to_user_id": "1673394046503616512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024538195313250553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brohungryasfuck 我将挨个亲吻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024538187843108864"
+          ]
+        },
+        "author_id": "1673394046503616512",
+        "conversation_id": "2024538195313250553",
+        "created_at": "2026-02-19T17:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024538195313250553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bfwAlnDeh",
+              "end": 44,
+              "expanded_url": "https://x.com/brohungryasfuck/status/2024538195313250553/photo/1",
+              "media_key": "3_2024538187843108864",
+              "start": 21,
+              "url": "https://t.co/7bfwAlnDeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024538195313250553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天所有猫竟然整整齐齐躺在一起睡觉，感动 https://t.co/7bfwAlnDeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 29,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T18:13:35.000Z",
+        "description": "I hope you explode  本体：@weirdfisheeees仅互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "weirdfisheeees"
+              }
+            ]
+          }
+        },
+        "id": "1673394046503616512",
+        "location": "Here, there and everywhere ",
+        "name": "奇怪鱼鱼",
+        "pinned_tweet_id": "1974528041432019080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782746425539072000/Q0v8ZNB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21476,
+          "following_count": 790,
+          "like_count": 27620,
+          "listed_count": 69,
+          "media_count": 892,
+          "tweet_count": 4008
+        },
+        "username": "brohungryasfuck",
+        "verified": false
+      }
+    ]
+  }
+}

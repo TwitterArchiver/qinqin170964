@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2048816047583789173",
+    "created_at": "2026-04-28T06:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049007280193233381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1970840268384727040",
+          "start": 0,
+          "username": "biekanwo555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049007280193233381",
+    "in_reply_to_user_id": "1970840268384727040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048955607139373081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biekanwo555 那叫流泪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2048816047583789173",
+        "created_at": "2026-04-28T06:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049007280193233381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970840268384727040",
+              "start": 0,
+              "username": "biekanwo555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049007280193233381",
+        "in_reply_to_user_id": "1970840268384727040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048955607139373081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biekanwo555 那叫流泪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970840268384727040",
+        "conversation_id": "2048816047583789173",
+        "created_at": "2026-04-28T02:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048955607139373081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048955607139373081",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048816047583789173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 我眼睛尿尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 55,
+          "like_count": 175,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T13:18:44.000Z",
+        "description": "🇨🇦加东 有🚪私信只回入🚪\n碎碎念：@buyaoshijianwo1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "buyaoshijianwo1"
+              }
+            ]
+          }
+        },
+        "id": "1970840268384727040",
+        "name": "用户2591648617",
+        "pinned_tweet_id": "2048420231568113940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970840968346644481/w9mcibgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 27,
+          "like_count": 425,
+          "listed_count": 30,
+          "media_count": 85,
+          "tweet_count": 219
+        },
+        "username": "biekanwo555",
+        "verified": false
+      }
+    ]
+  }
+}

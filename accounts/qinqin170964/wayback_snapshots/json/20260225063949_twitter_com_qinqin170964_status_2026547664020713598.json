@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2026541033157480698",
+    "created_at": "2026-02-25T06:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T07:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026547664020713598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1921834036278009856",
+          "start": 0,
+          "username": "nebe2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026547664020713598",
+    "in_reply_to_user_id": "1921834036278009856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026544744545812951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nebe2x hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2026541033157480698",
+        "created_at": "2026-02-25T06:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026547664020713598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1921834036278009856",
+              "start": 0,
+              "username": "nebe2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026547664020713598",
+        "in_reply_to_user_id": "1921834036278009856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026544744545812951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nebe2x hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921834036278009856",
+        "conversation_id": "2026541033157480698",
+        "created_at": "2026-02-25T06:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026544744545812951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026544744545812951",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026541033157480698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 hello"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 33,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:45:26.000Z",
+        "description": "",
+        "id": "1921834036278009856",
+        "name": "买了否冷有点懵逼有点累",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015719312997441536/_r5GTKG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 42,
+          "like_count": 5473,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 3415
+        },
+        "username": "nebe2x",
+        "verified": false
+      }
+    ]
+  }
+}

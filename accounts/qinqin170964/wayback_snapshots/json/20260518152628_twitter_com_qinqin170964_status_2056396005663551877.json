@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2056383856799097323",
+    "created_at": "2026-05-18T15:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056396005663551877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983169726596726784",
+          "start": 0,
+          "username": "Lilium0413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056396005663551877",
+    "in_reply_to_user_id": "1983169726596726784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056393310735053140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lilium0413 三文鱼震撼美味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2056383856799097323",
+        "created_at": "2026-05-18T15:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056396005663551877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983169726596726784",
+              "start": 0,
+              "username": "Lilium0413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056396005663551877",
+        "in_reply_to_user_id": "1983169726596726784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056393310735053140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lilium0413 三文鱼震撼美味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983169726596726784",
+        "conversation_id": "2056383856799097323",
+        "created_at": "2026-05-18T15:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056393310735053140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056393310735053140",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056383856799097323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 不好我上当了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 52,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T13:54:24.000Z",
+        "description": "你好呀这里是宥伢感谢你的喜欢👾🚪52/88/188/520/888防丢小号@Lilium87654321",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Lilium87654321"
+              }
+            ]
+          }
+        },
+        "id": "1983169726596726784",
+        "location": "距离你的心5.2km",
+        "name": "Lilium",
+        "pinned_tweet_id": "2033979917524996277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026724977765191680/rSgOq0uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 21,
+          "like_count": 4121,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 349
+        },
+        "username": "Lilium0413",
+        "verified": false
+      }
+    ]
+  }
+}

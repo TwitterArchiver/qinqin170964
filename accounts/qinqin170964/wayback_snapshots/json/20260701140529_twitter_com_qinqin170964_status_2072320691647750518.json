@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2072215841891094818",
+    "created_at": "2026-07-01T14:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072320691647750518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1851320794586177536",
+          "start": 0,
+          "username": "n_vrmine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072320691647750518",
+    "in_reply_to_user_id": "1851320794586177536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072316556982587623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_vrmine 我会反复打开聊天界面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2072215841891094818",
+        "created_at": "2026-07-01T14:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072320691647750518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1851320794586177536",
+              "start": 0,
+              "username": "n_vrmine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072320691647750518",
+        "in_reply_to_user_id": "1851320794586177536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072316556982587623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_vrmine 我会反复打开聊天界面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851320794586177536",
+        "conversation_id": "2072215841891094818",
+        "created_at": "2026-07-01T13:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072316556982587623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072316556982587623",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072215841891094818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 没回消息的十秒钟是我人生最灰暗的十年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 48,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T17:51:00.000Z",
+        "description": "who would call themself a pathetic @zz1fswm\n不聊骚不约炮不陪聊不线下🈚️坐标\n问我出不出原味的死完了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "zz1fswm"
+              }
+            ]
+          }
+        },
+        "id": "1851320794586177536",
+        "location": "🚪dm",
+        "name": "🍃",
+        "pinned_tweet_id": "2051726906048029078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037629060252422144/1Qj-uLtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5898,
+          "following_count": 220,
+          "like_count": 14973,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 1737
+        },
+        "url": "",
+        "username": "n_vrmine",
+        "verified": false
+      }
+    ]
+  }
+}

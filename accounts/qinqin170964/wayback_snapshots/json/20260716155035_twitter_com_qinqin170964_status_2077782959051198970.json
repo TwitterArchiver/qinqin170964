@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2077330358258000240",
+    "created_at": "2026-07-16T15:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077782959051198970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868905416924561408",
+          "start": 0,
+          "username": "Sren070728"
+        },
+        {
+          "end": 21,
+          "id": "2068283542275276800",
+          "start": 12,
+          "username": "Lies3077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077782959051198970",
+    "in_reply_to_user_id": "1868905416924561408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077392704946962555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sren070728 @Lies3077 严肃学习中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2077330358258000240",
+        "created_at": "2026-07-16T15:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077782959051198970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868905416924561408",
+              "start": 0,
+              "username": "Sren070728"
+            },
+            {
+              "end": 21,
+              "id": "2068283542275276800",
+              "start": 12,
+              "username": "Lies3077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077782959051198970",
+        "in_reply_to_user_id": "1868905416924561408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077392704946962555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sren070728 @Lies3077 严肃学习中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868905416924561408",
+        "conversation_id": "2077330358258000240",
+        "created_at": "2026-07-15T13:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077392704946962555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2068283542275276800",
+              "start": 0,
+              "username": "Lies3077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077392704946962555",
+        "in_reply_to_user_id": "2068283542275276800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077380333104934975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lies3077 绿色果味重，粉色甜，橙色香后调有微涩的回甘，白色味夯但气多所以我给它排名降了点（我不喜欢气多的喜欢可以试试），苹果魔爪是绿色promax版苹果味很重气也淡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 53,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T06:25:58.000Z",
+        "description": "07/infp 坐标：東京江東区\n纯自恋 自愿转账：🚪10 不闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/VSSnr7cWPB",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/VSSnr7cWPB",
+                "start": 0,
+                "url": "https://t.co/5iBWFbyAso"
+              }
+            ]
+          }
+        },
+        "id": "1868905416924561408",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "せレン，梦想哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019106902001741828/PFPUepzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 156,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1655
+        },
+        "url": "https://t.co/5iBWFbyAso",
+        "username": "Sren070728",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T10:44:38.000Z",
+        "description": "軟綿綿的章魚…",
+        "id": "2068283542275276800",
+        "location": "马尔代夫",
+        "name": "Lies",
+        "pinned_tweet_id": "2077267790743142857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077617518223749120/hAErnmf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 44,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "Lies3077",
+        "verified": false
+      }
+    ]
+  }
+}

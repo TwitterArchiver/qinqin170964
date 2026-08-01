@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2057127977192997014",
+    "created_at": "2026-05-20T15:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057127977192997014"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057127977192997014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在主要任务是肯德基把蛋挞配方卖给华莱士，麦当劳把薯条配方卖给华莱士，塔斯汀把汉堡胚配方卖给华莱士，汉堡王把汉堡配方卖给华莱士然后按照华莱士的价格卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2057127977192997014",
+        "created_at": "2026-05-20T15:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057127977192997014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057127977192997014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在主要任务是肯德基把蛋挞配方卖给华莱士，麦当劳把薯条配方卖给华莱士，塔斯汀把汉堡胚配方卖给华莱士，汉堡王把汉堡配方卖给华莱士然后按照华莱士的价格卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 52,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

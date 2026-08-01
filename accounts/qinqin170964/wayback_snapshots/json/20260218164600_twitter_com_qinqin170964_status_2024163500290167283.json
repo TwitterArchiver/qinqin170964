@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024163500290167283",
+    "created_at": "2026-02-18T16:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024163500290167283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momokoooum/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/momokoooum/status/2024108415300096476",
+          "start": 6,
+          "url": "https://t.co/bqpex93mNX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024163500290167283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024108415300096476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直就是我 https://t.co/bqpex93mNX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024163500290167283",
+        "created_at": "2026-02-18T16:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024163500290167283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momokoooum/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/momokoooum/status/2024108415300096476",
+              "start": 6,
+              "url": "https://t.co/bqpex93mNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024163500290167283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024108415300096476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直就是我 https://t.co/bqpex93mNX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785682886089232384",
+        "conversation_id": "2024108415300096476",
+        "created_at": "2026-02-18T13:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024108415300096476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024108415300096476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毫不夸张的说我对钱的喜欢已经到了迷恋的程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Kowloon, Kowloon City, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.18333,
+                  22.31667
+                ],
+                "type": "Point"
+              },
+              "locality": "Kowloon",
+              "region": "Kowloon City"
+            }
+          ]
+        },
+        "description": "来看点让人心情愉悦的/+🛰️私我只扩互关/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 48,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 25,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 25,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T14:49:38.000Z",
+        "description": "infpuppy 日记本 不接推广勿私信",
+        "id": "1785682886089232384",
+        "location": "止于推 骚扰我的我要把你们头扭下来当球踢",
+        "name": "Momoko",
+        "pinned_tweet_id": "1953735228498804840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813209043705733120/C05okhTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8174,
+          "following_count": 46,
+          "like_count": 4860,
+          "listed_count": 23,
+          "media_count": 491,
+          "tweet_count": 4104
+        },
+        "username": "MomokoOoum",
+        "verified": false
+      }
+    ]
+  }
+}

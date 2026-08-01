@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2056568300457582791",
+    "created_at": "2026-05-19T02:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056568300457582791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807129271728775168",
+          "start": 3,
+          "username": "Kokittyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056568300457582791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055997602039288178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kokittyi: 千万别觉得尊重女性就能换来什么特殊对待或者投怀送抱 你尊重女性只能说明你没病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2056568300457582791",
+        "created_at": "2026-05-19T02:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056568300457582791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807129271728775168",
+              "start": 3,
+              "username": "Kokittyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056568300457582791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055997602039288178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kokittyi: 千万别觉得尊重女性就能换来什么特殊对待或者投怀送抱 你尊重女性只能说明你没病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807129271728775168",
+        "conversation_id": "2055997602039288178",
+        "created_at": "2026-05-17T13:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055997602039288178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055997602039288178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 76717,
+          "like_count": 2991,
+          "quote_count": 13,
+          "reply_count": 301,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "千万别觉得尊重女性就能换来什么特殊对待或者投怀送抱 你尊重女性只能说明你没病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 52,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:09:38.000Z",
+        "description": "我负责可爱",
+        "id": "1807129271728775168",
+        "location": "🚪19",
+        "name": "心",
+        "pinned_tweet_id": "1807131343928905783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051195386539483136/YsAeVDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 5,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 96
+        },
+        "username": "Kokittyi",
+        "verified": false
+      }
+    ]
+  }
+}

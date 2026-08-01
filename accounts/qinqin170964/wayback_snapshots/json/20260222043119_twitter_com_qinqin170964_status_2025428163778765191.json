@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2025242468900634898",
+    "created_at": "2026-02-22T04:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025428163778765191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002479368980090881",
+          "start": 0,
+          "username": "Sevenen0529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025428163778765191",
+    "in_reply_to_user_id": "2002479368980090881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025279655784448398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sevenen0529 这是我宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2025242468900634898",
+        "created_at": "2026-02-22T04:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025428163778765191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002479368980090881",
+              "start": 0,
+              "username": "Sevenen0529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025428163778765191",
+        "in_reply_to_user_id": "2002479368980090881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025279655784448398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sevenen0529 这是我宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002479368980090881",
+        "conversation_id": "2025242468900634898",
+        "created_at": "2026-02-21T18:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025279655784448398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025279655784448398",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025242468900634898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 這是我女神媽媽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 60,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 37,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 28,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T20:41:12.000Z",
+        "description": "發負能的小號，取關隨意🙇‍♀️",
+        "id": "2002479368980090881",
+        "name": "Aaa破爛褲衩縫補鋪",
+        "pinned_tweet_id": "2002998374132597187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002490833833283584/cNGmgwI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 298,
+          "like_count": 8383,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 827
+        },
+        "username": "Sevenen0529",
+        "verified": false
+      }
+    ]
+  }
+}

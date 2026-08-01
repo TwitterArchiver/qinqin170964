@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063563878714556416"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063563903242789304",
+    "created_at": "2026-06-07T10:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063563903242789304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZBjMsvuOK",
+          "end": 23,
+          "expanded_url": "https://x.com/qinqin170964/status/2063563903242789304/photo/1",
+          "media_key": "3_2063563878714556416",
+          "start": 0,
+          "url": "https://t.co/FZBjMsvuOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063563903242789304",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FZBjMsvuOK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063563878714556416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNAahobwAA1eo4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063563878714556416"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063563903242789304",
+        "created_at": "2026-06-07T10:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063563903242789304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZBjMsvuOK",
+              "end": 23,
+              "expanded_url": "https://x.com/qinqin170964/status/2063563903242789304/photo/1",
+              "media_key": "3_2063563878714556416",
+              "start": 0,
+              "url": "https://t.co/FZBjMsvuOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063563903242789304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FZBjMsvuOK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 52,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

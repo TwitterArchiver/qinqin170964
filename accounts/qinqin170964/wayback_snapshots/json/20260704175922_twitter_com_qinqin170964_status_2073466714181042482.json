@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073466698448220160"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2073466714181042482",
+    "created_at": "2026-07-04T17:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073466714181042482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aUAz9DXyLT",
+          "end": 23,
+          "expanded_url": "https://x.com/qinqin170964/status/2073466714181042482/photo/1",
+          "media_key": "3_2073466698448220160",
+          "start": 0,
+          "url": "https://t.co/aUAz9DXyLT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073466714181042482",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/aUAz9DXyLT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_2073466698448220160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZu-f6bsAAuVRt.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073466698448220160"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2073466714181042482",
+        "created_at": "2026-07-04T17:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073466714181042482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUAz9DXyLT",
+              "end": 23,
+              "expanded_url": "https://x.com/qinqin170964/status/2073466714181042482/photo/1",
+              "media_key": "3_2073466698448220160",
+              "start": 0,
+              "url": "https://t.co/aUAz9DXyLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073466714181042482",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aUAz9DXyLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "💚🩷/🩷🤍🩷",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 51,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

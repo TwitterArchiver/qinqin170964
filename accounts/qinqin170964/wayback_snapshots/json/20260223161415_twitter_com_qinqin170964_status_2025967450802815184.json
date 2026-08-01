@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2025930993207808000",
+    "created_at": "2026-02-23T16:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025967450802815184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "hikari_11111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025967450802815184",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025930993207808000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikari_11111111 哥妹加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2025930993207808000",
+        "created_at": "2026-02-23T16:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025967450802815184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "hikari_11111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025967450802815184",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025930993207808000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikari_11111111 哥妹加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832308955852500995",
+        "conversation_id": "2025930993207808000",
+        "created_at": "2026-02-23T13:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025930993207808000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025930993207808000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候拿了两个玩偶 想让妹妹选一个陪她睡觉 妹妹张开手跌跌撞撞的走过来 最后抱住了我说“想要哥哥陪”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 35,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 🚪52/150 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/WWRcHh56j3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 106,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 83,
+                "url": "https://t.co/WWRcHh56j3"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "ming",
+        "pinned_tweet_id": "2015062038540890326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024389844026445824/RM3Lvm7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 182,
+          "like_count": 1752,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1456
+        },
+        "username": "hikari_11111111",
+        "verified": false
+      }
+    ]
+  }
+}

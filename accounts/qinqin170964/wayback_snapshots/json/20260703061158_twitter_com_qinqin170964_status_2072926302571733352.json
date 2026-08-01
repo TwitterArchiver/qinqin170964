@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072926277447950336"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2072926302571733352",
+    "created_at": "2026-07-03T06:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072926302571733352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IwiCnrasiZ",
+          "end": 30,
+          "expanded_url": "https://x.com/qinqin170964/status/2072926302571733352/photo/1",
+          "media_key": "3_2072926277447950336",
+          "start": 7,
+          "url": "https://t.co/IwiCnrasiZ"
+        },
+        {
+          "display_url": "x.com/anime_alnst/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/anime_alnst/status/2072843616566046851",
+          "start": 31,
+          "url": "https://t.co/pTS6MCv7pC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072926302571733352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072843616566046851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刷鬼了自己打 https://t.co/IwiCnrasiZ https://t.co/pTS6MCv7pC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_2072926277447950336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSDd2zboAATNJx.jpg",
+        "width": 717
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2072841142123810816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQ2CVAa0AA0Z4k.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072926277447950336"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2072926302571733352",
+        "created_at": "2026-07-03T06:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072926302571733352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwiCnrasiZ",
+              "end": 30,
+              "expanded_url": "https://x.com/qinqin170964/status/2072926302571733352/photo/1",
+              "media_key": "3_2072926277447950336",
+              "start": 7,
+              "url": "https://t.co/IwiCnrasiZ"
+            },
+            {
+              "display_url": "x.com/anime_alnst/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/anime_alnst/status/2072843616566046851",
+              "start": 31,
+              "url": "https://t.co/pTS6MCv7pC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072926302571733352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072843616566046851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷鬼了自己打 https://t.co/IwiCnrasiZ https://t.co/pTS6MCv7pC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072841142123810816"
+          ]
+        },
+        "author_id": "2071540466504564736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2072843616566046851",
+        "created_at": "2026-07-03T00:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072843616566046851"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "ALNST"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "에이스테"
+            },
+            {
+              "end": 75,
+              "start": 63,
+              "tag": "Anime_ALNST"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bEV1tD89GX",
+              "end": 99,
+              "expanded_url": "https://x.com/Anime_ALNST/status/2072843616566046851/photo/1",
+              "media_key": "3_2072841142123810816",
+              "start": 76,
+              "url": "https://t.co/bEV1tD89GX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072843616566046851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8756,
+          "impression_count": 1854139,
+          "like_count": 89508,
+          "quote_count": 8387,
+          "reply_count": 894,
+          "retweet_count": 26334
+        },
+        "reply_settings": "everyone",
+        "text": "ALIEN STAGE\n     ANIME SERIES NOW IN PRODUCTION!\n\n#ALNST #에이스테 #Anime_ALNST https://t.co/bEV1tD89GX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "💚🩷/🩷🤍🩷",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 51,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T10:31:59.000Z",
+        "description": "ALIEN STAGE Anime Project — In Development.\n「ALIEN STAGE」 애니메이션 프로젝트 제작 진행 중.\n「ALIEN STAGE」アニメプロジェクト進行中。",
+        "id": "2071540466504564736",
+        "name": "ALIEN STAGE The Animation Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072840201526022144/0Qz4NQK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33215,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 23,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Anime_ALNST",
+        "verified": false
+      }
+    ]
+  }
+}

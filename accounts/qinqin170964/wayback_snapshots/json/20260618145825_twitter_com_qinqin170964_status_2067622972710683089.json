@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2067622972710683089",
+    "created_at": "2026-06-18T14:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067622972710683089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1871406845946146816",
+          "start": 3,
+          "username": "coconutpuppy037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067622972710683089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067174500580384799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coconutpuppy037: 哎呀 胖女孩是圆润的漂亮 瘦女孩是苗条的漂亮 想漂亮就漂亮 不想漂亮也有不漂亮的权利 想拍胸就拍胸想拍腿就拍腿 不喜欢看就划走屏蔽一条龙 一味的攻击别人到底是活的有多不幸 厌女味都快扑出屏幕了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2067622972710683089",
+        "created_at": "2026-06-18T14:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067622972710683089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1871406845946146816",
+              "start": 3,
+              "username": "coconutpuppy037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067622972710683089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067174500580384799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coconutpuppy037: 哎呀 胖女孩是圆润的漂亮 瘦女孩是苗条的漂亮 想漂亮就漂亮 不想漂亮也有不漂亮的权利 想拍胸就拍胸想拍腿就拍腿 不喜欢看就划走屏蔽一条龙 一味的攻击别人到底是活的有多不幸 厌女味都快扑出屏幕了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871406845946146816",
+        "conversation_id": "2067174500580384799",
+        "created_at": "2026-06-17T09:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067174500580384799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067174500580384799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 37910,
+          "like_count": 929,
+          "quote_count": 5,
+          "reply_count": 172,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀 胖女孩是圆润的漂亮 瘦女孩是苗条的漂亮 想漂亮就漂亮 不想漂亮也有不漂亮的权利 想拍胸就拍胸想拍腿就拍腿 不喜欢看就划走屏蔽一条龙 一味的攻击别人到底是活的有多不幸 厌女味都快扑出屏幕了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 43,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T04:05:46.000Z",
+        "description": "这就是你想要的吗？欺负一个脑残",
+        "id": "1871406845946146816",
+        "name": "香菜小椰",
+        "pinned_tweet_id": "2033245533750345728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871409045581549568/0gL4C18B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 59,
+          "like_count": 3200,
+          "listed_count": 7,
+          "media_count": 174,
+          "tweet_count": 3065
+        },
+        "username": "coconutpuppy037",
+        "verified": false
+      }
+    ]
+  }
+}

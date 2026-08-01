@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2055268236099490004",
+    "created_at": "2026-05-15T15:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055310585752121619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952302490218831872",
+          "start": 0,
+          "username": "cooulaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055310585752121619",
+    "in_reply_to_user_id": "1952302490218831872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055268236099490004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cooulaaa 我对仇人就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2055268236099490004",
+        "created_at": "2026-05-15T15:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055310585752121619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952302490218831872",
+              "start": 0,
+              "username": "cooulaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055310585752121619",
+        "in_reply_to_user_id": "1952302490218831872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055268236099490004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cooulaaa 我对仇人就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952302490218831872",
+        "conversation_id": "2055268236099490004",
+        "created_at": "2026-05-15T12:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055268236099490004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055268236099490004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈呀你凭啥现在过得这么好这么幸福\n你就应该去死啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 53,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:36:11.000Z",
+        "description": "我只是个懵逼的单细胞生物草履虫呀。 \n\n小号@chng1089971 只过互关or🚪（谨慎关注 目前里面只有色图。｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "chng1089971"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=4nDoXVYO",
+                "start": 0,
+                "url": "https://t.co/fplUYhn3rj"
+              }
+            ]
+          }
+        },
+        "id": "1952302490218831872",
+        "location": "🚪188纯绿/520",
+        "name": "忧郁萌神草履虫",
+        "pinned_tweet_id": "2053572466296193468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028332698625003521/i3elCBTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3498,
+          "following_count": 396,
+          "like_count": 918,
+          "listed_count": 9,
+          "media_count": 304,
+          "tweet_count": 1573
+        },
+        "url": "https://t.co/fplUYhn3rj",
+        "username": "cooulaaa",
+        "verified": false
+      }
+    ]
+  }
+}

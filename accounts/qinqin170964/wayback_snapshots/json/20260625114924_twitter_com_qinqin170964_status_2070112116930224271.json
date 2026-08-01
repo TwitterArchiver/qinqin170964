@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070112106264039424",
+        "3_2070112106264027137",
+        "3_2070112106213728257",
+        "3_2070112106251464704"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070112116930224271",
+    "created_at": "2026-06-25T11:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070112116930224271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iL6iFwA0Lz",
+          "end": 27,
+          "expanded_url": "https://x.com/qinqin170964/status/2070112116930224271/photo/1",
+          "media_key": "3_2070112106264039424",
+          "start": 4,
+          "url": "https://t.co/iL6iFwA0Lz"
+        },
+        {
+          "display_url": "pic.x.com/iL6iFwA0Lz",
+          "end": 27,
+          "expanded_url": "https://x.com/qinqin170964/status/2070112116930224271/photo/1",
+          "media_key": "3_2070112106264027137",
+          "start": 4,
+          "url": "https://t.co/iL6iFwA0Lz"
+        },
+        {
+          "display_url": "pic.x.com/iL6iFwA0Lz",
+          "end": 27,
+          "expanded_url": "https://x.com/qinqin170964/status/2070112116930224271/photo/1",
+          "media_key": "3_2070112106213728257",
+          "start": 4,
+          "url": "https://t.co/iL6iFwA0Lz"
+        },
+        {
+          "display_url": "pic.x.com/iL6iFwA0Lz",
+          "end": 27,
+          "expanded_url": "https://x.com/qinqin170964/status/2070112116930224271/photo/1",
+          "media_key": "3_2070112106251464704",
+          "start": 4,
+          "url": "https://t.co/iL6iFwA0Lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070112116930224271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大胃袋 https://t.co/iL6iFwA0Lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070112106264039424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqD_iMakAAsjAT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070112106264027137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqD_iMaYAE0kON.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070112106213728257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqD_iAa4AEu4QA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070112106251464704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqD_iJasAAPcff.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070112106264039424",
+            "3_2070112106264027137",
+            "3_2070112106213728257",
+            "3_2070112106251464704"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070112116930224271",
+        "created_at": "2026-06-25T11:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070112116930224271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iL6iFwA0Lz",
+              "end": 27,
+              "expanded_url": "https://x.com/qinqin170964/status/2070112116930224271/photo/1",
+              "media_key": "3_2070112106264039424",
+              "start": 4,
+              "url": "https://t.co/iL6iFwA0Lz"
+            },
+            {
+              "display_url": "pic.x.com/iL6iFwA0Lz",
+              "end": 27,
+              "expanded_url": "https://x.com/qinqin170964/status/2070112116930224271/photo/1",
+              "media_key": "3_2070112106264027137",
+              "start": 4,
+              "url": "https://t.co/iL6iFwA0Lz"
+            },
+            {
+              "display_url": "pic.x.com/iL6iFwA0Lz",
+              "end": 27,
+              "expanded_url": "https://x.com/qinqin170964/status/2070112116930224271/photo/1",
+              "media_key": "3_2070112106213728257",
+              "start": 4,
+              "url": "https://t.co/iL6iFwA0Lz"
+            },
+            {
+              "display_url": "pic.x.com/iL6iFwA0Lz",
+              "end": 27,
+              "expanded_url": "https://x.com/qinqin170964/status/2070112116930224271/photo/1",
+              "media_key": "3_2070112106251464704",
+              "start": 4,
+              "url": "https://t.co/iL6iFwA0Lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070112116930224271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大胃袋 https://t.co/iL6iFwA0Lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 42,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

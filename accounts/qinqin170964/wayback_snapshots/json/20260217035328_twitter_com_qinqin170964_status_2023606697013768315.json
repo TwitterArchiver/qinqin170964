@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2023606697013768315",
+    "created_at": "2026-02-17T03:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T04:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023606697013768315"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023606697013768315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推好无聊，一直没有人理我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2023606697013768315",
+        "created_at": "2026-02-17T03:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023606697013768315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023606697013768315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推好无聊，一直没有人理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Kowloon, Kowloon City, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.18333,
+                  22.31667
+                ],
+                "type": "Point"
+              },
+              "locality": "Kowloon",
+              "region": "Kowloon City"
+            }
+          ]
+        },
+        "description": "来看点让人心情愉悦的",
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 35,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2036644301170757667",
+    "created_at": "2026-03-25T03:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036644301170757667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snsnokyoufu/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/snsnokyoufu/status/2036368382933737952",
+          "start": 11,
+          "url": "https://t.co/iRaMBD2per"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036644301170757667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036368382933737952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天打开余额就这样 https://t.co/iRaMBD2per"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28746,
+        "height": 928,
+        "media_key": "7_2024456532239253504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024456532239253504/pu/img/2VIrwOXcOSxmWngc.jpg",
+        "public_metrics": {
+          "view_count": 2060512
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024456532239253504/pu/vid/avc1/320x412/Ytbpvz-enR7IUegY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024456532239253504/pu/vid/avc1/480x618/vYxxOBIA8Fy1EKcB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024456532239253504/pu/vid/avc1/720x928/5UdubAr5gJGKSwja.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024456532239253504/pu/pl/pdAw1M2CZUrXPUCt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2036644301170757667",
+        "created_at": "2026-03-25T03:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036644301170757667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snsnokyoufu/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/snsnokyoufu/status/2036368382933737952",
+              "start": 11,
+              "url": "https://t.co/iRaMBD2per"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036644301170757667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036368382933737952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天打开余额就这样 https://t.co/iRaMBD2per"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024456532239253504"
+          ],
+          "media_source_tweet_id": [
+            "2024456593018876399"
+          ]
+        },
+        "author_id": "1615639552227704832",
+        "conversation_id": "2036368382933737952",
+        "created_at": "2026-03-24T09:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036368382933737952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIXf2dwmQv",
+              "end": 36,
+              "expanded_url": "https://x.com/_Hybreed_/status/2024456593018876399/video/1",
+              "media_key": "7_2024456532239253504",
+              "start": 13,
+              "url": "https://t.co/oIXf2dwmQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036368382933737952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2538,
+          "impression_count": 1788069,
+          "like_count": 27169,
+          "quote_count": 774,
+          "reply_count": 282,
+          "retweet_count": 6712
+        },
+        "reply_settings": "everyone",
+        "text": "パチンコで負けて今これ\n https://t.co/oIXf2dwmQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/互关加wx私）女生互关私）男的私信骚扰我小心你全家/l背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2035910352299511905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 57,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T09:17:51.000Z",
+        "description": "話題のツイートを投稿してます。提供はDMこちら✉️",
+        "id": "1615639552227704832",
+        "name": "面白ツイート図鑑",
+        "pinned_tweet_id": "2035691887722729560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993541758006050816/p4wOGIhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76220,
+          "following_count": 2293,
+          "like_count": 12166,
+          "listed_count": 114,
+          "media_count": 5541,
+          "tweet_count": 23650
+        },
+        "username": "snsnokyoufu",
+        "verified": true
+      }
+    ]
+  }
+}

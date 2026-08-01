@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2026347886514991502",
+    "created_at": "2026-02-25T00:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T01:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026453845581410415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026453845581410415",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026347886514991502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 好美味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2026347886514991502",
+        "created_at": "2026-02-25T00:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T01:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026453845581410415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026453845581410415",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026347886514991502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 好美味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2026347886514991502",
+        "created_at": "2026-02-24T17:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026347886514991502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026347886514991502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果全世界都指责你，那螺蛳粉奶奶蹲下来抱抱你\n如果全世界都指责你，那刘文祥爷爷蹲下来抱抱你\n如果全世界都指责你，那麦当劳叔叔蹲下来抱抱你\n如果全世界都指责你，那麻辣香锅阿姨蹲下来抱抱你\n如果全世界都指责你，那奶茶姐姐蹲下来抱抱你\n如果全世界都指责你，那千层蛋糕哥哥蹲下来抱抱你\n如果全世界都指责你，那鸭货弟弟蹲下来抱抱你\n如果全世界都指责你，那卤味妹妹蹲下来抱抱你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果全世界都指责你，那螺蛳粉奶奶蹲下来抱抱你\n如果全世界都指责你，那刘文祥爷爷蹲下来抱抱你\n如果全世界都指责你，那麦当劳叔叔蹲下来抱抱你\n如果全世界都指责你，那麻辣香锅阿姨蹲下来抱抱你\n如果全世界都指责你，那奶茶姐姐蹲下来抱抱你\n如果全世界都指责你，那千层蛋糕哥哥蹲下来抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 32,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "M豆在🇨🇦吃土中… 有主人/老公/哥哥/宝宝（同一个人）不聊骚不看屌不卖不约不私信露出…发骚男勿扰贱男勿扰皮下男勿扰…其余的小宝宝们请都来找我玩吧✌️👁️👅👁️✌️另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/AcyHhjdaY4"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 199,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/AcyHhjdaY4",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

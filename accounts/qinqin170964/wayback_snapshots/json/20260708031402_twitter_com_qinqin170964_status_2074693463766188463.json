@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2074679745594417520",
+    "created_at": "2026-07-08T03:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074693463766188463"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074693463766188463",
+    "in_reply_to_user_id": "2002003730334621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074679745594417520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看懂了，虽然作者说她最爱女儿，但是我看出来了，她的最爱是这个女儿的男朋友的吊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074679725294075904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq-N9DbwAAJdfZ.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074679725294055424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq-N9DbcAAXfPd.jpg",
+        "width": 946
+      },
+      {
+        "height": 1810,
+        "media_key": "3_2074679725302435840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq-N9FbUAAE3w-.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2074679745594417520",
+        "created_at": "2026-07-08T03:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074693463766188463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074693463766188463",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074679745594417520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看懂了，虽然作者说她最爱女儿，但是我看出来了，她的最爱是这个女儿的男朋友的吊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074679725294075904",
+            "3_2074679725294055424",
+            "3_2074679725302435840"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2074679745594417520",
+        "created_at": "2026-07-08T02:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074679745594417520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErzgLctovu",
+              "end": 113,
+              "expanded_url": "https://x.com/qinqin170964/status/2074679745594417520/photo/1",
+              "media_key": "3_2074679725294075904",
+              "start": 90,
+              "url": "https://t.co/ErzgLctovu"
+            },
+            {
+              "display_url": "pic.x.com/ErzgLctovu",
+              "end": 113,
+              "expanded_url": "https://x.com/qinqin170964/status/2074679745594417520/photo/1",
+              "media_key": "3_2074679725294055424",
+              "start": 90,
+              "url": "https://t.co/ErzgLctovu"
+            },
+            {
+              "display_url": "pic.x.com/ErzgLctovu",
+              "end": 113,
+              "expanded_url": "https://x.com/qinqin170964/status/2074679745594417520/photo/1",
+              "media_key": "3_2074679725302435840",
+              "start": 90,
+              "url": "https://t.co/ErzgLctovu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074679745594417520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有真人吗？到底谁会想出这么脑残的设定，女儿直接变同妻了，谁会把自己oc变同妻，这根吊真的不恶心吗，性别换一下换成儿子的女朋友和妈妈搞一下评论区又变一副面孔了，真他爸的恶心的oc https://t.co/ErzgLctovu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "💚🩷/🩷🤍🩷",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074679957444567040/J_2N9w6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 51,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 840
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024388192208900233",
+    "created_at": "2026-02-19T07:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024389424679911681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820610868452978689",
+          "start": 0,
+          "username": "Dysan1Wayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024389424679911681",
+    "in_reply_to_user_id": "1820610868452978689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024388897208488406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dysan1Wayne 只是单纯不想吃，除夕我爸妈不在这边过的，我除夕在加班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024388192208900233",
+        "created_at": "2026-02-19T07:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024389424679911681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820610868452978689",
+              "start": 0,
+              "username": "Dysan1Wayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024389424679911681",
+        "in_reply_to_user_id": "1820610868452978689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024388897208488406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dysan1Wayne 只是单纯不想吃，除夕我爸妈不在这边过的，我除夕在加班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820610868452978689",
+        "conversation_id": "2024388192208900233",
+        "created_at": "2026-02-19T07:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024388897208488406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024388897208488406",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024388192208900233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 是因为还在吃除夕的剩菜吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Kowloon, Kowloon City, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.18333,
+                  22.31667
+                ],
+                "type": "Point"
+              },
+              "locality": "Kowloon",
+              "region": "Kowloon City"
+            }
+          ]
+        },
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 27,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 59
+        },
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T00:00:51.000Z",
+        "description": "yesterday is history",
+        "id": "1820610868452978689",
+        "location": "dongguan",
+        "name": "心酸小孤燕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938948584059084801/I-PJOIhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 51,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 17
+        },
+        "username": "Dysan1Wayne",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024511338001862985",
+    "created_at": "2026-02-19T16:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024514662117888425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1546877650756681733",
+          "start": 0,
+          "username": "fisorpuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024514662117888425",
+    "in_reply_to_user_id": "1546877650756681733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024511338001862985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fisorpuppy 我破防了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024511338001862985",
+        "created_at": "2026-02-19T16:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024514662117888425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1546877650756681733",
+              "start": 0,
+              "username": "fisorpuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024514662117888425",
+        "in_reply_to_user_id": "1546877650756681733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024511338001862985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fisorpuppy 我破防了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546877650756681733",
+        "conversation_id": "2024511338001862985",
+        "created_at": "2026-02-19T15:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024511338001862985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024511338001862985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子几乎没被人说过漂亮 但是有很多人说长得可爱我知道的 长得可爱的意思是看起来像药水哥 比较温顺看起来不会好骗 像个厚蛋烧 一个相对顺眼的龙图 一个很呆的表情包 像一个人机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 30,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T15:22:55.000Z",
+        "description": "这里就是我的情绪垃圾桶：",
+        "id": "1546877650756681733",
+        "name": "11",
+        "pinned_tweet_id": "1698371997850571137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998275326980620288/KMpVqYan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 600,
+          "like_count": 26940,
+          "listed_count": 26,
+          "media_count": 993,
+          "tweet_count": 25594
+        },
+        "username": "fisorpuppy",
+        "verified": false
+      }
+    ]
+  }
+}

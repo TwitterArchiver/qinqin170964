@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2039341901158228306",
+    "created_at": "2026-04-02T08:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039613854376931789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "noway4777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039613854376931789",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039598320495272369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@noway4777 我一直哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2039341901158228306",
+        "created_at": "2026-04-02T08:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039613854376931789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "noway4777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039613854376931789",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039598320495272369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@noway4777 我一直哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979251596501618688",
+        "conversation_id": "2039341901158228306",
+        "created_at": "2026-04-02T06:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039598320495272369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039598320495272369",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039341901158228306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@qinqin170964 那是有更好的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/别来私信骚扰我/背景可投喂/只过互关@SKylvrfetR26005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "SKylvrfetR26005"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 57,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "我学着不去担心的太远",
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子",
+        "pinned_tweet_id": "2016710002405511479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039594382337433600/4QY_mttS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 137,
+          "like_count": 22892,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 8321
+        },
+        "username": "noway4777",
+        "verified": false
+      }
+    ]
+  }
+}

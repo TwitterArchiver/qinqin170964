@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2042131892322103605",
+    "created_at": "2026-04-09T06:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042131892322103605"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042131892322103605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人愿意深究你 你听过的歌 社媒的点赞 到过的地方 隐晦的难言 划开你的皮层 见识你的新鲜 短暂的欢愉留下似有若无的一笔 再扬长而去 只剩下无措麻木的你站在原地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2042131892322103605",
+        "created_at": "2026-04-09T06:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042131892322103605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042131892322103605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人愿意深究你 你听过的歌 社媒的点赞 到过的地方 隐晦的难言 划开你的皮层 见识你的新鲜 短暂的欢愉留下似有若无的一笔 再扬长而去 只剩下无措麻木的你站在原地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 57,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2049173648502583625",
+    "created_at": "2026-04-28T17:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049179189769589138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936734981755404288",
+          "start": 0,
+          "username": "xxxx147495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049179189769589138",
+    "in_reply_to_user_id": "1936734981755404288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049173648502583625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxx147495 我喜欢这个癞格宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1747,
+        "media_key": "3_2049173623139913728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAgjaJa0AAmhrK.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049173623114719232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAgjaDaYAA7dUb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049173623114768384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAgjaDbIAAotFR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2049173623156752384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAgjaNbwAAvlWC.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2049173648502583625",
+        "created_at": "2026-04-28T17:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049179189769589138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936734981755404288",
+              "start": 0,
+              "username": "xxxx147495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049179189769589138",
+        "in_reply_to_user_id": "1936734981755404288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049173648502583625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx147495 我喜欢这个癞格宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049173623139913728",
+            "3_2049173623114719232",
+            "3_2049173623114768384",
+            "3_2049173623156752384"
+          ]
+        },
+        "author_id": "1936734981755404288",
+        "conversation_id": "2049173648502583625",
+        "created_at": "2026-04-28T17:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049173648502583625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZQa6Z18Xw",
+              "end": 32,
+              "expanded_url": "https://x.com/xxxx147495/status/2049173648502583625/photo/1",
+              "media_key": "3_2049173623139913728",
+              "start": 9,
+              "url": "https://t.co/GZQa6Z18Xw"
+            },
+            {
+              "display_url": "pic.x.com/GZQa6Z18Xw",
+              "end": 32,
+              "expanded_url": "https://x.com/xxxx147495/status/2049173648502583625/photo/1",
+              "media_key": "3_2049173623114719232",
+              "start": 9,
+              "url": "https://t.co/GZQa6Z18Xw"
+            },
+            {
+              "display_url": "pic.x.com/GZQa6Z18Xw",
+              "end": 32,
+              "expanded_url": "https://x.com/xxxx147495/status/2049173648502583625/photo/1",
+              "media_key": "3_2049173623114768384",
+              "start": 9,
+              "url": "https://t.co/GZQa6Z18Xw"
+            },
+            {
+              "display_url": "pic.x.com/GZQa6Z18Xw",
+              "end": 32,
+              "expanded_url": "https://x.com/xxxx147495/status/2049173648502583625/photo/1",
+              "media_key": "3_2049173623156752384",
+              "start": 9,
+              "url": "https://t.co/GZQa6Z18Xw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049173648502583625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 629,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近拍的小动物们 https://t.co/GZQa6Z18Xw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 54,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T10:36:28.000Z",
+        "description": "苹果只做苹果事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9E%97%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9E%97%E6%AA%8E",
+                "start": 0,
+                "url": "https://t.co/n0Z3zfQM3z"
+              }
+            ]
+          }
+        },
+        "id": "1936734981755404288",
+        "location": "置顶推广自辨",
+        "name": "林檎",
+        "pinned_tweet_id": "2043591457316171879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030888005209407488/Swz_X1Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30388,
+          "following_count": 116,
+          "like_count": 1274,
+          "listed_count": 42,
+          "media_count": 146,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/n0Z3zfQM3z",
+        "username": "xxxx147495",
+        "verified": false
+      }
+    ]
+  }
+}

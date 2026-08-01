@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072236173838471168"
+      ],
+      "media_source_tweet_id": [
+        "2072236282487423227"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2072357849028788659",
+    "created_at": "2026-07-01T16:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072357849028788659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/80kglgN2wE",
+          "end": 27,
+          "expanded_url": "https://x.com/aunero0905/status/2072236282487423227/video/1",
+          "media_key": "13_2072236173838471168",
+          "start": 4,
+          "url": "https://t.co/80kglgN2wE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072357849028788659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太萌力 https://t.co/80kglgN2wE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17066,
+        "height": 720,
+        "media_key": "13_2072236173838471168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072236173838471168/img/tEXdl9md6ochug8U.jpg",
+        "public_metrics": {
+          "view_count": 114422
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072236173838471168/vid/avc1/360x270/QzBw9fhA4JzfUUVY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072236173838471168/vid/avc1/480x360/oxU3qKCwNi5bXBkZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072236173838471168/vid/avc1/960x720/ROigqeM8dvbfZ1Ye.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072236173838471168/pl/1kiD3T49SdL2LDya.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072236173838471168"
+          ],
+          "media_source_tweet_id": [
+            "2072236282487423227"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2072357849028788659",
+        "created_at": "2026-07-01T16:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072357849028788659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80kglgN2wE",
+              "end": 27,
+              "expanded_url": "https://x.com/aunero0905/status/2072236282487423227/video/1",
+              "media_key": "13_2072236173838471168",
+              "start": 4,
+              "url": "https://t.co/80kglgN2wE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072357849028788659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太萌力 https://t.co/80kglgN2wE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 48,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

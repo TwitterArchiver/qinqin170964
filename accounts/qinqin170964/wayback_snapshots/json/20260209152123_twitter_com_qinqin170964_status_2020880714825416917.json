@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2020572424039997754",
+    "created_at": "2026-02-09T15:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020880714825416917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1517790640813207552",
+          "start": 0,
+          "username": "XiaoQ177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020880714825416917",
+    "in_reply_to_user_id": "1517790640813207552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020572424039997754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQ177 简直极品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2020572424039997754",
+        "created_at": "2026-02-09T15:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020880714825416917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1517790640813207552",
+              "start": 0,
+              "username": "XiaoQ177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020880714825416917",
+        "in_reply_to_user_id": "1517790640813207552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020572424039997754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQ177 简直极品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517790640813207552",
+        "conversation_id": "2020572424039997754",
+        "created_at": "2026-02-08T18:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020572424039997754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020572424039997754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9347,
+          "like_count": 150,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我真的喜欢女人味的男人（？）非常温柔体贴的那种…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "双｜来看点让人心情愉悦的",
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002439042634559491/oYhxdNgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T09:01:14.000Z",
+        "description": "三文鱼全球推广大使🪽有老公不聊骚",
+        "id": "1517790640813207552",
+        "location": "天堂",
+        "name": "Milliucat",
+        "pinned_tweet_id": "1993541863924441416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008209481327411200/oIrcJrUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6504,
+          "following_count": 88,
+          "like_count": 5142,
+          "listed_count": 7,
+          "media_count": 703,
+          "tweet_count": 5132
+        },
+        "username": "XiaoQ177",
+        "verified": false
+      }
+    ]
+  }
+}

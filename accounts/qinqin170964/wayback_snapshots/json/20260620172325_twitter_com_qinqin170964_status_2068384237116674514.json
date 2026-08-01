@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2068321834634727731",
+    "created_at": "2026-06-20T17:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068384237116674514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909663766771310592",
+          "start": 0,
+          "username": "012277ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068384237116674514",
+    "in_reply_to_user_id": "1909663766771310592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068321834634727731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@012277ovo 他爹的我也是被这样恶心过，bl死了好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2068321834634727731",
+        "created_at": "2026-06-20T17:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068384237116674514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909663766771310592",
+              "start": 0,
+              "username": "012277ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068384237116674514",
+        "in_reply_to_user_id": "1909663766771310592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068321834634727731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@012277ovo 他爹的我也是被这样恶心过，bl死了好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909663766771310592",
+        "conversation_id": "2068321834634727731",
+        "created_at": "2026-06-20T13:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068321834634727731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068321834634727731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2505,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你们这群傻逼bl作者 标签是甜宠暗恋 标题是什么什么老婆 点进去简介也是什么重生回去见到老婆 结果点进第一章发现是“男老婆” 你们他爸的死了吧管男的叫老婆还不标bl标签？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 43,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T17:45:07.000Z",
+        "description": "发照片和碎碎念的地方 \n可以叫我小希꒰ঌᐢ.ˬ.ᐢ໒꒱\n\n在冬天拾起枯叶时，也想起我吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E5%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E5%B8%8C2",
+                "start": 0,
+                "url": "https://t.co/qlmjgFYHkT"
+              }
+            ]
+          }
+        },
+        "id": "1909663766771310592",
+        "name": "KLaxixi77",
+        "pinned_tweet_id": "2059931468915208411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009208157307031552/6ReJlkN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 105,
+          "like_count": 6795,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 2303
+        },
+        "url": "https://t.co/qlmjgFYHkT",
+        "username": "012277ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2004587816664363465",
+    "created_at": "2025-12-26T16:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T17:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004587816664363465"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004587816664363465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我就是喜欢看极致的做爱，看起来真的很赏心悦目很爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2004587816664363465",
+        "created_at": "2025-12-26T16:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T17:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004587816664363465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004587816664363465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我就是喜欢看极致的做爱，看起来真的很赏心悦目很爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的",
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "沙拉重度依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002439042634559491/oYhxdNgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

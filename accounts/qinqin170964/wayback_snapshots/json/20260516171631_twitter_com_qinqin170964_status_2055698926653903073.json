@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2055624116854784454",
+    "created_at": "2026-05-16T17:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055698926653903073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037614188256776192",
+          "start": 0,
+          "username": "gezi_loveMomoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055698926653903073",
+    "in_reply_to_user_id": "2037614188256776192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055624116854784454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gezi_loveMomoki 我在发现男同越来越侵占女性权益的时候就越来越厌恶了，很多时候如果是女主就会被骂的情况下转换成男同就有一堆人吹捧真的很恶心，还有辱骂女性角色和女性官配，剥夺女性高光给男同使用，现在更过分，将女性的痛苦用来给男同附魅了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2055624116854784454",
+        "created_at": "2026-05-16T17:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055698926653903073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037614188256776192",
+              "start": 0,
+              "username": "gezi_loveMomoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055698926653903073",
+        "in_reply_to_user_id": "2037614188256776192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055624116854784454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gezi_loveMomoki 我在发现男同越来越侵占女性权益的时候就越来越厌恶了，很多时候如果是女主就会被骂的情况下转换成男同就有一堆人吹捧真的很恶心，还有辱骂女性角色和女性官配，剥夺女性高光给男同使用，现在更过分，将女性的痛苦用来给男同附魅了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037614188256776192",
+        "conversation_id": "2055624116854784454",
+        "created_at": "2026-05-16T12:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055624116854784454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055624116854784454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5672,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我初中买的房思琪那本书，到现在都没敢打开看，被我放在老家的书柜上，我实在想不到有人会在看了之后还抄袭二改写给男同来调情……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 53,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T19:34:29.000Z",
+        "description": "搞同人专用（大号被封了就在这说话了）本号禁腐禁㽖禁rn",
+        "id": "2037614188256776192",
+        "location": "520",
+        "name": "鸽子",
+        "pinned_tweet_id": "2050509168910733742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037614374270255104/W_C1e1eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 161,
+          "like_count": 2417,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1120
+        },
+        "username": "gezi_loveMomoki",
+        "verified": false
+      }
+    ]
+  }
+}

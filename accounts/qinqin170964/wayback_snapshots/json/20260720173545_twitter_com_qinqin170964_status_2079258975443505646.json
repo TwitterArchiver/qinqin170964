@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932702525544935425"
+      ],
+      "media_source_tweet_id": [
+        "1932724496915706093"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2079258975443505646",
+    "created_at": "2026-07-20T17:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079258975443505646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1627903133539237888",
+          "start": 3,
+          "username": "Official_ALNST"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9dL2tjvsK0",
+          "end": 65,
+          "expanded_url": "https://x.com/Official_ALNST/status/1932724496915706093/photo/1",
+          "media_key": "3_1932702525544935425",
+          "start": 42,
+          "url": "https://t.co/9dL2tjvsK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079258975443505646",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17169
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932724496915706093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Official_ALNST: 누가 뭐래든 내 마음은 막을 수 없어! https://t.co/9dL2tjvsK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2956,
+        "media_key": "3_1932702525544935425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJWtQObMAE2h1c.jpg",
+        "width": 2956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932702525544935425"
+          ]
+        },
+        "author_id": "1627903133539237888",
+        "conversation_id": "1932724496915706093",
+        "created_at": "2025-06-11T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932724496915706093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dL2tjvsK0",
+              "end": 45,
+              "expanded_url": "https://x.com/Official_ALNST/status/1932724496915706093/photo/1",
+              "media_key": "3_1932702525544935425",
+              "start": 22,
+              "url": "https://t.co/9dL2tjvsK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932724496915706093",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4499,
+          "impression_count": 6559058,
+          "like_count": 78715,
+          "quote_count": 7878,
+          "reply_count": 1020,
+          "retweet_count": 17169
+        },
+        "reply_settings": "everyone",
+        "text": "누가 뭐래든 내 마음은 막을 수 없어! https://t.co/9dL2tjvsK0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932702525544935425"
+          ],
+          "media_source_tweet_id": [
+            "1932724496915706093"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2079258975443505646",
+        "created_at": "2026-07-20T17:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079258975443505646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1627903133539237888",
+              "start": 3,
+              "username": "Official_ALNST"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dL2tjvsK0",
+              "end": 65,
+              "expanded_url": "https://x.com/Official_ALNST/status/1932724496915706093/photo/1",
+              "media_key": "3_1932702525544935425",
+              "start": 42,
+              "url": "https://t.co/9dL2tjvsK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079258975443505646",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17169
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932724496915706093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Official_ALNST: 누가 뭐래든 내 마음은 막을 수 없어! https://t.co/9dL2tjvsK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 52,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T05:28:58.000Z",
+        "description": "Still alive, it hurts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@VIVINOS",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@VIVINOS",
+                "start": 0,
+                "url": "https://t.co/7Kf5N4j0e6"
+              }
+            ]
+          }
+        },
+        "id": "1627903133539237888",
+        "name": "ALIEN STAGE_official",
+        "pinned_tweet_id": "2070431883360358797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062819279351992320/UgVZuWNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035994,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 521,
+          "media_count": 440,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/7Kf5N4j0e6",
+        "username": "Official_ALNST",
+        "verified": true
+      }
+    ]
+  }
+}

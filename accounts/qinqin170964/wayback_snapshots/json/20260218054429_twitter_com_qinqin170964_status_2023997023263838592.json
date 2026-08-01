@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2023997023263838592",
+    "created_at": "2026-02-18T05:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023997023263838592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suixing123ttks…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/suixing123ttks/status/2023765480037839152",
+          "start": 10,
+          "url": "https://t.co/8t8wilU6Vb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023997023263838592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023765480037839152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱歉我就是如此贴心 https://t.co/8t8wilU6Vb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2023997023263838592",
+        "created_at": "2026-02-18T05:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023997023263838592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suixing123ttks…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/suixing123ttks/status/2023765480037839152",
+              "start": 10,
+              "url": "https://t.co/8t8wilU6Vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023997023263838592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023765480037839152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱歉我就是如此贴心 https://t.co/8t8wilU6Vb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998998860518273025",
+        "conversation_id": "2023765480037839152",
+        "created_at": "2026-02-17T14:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023765480037839152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023765480037839152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 752,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从小到大，伤害钱的事情做不到，辜负钱的事情做不到，浪费钱的事情做不到，错失钱的事情做不到，背叛钱的事情做不到，离开钱的事情做不到，亏钱的事情做不到，冷暴力钱的事情做不到，背刺钱的事情做不到，丢弃钱的事情做不到！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Kowloon, Kowloon City, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.18333,
+                  22.31667
+                ],
+                "type": "Point"
+              },
+              "locality": "Kowloon",
+              "region": "Kowloon City"
+            }
+          ]
+        },
+        "description": "来看点让人心情愉悦的/+🛰️私我只扩互关/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 48,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 25,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:10:57.000Z",
+        "description": "不定期发大尺码照片然后删除/骂我就删号跑路/双取屏蔽随意/不互fo/欢迎找我聊天/左右脑互搏，别在推敲经不起推敲的我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B2%81%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B2%81%E6%98%9F",
+                "start": 0,
+                "url": "https://t.co/H6vQEfQ8jP"
+              }
+            ]
+          }
+        },
+        "id": "1998998860518273025",
+        "name": "岁星",
+        "pinned_tweet_id": "2005282093790830930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000922238556782592/vks2mWRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 83,
+          "like_count": 369,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/H6vQEfQ8jP",
+        "username": "suixing123ttks",
+        "verified": false
+      }
+    ]
+  }
+}

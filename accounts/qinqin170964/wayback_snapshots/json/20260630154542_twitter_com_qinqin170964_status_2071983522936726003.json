@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2071983522936726003",
+    "created_at": "2026-06-30T15:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071983522936726003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yr__cos/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yr__cos/status/1899087383158526267",
+          "start": 24,
+          "url": "https://t.co/P5iMpAIbsK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071983522936726003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899087383158526267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "韩国人还是得韩国人出啊，我见过最贴的till了 https://t.co/P5iMpAIbsK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_1899087376590491648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glrp6D8a0AA1y1v.jpg",
+        "width": 958
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1899087376586280960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glrp6D7akAAyod8.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2071983522936726003",
+        "created_at": "2026-06-30T15:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071983522936726003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yr__cos/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yr__cos/status/1899087383158526267",
+              "start": 24,
+              "url": "https://t.co/P5iMpAIbsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071983522936726003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899087383158526267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "韩国人还是得韩国人出啊，我见过最贴的till了 https://t.co/P5iMpAIbsK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899087376590491648",
+            "3_1899087376586280960"
+          ]
+        },
+        "author_id": "1445716403051397121",
+        "conversation_id": "1899087383158526267",
+        "created_at": "2025-03-10T13:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T14:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899087383158526267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "ALNST"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "tillmizi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONJgjdgGhg",
+              "end": 54,
+              "expanded_url": "https://x.com/YR__cos/status/1899087383158526267/photo/1",
+              "media_key": "3_1899087376590491648",
+              "start": 31,
+              "url": "https://t.co/ONJgjdgGhg"
+            },
+            {
+              "display_url": "pic.x.com/ONJgjdgGhg",
+              "end": 54,
+              "expanded_url": "https://x.com/YR__cos/status/1899087383158526267/photo/1",
+              "media_key": "3_1899087376586280960",
+              "start": 31,
+              "url": "https://t.co/ONJgjdgGhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899087383158526267",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 38477,
+          "like_count": 1649,
+          "quote_count": 17,
+          "reply_count": 1,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "미...미지야아아...\n\n#ALNST #tillmizi https://t.co/ONJgjdgGhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 46,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T11:43:51.000Z",
+        "description": "リアです🩵 20↑ 🇰🇷 ♀ | Contact DM | ENG/JP⭕️ 無地雷❗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/YR_cos",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/YR_cos",
+                "start": 0,
+                "url": "https://t.co/8LTw3LqK25"
+              }
+            ]
+          }
+        },
+        "id": "1445716403051397121",
+        "name": "유련 Lia",
+        "pinned_tweet_id": "2002386521777979871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044929083587563520/jptr7chl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6023,
+          "following_count": 301,
+          "like_count": 7111,
+          "listed_count": 25,
+          "media_count": 291,
+          "tweet_count": 18817
+        },
+        "url": "https://t.co/8LTw3LqK25",
+        "username": "YR__cos",
+        "verified": true
+      }
+    ]
+  }
+}

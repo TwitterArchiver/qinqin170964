@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2069801901873578386",
+    "created_at": "2026-06-24T17:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069840528645206188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "foreverabbit77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069840528645206188",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069838645683794200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreverabbit77 mua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2069801901873578386",
+        "created_at": "2026-06-24T17:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069840528645206188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "foreverabbit77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069840528645206188",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069838645683794200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreverabbit77 mua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979251596501618688",
+        "conversation_id": "2069801901873578386",
+        "created_at": "2026-06-24T17:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069838645683794200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069838645683794200",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069805671198113976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 你、萌two"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 43,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "谢谢你 被你喜欢和喜欢你都好幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%AC%BA%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%AC%BA%E5%85%94",
+                "start": 0,
+                "url": "https://t.co/J3Ur6oJiUv"
+              }
+            ]
+          }
+        },
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子（摸金版）",
+        "pinned_tweet_id": "2059281369860293004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069379814042312704/83Po2ceW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 136,
+          "like_count": 32343,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 11230
+        },
+        "url": "https://t.co/J3Ur6oJiUv",
+        "username": "foreverabbit77",
+        "verified": false
+      }
+    ]
+  }
+}

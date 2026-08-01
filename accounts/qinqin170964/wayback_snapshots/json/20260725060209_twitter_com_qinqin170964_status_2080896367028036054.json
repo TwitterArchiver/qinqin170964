@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080695214101172224"
+      ],
+      "media_source_tweet_id": [
+        "2080695223882289376"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2080896367028036054",
+    "created_at": "2026-07-25T06:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080896367028036054"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 43,
+          "tag": "mizitill"
+        },
+        {
+          "end": 63,
+          "start": 54,
+          "tag": "tillmizi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055093621335220224",
+          "start": 3,
+          "username": "ewsmk9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Z4lgbloF2",
+          "end": 87,
+          "expanded_url": "https://x.com/ewsmk9/status/2080695223882289376/photo/1",
+          "media_key": "3_2080695214101172224",
+          "start": 64,
+          "url": "https://t.co/7Z4lgbloF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080896367028036054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080695223882289376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ewsmk9: 틸미지틸女偶像男粉丝au\n在club里遇到了自己的本命…！？\n#mizitill  #tillmizi https://t.co/7Z4lgbloF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2080695214101172224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAdRfJbEAAFVCl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080695214101172224"
+          ]
+        },
+        "author_id": "2055093621335220224",
+        "conversation_id": "2080695223882289376",
+        "created_at": "2026-07-24T16:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080695223882289376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "mizitill"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "tillmizi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Z4lgbloF2",
+              "end": 75,
+              "expanded_url": "https://x.com/ewsmk9/status/2080695223882289376/photo/1",
+              "media_key": "3_2080695214101172224",
+              "start": 52,
+              "url": "https://t.co/7Z4lgbloF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080695223882289376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 1693,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "틸미지틸女偶像男粉丝au\n在club里遇到了自己的本命…！？\n#mizitill  #tillmizi https://t.co/7Z4lgbloF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080695214101172224"
+          ],
+          "media_source_tweet_id": [
+            "2080695223882289376"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2080896367028036054",
+        "created_at": "2026-07-25T06:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080896367028036054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "mizitill"
+            },
+            {
+              "end": 63,
+              "start": 54,
+              "tag": "tillmizi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055093621335220224",
+              "start": 3,
+              "username": "ewsmk9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Z4lgbloF2",
+              "end": 87,
+              "expanded_url": "https://x.com/ewsmk9/status/2080695223882289376/photo/1",
+              "media_key": "3_2080695214101172224",
+              "start": 64,
+              "url": "https://t.co/7Z4lgbloF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080896367028036054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080695223882289376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ewsmk9: 틸미지틸女偶像男粉丝au\n在club里遇到了自己的本命…！？\n#mizitill  #tillmizi https://t.co/7Z4lgbloF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 52,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 860
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:11:57.000Z",
+        "description": "不管别人怎么说，我的心意是无法阻挡的！",
+        "id": "2055093621335220224",
+        "name": "깐",
+        "pinned_tweet_id": "2073797316964983281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070462373492830208/bM0RYoMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 28,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "ewsmk9",
+        "verified": false
+      }
+    ]
+  }
+}

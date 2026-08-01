@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2040128586066383071",
+    "created_at": "2026-04-04T02:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T03:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040254464096104662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949469100549324800",
+          "start": 0,
+          "username": "bfdjjbcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040254464096104662",
+    "in_reply_to_user_id": "1949469100549324800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040132649939788059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bfdjjbcd 乖宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2040128586066383071",
+        "created_at": "2026-04-04T02:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040254464096104662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949469100549324800",
+              "start": 0,
+              "username": "bfdjjbcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040254464096104662",
+        "in_reply_to_user_id": "1949469100549324800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040132649939788059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bfdjjbcd 乖宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949469100549324800",
+        "conversation_id": "2040128586066383071",
+        "created_at": "2026-04-03T18:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040132649939788059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040132649939788059",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040128586066383071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 天呐妈妈…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "pinned_tweet_id": "2040114551736430778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 57,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T13:57:15.000Z",
+        "description": "你必须跟我好，这是规定！这是命令！这是世界准则！",
+        "id": "1949469100549324800",
+        "name": "菠萝猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975194904176300032/OYGO6u3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 63,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 96
+        },
+        "username": "bfdjjbcd",
+        "verified": false
+      }
+    ]
+  }
+}

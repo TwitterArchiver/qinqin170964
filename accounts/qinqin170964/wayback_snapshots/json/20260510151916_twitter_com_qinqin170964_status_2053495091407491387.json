@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2053473157567418524",
+    "created_at": "2026-05-10T15:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053495091407491387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424401401904451585",
+          "start": 0,
+          "username": "noperlove8meish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053495091407491387",
+    "in_reply_to_user_id": "1424401401904451585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053473157567418524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noperlove8meish 好恐怖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2053473157567418524",
+        "created_at": "2026-05-10T15:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053495091407491387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424401401904451585",
+              "start": 0,
+              "username": "noperlove8meish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053495091407491387",
+        "in_reply_to_user_id": "1424401401904451585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053473157567418524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noperlove8meish 好恐怖。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424401401904451585",
+        "conversation_id": "2053473157567418524",
+        "created_at": "2026-05-10T13:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053473157567418524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053473157567418524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我受不了了为什么这个世界全是虫子啊啊啊啊不要扑棱翅膀往我脸上飞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 52,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T16:05:42.000Z",
+        "description": "目标是成为一个不高不低不好不坏的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nobudo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nobudo",
+                "start": 0,
+                "url": "https://t.co/lXte4VSqiY"
+              }
+            ]
+          }
+        },
+        "id": "1424401401904451585",
+        "name": "nobido",
+        "pinned_tweet_id": "2028443728357285962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899003148225888256/frUVYAdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 114,
+          "like_count": 7493,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1527
+        },
+        "url": "https://t.co/lXte4VSqiY",
+        "username": "noperlove8meish",
+        "verified": false
+      }
+    ]
+  }
+}

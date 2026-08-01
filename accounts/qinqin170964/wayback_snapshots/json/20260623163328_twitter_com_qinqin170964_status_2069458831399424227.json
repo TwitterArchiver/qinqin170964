@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2069328364540977172",
+    "created_at": "2026-06-23T16:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069458831399424227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1779854230175817728",
+          "start": 0,
+          "username": "YbyyWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069458831399424227",
+    "in_reply_to_user_id": "1779854230175817728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069413272516989286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YbyyWg 唉，后面开智了就觉得bl很让人恶心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2069328364540977172",
+        "created_at": "2026-06-23T16:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069458831399424227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1779854230175817728",
+              "start": 0,
+              "username": "YbyyWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069458831399424227",
+        "in_reply_to_user_id": "1779854230175817728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069413272516989286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YbyyWg 唉，后面开智了就觉得bl很让人恶心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779854230175817728",
+        "conversation_id": "2069328364540977172",
+        "created_at": "2026-06-23T13:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069413272516989286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069413272516989286",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069328364540977172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 我也...之前是忠诚的bl选手 还看了大学两年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 43,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T12:48:22.000Z",
+        "description": "垃圾桶",
+        "id": "1779854230175817728",
+        "name": "幸福降临",
+        "pinned_tweet_id": "2048619816039440762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833287159329275904/PdXsNcjK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 71,
+          "like_count": 874,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1613
+        },
+        "url": "",
+        "username": "YbyyWg",
+        "verified": false
+      }
+    ]
+  }
+}

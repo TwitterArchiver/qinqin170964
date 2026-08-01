@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2037332303886827781",
+    "created_at": "2026-03-27T02:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T03:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037351762890469645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424401401904451585",
+          "start": 0,
+          "username": "noperlove8meish"
+        },
+        {
+          "end": 33,
+          "id": "2019452811663265792",
+          "start": 17,
+          "username": "RandallAyr94065"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037351762890469645",
+    "in_reply_to_user_id": "1424401401904451585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037351382425227457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noperlove8meish @RandallAyr94065 笑晕了，其实暗恋我来着，上一条刚被我骂没有头像的人机号，现在就会换啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2037332303886827781",
+        "created_at": "2026-03-27T02:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037351762890469645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424401401904451585",
+              "start": 0,
+              "username": "noperlove8meish"
+            },
+            {
+              "end": 33,
+              "id": "2019452811663265792",
+              "start": 17,
+              "username": "RandallAyr94065"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037351762890469645",
+        "in_reply_to_user_id": "1424401401904451585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037351382425227457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noperlove8meish @RandallAyr94065 笑晕了，其实暗恋我来着，上一条刚被我骂没有头像的人机号，现在就会换啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424401401904451585",
+        "conversation_id": "2037332303886827781",
+        "created_at": "2026-03-27T02:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037351382425227457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            },
+            {
+              "end": 30,
+              "id": "2019452811663265792",
+              "start": 14,
+              "username": "RandallAyr94065"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037351382425227457",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037346456546496649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 @RandallAyr94065 他还学聪明了知道换头像哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/人机来一次举报一次/🈚️🚪/女生互关私）男的私信骚扰我小心你全家/背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 58,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T16:05:42.000Z",
+        "description": "目标是成为一个不高不低不好不坏的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nobudo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nobudo",
+                "start": 0,
+                "url": "https://t.co/lXte4VSqiY"
+              }
+            ]
+          }
+        },
+        "id": "1424401401904451585",
+        "name": "nobido",
+        "pinned_tweet_id": "2015416493245427905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899003148225888256/frUVYAdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 107,
+          "like_count": 4658,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/lXte4VSqiY",
+        "username": "noperlove8meish",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T16:48:00.000Z",
+        "description": "",
+        "id": "2019452811663265792",
+        "name": "星辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037334206033084416/5MBOKck7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "RandallAyr94065",
+        "verified": false
+      }
+    ]
+  }
+}

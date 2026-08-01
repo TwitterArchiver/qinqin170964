@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036961454612766720"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2036823666458308920",
+    "created_at": "2026-03-26T00:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T01:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036961462678413779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        },
+        {
+          "end": 29,
+          "id": "2019452851022622723",
+          "start": 13,
+          "username": "dean_gabri60799"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pafGVmHsSY",
+          "end": 60,
+          "expanded_url": "https://x.com/qinqin170964/status/2036961462678413779/photo/1",
+          "media_key": "3_2036961454612766720",
+          "start": 37,
+          "url": "https://t.co/pafGVmHsSY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036961462678413779",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036946561054498873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa @dean_gabri60799 是这个畜生的 https://t.co/pafGVmHsSY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036961454612766720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HES9ppNbYAAAQQx.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036961454612766720"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2036823666458308920",
+        "created_at": "2026-03-26T00:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036961462678413779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            },
+            {
+              "end": 29,
+              "id": "2019452851022622723",
+              "start": 13,
+              "username": "dean_gabri60799"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pafGVmHsSY",
+              "end": 60,
+              "expanded_url": "https://x.com/qinqin170964/status/2036961462678413779/photo/1",
+              "media_key": "3_2036961454612766720",
+              "start": 37,
+              "url": "https://t.co/pafGVmHsSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036961462678413779",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036946561054498873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa @dean_gabri60799 是这个畜生的 https://t.co/pafGVmHsSY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2036823666458308920",
+        "created_at": "2026-03-25T23:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036946561054498873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019452851022622723",
+              "start": 0,
+              "username": "dean_gabri60799"
+            },
+            {
+              "end": 30,
+              "id": "2002003730334621696",
+              "start": 17,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036946561054498873",
+        "in_reply_to_user_id": "2019452851022622723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036849455417397515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dean_gabri60799 @qinqin170964 🤣🤣🤣我操好好笑啊。你说是就是？付款记录呢？你看着就不像有这么大方拿得出这么多钱的人啊哥们。你到底谁小号啊这么着急误人清白？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/互关加wx私）女生互关私）男的私信骚扰我小心你全家/l背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2036823666458308920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 57,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 147,
+          "like_count": 3453,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T16:48:02.000Z",
+        "description": "",
+        "id": "2019452851022622723",
+        "name": "金箍棒",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "dean_gabri60799",
+        "verified": false
+      }
+    ]
+  }
+}

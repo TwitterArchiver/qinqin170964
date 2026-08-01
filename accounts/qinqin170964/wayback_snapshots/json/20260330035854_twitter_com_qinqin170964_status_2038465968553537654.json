@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2038464136544461228",
+    "created_at": "2026-03-30T03:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T04:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038465968553537654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1419384632810917888",
+          "start": 0,
+          "username": "PHeeead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038465968553537654",
+    "in_reply_to_user_id": "1419384632810917888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038464136544461228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHeeead 这个是人机机器人，卖的来的不用管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2038464136544461228",
+        "created_at": "2026-03-30T03:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038465968553537654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1419384632810917888",
+              "start": 0,
+              "username": "PHeeead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038465968553537654",
+        "in_reply_to_user_id": "1419384632810917888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038464136544461228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHeeead 这个是人机机器人，卖的来的不用管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419384632810917888",
+        "conversation_id": "2038464136544461228",
+        "created_at": "2026-03-30T03:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038464136544461228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038464136544461228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到一个叫我哥哥的私信，我看起来很像男的吗，还是说只是广撒网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/人机来一次举报一次/🈚️🚪/🥺会评论的好宝宝来和我互关）女生互关私）私信骚扰我小心你全家/背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2037192278884966797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 60,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T19:51:08.000Z",
+        "description": "爱/有病的碎碎念/随笔/互fo",
+        "id": "1419384632810917888",
+        "name": "FD",
+        "pinned_tweet_id": "2036148355575980365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037784680137887744/9SSN76oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "username": "PHeeead",
+        "verified": false
+      }
+    ]
+  }
+}

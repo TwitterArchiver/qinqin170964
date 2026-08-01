@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2069788630718255314",
+    "created_at": "2026-06-24T15:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069805586074792226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761655410820579328",
+          "start": 0,
+          "username": "luckykt17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069805586074792226",
+    "in_reply_to_user_id": "1761655410820579328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069788630718255314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luckykt17 姐姐好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2069788622715523072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLldyUEakAAik55.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2069788630718255314",
+        "created_at": "2026-06-24T15:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069805586074792226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761655410820579328",
+              "start": 0,
+              "username": "luckykt17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069805586074792226",
+        "in_reply_to_user_id": "1761655410820579328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069788630718255314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckykt17 姐姐好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069788622715523072"
+          ]
+        },
+        "author_id": "1761655410820579328",
+        "conversation_id": "2069788630718255314",
+        "created_at": "2026-06-24T14:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069788630718255314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRkeKyNtuS",
+              "end": 33,
+              "expanded_url": "https://x.com/luckykt17/status/2069788630718255314/photo/1",
+              "media_key": "3_2069788622715523072",
+              "start": 10,
+              "url": "https://t.co/nRkeKyNtuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069788630718255314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1555,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已复活！！！！！ https://t.co/nRkeKyNtuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 43,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T07:32:50.000Z",
+        "description": "用微小的事情去感受幸福 @xiaying1117仅过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "xiaying1117"
+              }
+            ]
+          }
+        },
+        "id": "1761655410820579328",
+        "location": "无🚪",
+        "name": "恋绘兔",
+        "pinned_tweet_id": "2067155073403425232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048680651239702528/T4Ca-HYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3155,
+          "following_count": 187,
+          "like_count": 4298,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1755
+        },
+        "url": "",
+        "username": "luckykt17",
+        "verified": false
+      }
+    ]
+  }
+}

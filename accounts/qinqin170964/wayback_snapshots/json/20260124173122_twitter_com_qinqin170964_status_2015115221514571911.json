@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2014987778233430394",
+    "created_at": "2026-01-24T17:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T18:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015115221514571911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1764466620704100352",
+          "start": 0,
+          "username": "D_e_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015115221514571911",
+    "in_reply_to_user_id": "1764466620704100352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014987778233430394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D_e_6 简直少女漫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2014987772407463936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_astAEaQAAN17N.jpg",
+        "width": 768
+      },
+      {
+        "height": 1709,
+        "media_key": "3_2014987772566593536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_astAqWYAA5AXG.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2014987778233430394",
+        "created_at": "2026-01-24T17:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015115221514571911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1764466620704100352",
+              "start": 0,
+              "username": "D_e_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015115221514571911",
+        "in_reply_to_user_id": "1764466620704100352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014987778233430394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D_e_6 简直少女漫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014987772407463936",
+            "3_2014987772566593536"
+          ]
+        },
+        "author_id": "1764466620704100352",
+        "conversation_id": "2014987778233430394",
+        "created_at": "2026-01-24T09:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014987778233430394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aka6dNlMvY",
+              "end": 23,
+              "expanded_url": "https://x.com/D_e_6/status/2014987778233430394/photo/1",
+              "media_key": "3_2014987772407463936",
+              "start": 0,
+              "url": "https://t.co/aka6dNlMvY"
+            },
+            {
+              "display_url": "pic.x.com/aka6dNlMvY",
+              "end": 23,
+              "expanded_url": "https://x.com/D_e_6/status/2014987778233430394/photo/1",
+              "media_key": "3_2014987772566593536",
+              "start": 0,
+              "url": "https://t.co/aka6dNlMvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014987778233430394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 32964,
+          "like_count": 1341,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aka6dNlMvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的",
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "沙拉重度依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002439042634559491/oYhxdNgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T01:43:29.000Z",
+        "description": "サブ @neko_manma____",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "neko_manma____"
+              }
+            ]
+          }
+        },
+        "id": "1764466620704100352",
+        "name": "暴君",
+        "pinned_tweet_id": "2012755812071129465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914461204359340035/dgDA7-hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14094,
+          "following_count": 40,
+          "like_count": 23838,
+          "listed_count": 43,
+          "media_count": 3,
+          "tweet_count": 11606
+        },
+        "username": "D_e_6",
+        "verified": false
+      }
+    ]
+  }
+}

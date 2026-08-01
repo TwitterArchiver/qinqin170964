@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2069717139163082894",
+    "created_at": "2026-06-25T11:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070114362988409181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070114362988409181",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069717139163082894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 🫳🫳🫳🫳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8461,
+        "height": 720,
+        "media_key": "13_2059189533896503296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059189533896503296/img/O-j6kZ87DmW5LTiZ.jpg",
+        "public_metrics": {
+          "view_count": 4345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059189533896503296/vid/avc1/480x270/-bVK6XhMgnrhKfZV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059189533896503296/vid/avc1/640x360/bjNfOOoz0zinSaAS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059189533896503296/vid/avc1/1280x720/IPeTv7Lc3TQiIWeF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059189533896503296/pl/_o5k9Lk7uEIgdGrA.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2069717139163082894",
+        "created_at": "2026-06-25T11:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070114362988409181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070114362988409181",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069717139163082894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 🫳🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059189533896503296"
+          ],
+          "media_source_tweet_id": [
+            "2059189596030914625"
+          ]
+        },
+        "author_id": "1632079685436727299",
+        "conversation_id": "2069717139163082894",
+        "created_at": "2026-06-24T09:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069717139163082894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGHShqj8EA",
+              "end": 27,
+              "expanded_url": "https://x.com/xxNANAml/status/2059189596030914625/video/1",
+              "media_key": "13_2059189533896503296",
+              "start": 4,
+              "url": "https://t.co/eGHShqj8EA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069717139163082894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6879,
+          "like_count": 245,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "所有人 https://t.co/eGHShqj8EA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 43,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2061157295976022324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068070792852860928/ii-xR2OT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3310,
+          "following_count": 223,
+          "like_count": 36760,
+          "listed_count": 7,
+          "media_count": 625,
+          "tweet_count": 7921
+        },
+        "url": "",
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

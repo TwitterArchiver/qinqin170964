@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2025614431594680631",
+    "created_at": "2026-02-22T16:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025614431594680631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxxxx62778/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/xxxxx62778/status/2025447559842697715",
+          "start": 12,
+          "url": "https://t.co/SolfGCNbHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025614431594680631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025447559842697715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是冷淡我我就会这样！ https://t.co/SolfGCNbHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1065,
+        "media_key": "3_2025447474996150273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvVv0pbgAE1Cxo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2025614431594680631",
+        "created_at": "2026-02-22T16:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025614431594680631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxxx62778/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xxxxx62778/status/2025447559842697715",
+              "start": 12,
+              "url": "https://t.co/SolfGCNbHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025614431594680631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025447559842697715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是冷淡我我就会这样！ https://t.co/SolfGCNbHg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025447474996150273"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2025447559842697715",
+        "created_at": "2026-02-22T05:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025447559842697715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1atWYiqPM",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2025447559842697715/photo/1",
+              "media_key": "3_2025447474996150273",
+              "start": 16,
+              "url": "https://t.co/D1atWYiqPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025447559842697715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11652,
+          "like_count": 515,
+          "quote_count": 17,
+          "reply_count": 6,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "别人稍微冷淡我一点belike https://t.co/D1atWYiqPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 29,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 30,
+          "like_count": 27214,
+          "listed_count": 3,
+          "media_count": 3461,
+          "tweet_count": 10083
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

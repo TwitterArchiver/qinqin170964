@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2025633559520874782",
+    "created_at": "2026-02-22T18:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T19:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025643832570990638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890885092329074688",
+          "start": 0,
+          "username": "xiaxia1396128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025643832570990638",
+    "in_reply_to_user_id": "1890885092329074688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025633559520874782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaxia1396128 我也两个口腔溃疡，还有一个在嘴唇旁边。痛的我一直哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2025633559520874782",
+        "created_at": "2026-02-22T18:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T19:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025643832570990638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890885092329074688",
+              "start": 0,
+              "username": "xiaxia1396128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025643832570990638",
+        "in_reply_to_user_id": "1890885092329074688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025633559520874782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaxia1396128 我也两个口腔溃疡，还有一个在嘴唇旁边。痛的我一直哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890885092329074688",
+        "conversation_id": "2025633559520874782",
+        "created_at": "2026-02-22T18:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T19:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025633559520874782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025633559520874782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘴里两个溃疡刷牙还真是劲爽啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 32,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T22:05:21.000Z",
+        "description": "藤井树，你好吗，我不好",
+        "id": "1890885092329074688",
+        "location": "(｡•̀ᴗ-)✧",
+        "name": "夏虾下",
+        "pinned_tweet_id": "2022514077550121353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018268312795512832/4n2djlCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 32,
+          "like_count": 5916,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 277
+        },
+        "username": "xiaxia1396128",
+        "verified": false
+      }
+    ]
+  }
+}

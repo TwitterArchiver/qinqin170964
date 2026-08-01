@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2041715262718931122",
+    "created_at": "2026-04-08T03:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T04:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041718083363213688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424401401904451585",
+          "start": 0,
+          "username": "noperlove8meish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041718083363213688",
+    "in_reply_to_user_id": "1424401401904451585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041715742748635535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@noperlove8meish 我也想吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2041715262718931122",
+        "created_at": "2026-04-08T03:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041718083363213688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424401401904451585",
+              "start": 0,
+              "username": "noperlove8meish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041718083363213688",
+        "in_reply_to_user_id": "1424401401904451585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041715742748635535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@noperlove8meish 我也想吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424401401904451585",
+        "conversation_id": "2041715262718931122",
+        "created_at": "2026-04-08T03:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041715742748635535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041715742748635535",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041715262718931122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@qinqin170964 想吃猪肉铺和芒果干还有披萨了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 58,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T16:05:42.000Z",
+        "description": "目标是成为一个不高不低不好不坏的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nobudo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nobudo",
+                "start": 0,
+                "url": "https://t.co/lXte4VSqiY"
+              }
+            ]
+          }
+        },
+        "id": "1424401401904451585",
+        "name": "nobido",
+        "pinned_tweet_id": "2015416493245427905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899003148225888256/frUVYAdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 111,
+          "like_count": 5431,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/lXte4VSqiY",
+        "username": "noperlove8meish",
+        "verified": false
+      }
+    ]
+  }
+}

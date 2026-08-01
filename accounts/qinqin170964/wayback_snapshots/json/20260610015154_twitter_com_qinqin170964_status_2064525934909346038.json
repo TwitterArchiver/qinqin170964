@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2064384983394038129",
+    "created_at": "2026-06-10T01:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064525934909346038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064525934909346038",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064384983394038129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 摸一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15435,
+        "height": 720,
+        "media_key": "13_2064384864154169345",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064384864154169345/img/IvugsH4J3G1-XC3u.jpg",
+        "public_metrics": {
+          "view_count": 214
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064384864154169345/vid/avc1/480x270/1rLugdeRSFPJiQsj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064384864154169345/vid/avc1/640x360/aYx-jDtI5acJe-Iv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064384864154169345/vid/avc1/1280x720/QmI2XfmHAkYk6M23.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064384864154169345/pl/vRqtCMcfCASFn8eL.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2064384983394038129",
+        "created_at": "2026-06-10T01:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064525934909346038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064525934909346038",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064384983394038129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 摸一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064384864154169345"
+          ]
+        },
+        "author_id": "1632079685436727299",
+        "conversation_id": "2064384983394038129",
+        "created_at": "2026-06-09T16:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064384983394038129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QFz4GtQhIp",
+              "end": 30,
+              "expanded_url": "https://x.com/xxNANAml/status/2064384983394038129/video/1",
+              "media_key": "13_2064384864154169345",
+              "start": 7,
+              "url": "https://t.co/QFz4GtQhIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064384983394038129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 726,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有懂的。 https://t.co/QFz4GtQhIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "你是我的我是你的谁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 43,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2061157295976022324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059561525682286592/nx12v6TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 217,
+          "like_count": 34356,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 7147
+        },
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

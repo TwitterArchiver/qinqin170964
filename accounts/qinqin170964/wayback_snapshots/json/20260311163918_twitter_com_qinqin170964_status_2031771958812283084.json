@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2031667684425994597",
+    "created_at": "2026-03-11T16:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031771958812283084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926509265792950272",
+          "start": 0,
+          "username": "xjaxja217379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031771958812283084",
+    "in_reply_to_user_id": "1926509265792950272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031667684425994597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjaxja217379 俺捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2031667684425994597",
+        "created_at": "2026-03-11T16:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031771958812283084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926509265792950272",
+              "start": 0,
+              "username": "xjaxja217379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031771958812283084",
+        "in_reply_to_user_id": "1926509265792950272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031667684425994597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjaxja217379 俺捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926509265792950272",
+        "conversation_id": "2031667684425994597",
+        "created_at": "2026-03-11T09:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031667684425994597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031667684425994597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16098,
+          "like_count": 287,
+          "quote_count": 6,
+          "reply_count": 86,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我靠呀，头像真的好重要我去啊，你只要不露脸，我都会把你头像当成你的样子，就算是那种小猫小狗的🌚所以那些头像萌萌的人发东西，我都会对这个人有好感啊我靠🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 35,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:23:06.000Z",
+        "description": "ithinkimgoinginsane\n\nhttps://t.co/tCwRfxMSFF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurisu0825",
+                "end": 44,
+                "expanded_url": "https://ngl.link/kurisu0825",
+                "start": 21,
+                "url": "https://t.co/tCwRfxMSFF"
+              }
+            ]
+          }
+        },
+        "id": "1926509265792950272",
+        "name": "彼岸花开时",
+        "pinned_tweet_id": "2029209327047987333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996111026945970176/ncyjQHIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 207,
+          "like_count": 149683,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1533
+        },
+        "username": "xjaxja217379",
+        "verified": false
+      }
+    ]
+  }
+}

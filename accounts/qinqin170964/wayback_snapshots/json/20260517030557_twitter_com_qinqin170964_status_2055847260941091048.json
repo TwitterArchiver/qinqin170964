@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055147312838774784"
+      ],
+      "media_source_tweet_id": [
+        "2055147321525207229"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2055847260941091048",
+    "created_at": "2026-05-17T03:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055847260941091048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "885436981886439424",
+          "start": 3,
+          "username": "BadDogEgg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EQAngoPGnl",
+          "end": 59,
+          "expanded_url": "https://x.com/BadDogEgg/status/2055147321525207229/photo/1",
+          "media_key": "3_2055147312838774784",
+          "start": 36,
+          "url": "https://t.co/EQAngoPGnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055847260941091048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055147321525207229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BadDogEgg: 液体药太苦了，领养人说好难喂，表情好好笑 https://t.co/EQAngoPGnl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055147312838774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVZl6bakAA62Ox.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055147312838774784"
+          ],
+          "media_source_tweet_id": [
+            "2055147321525207229"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2055847260941091048",
+        "created_at": "2026-05-17T03:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055847260941091048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "885436981886439424",
+              "start": 3,
+              "username": "BadDogEgg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQAngoPGnl",
+              "end": 59,
+              "expanded_url": "https://x.com/BadDogEgg/status/2055147321525207229/photo/1",
+              "media_key": "3_2055147312838774784",
+              "start": 36,
+              "url": "https://t.co/EQAngoPGnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055847260941091048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055147321525207229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BadDogEgg: 液体药太苦了，领养人说好难喂，表情好好笑 https://t.co/EQAngoPGnl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055147312838774784"
+          ]
+        },
+        "author_id": "885436981886439424",
+        "conversation_id": "2055147321525207229",
+        "created_at": "2026-05-15T04:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055147321525207229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQAngoPGnl",
+              "end": 44,
+              "expanded_url": "https://x.com/BadDogEgg/status/2055147321525207229/photo/1",
+              "media_key": "3_2055147312838774784",
+              "start": 21,
+              "url": "https://t.co/EQAngoPGnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055147321525207229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 62043,
+          "like_count": 1965,
+          "quote_count": 21,
+          "reply_count": 102,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "液体药太苦了，领养人说好难喂，表情好好笑 https://t.co/EQAngoPGnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 53,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-13T09:53:21.000Z",
+        "description": "I am nothing/领养代替购买",
+        "id": "885436981886439424",
+        "location": "水泥廠",
+        "name": "狗蛋",
+        "pinned_tweet_id": "2019862075728883808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050149271610216448/c8Xd9df5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6464,
+          "following_count": 282,
+          "like_count": 144172,
+          "listed_count": 29,
+          "media_count": 12555,
+          "tweet_count": 49051
+        },
+        "username": "BadDogEgg",
+        "verified": false
+      }
+    ]
+  }
+}

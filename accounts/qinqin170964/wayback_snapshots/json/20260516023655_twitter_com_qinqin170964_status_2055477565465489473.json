@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2054824293830467998",
+    "created_at": "2026-05-16T02:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055477565465489473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        },
+        {
+          "end": 23,
+          "id": "715618813",
+          "start": 14,
+          "username": "LeigeSee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055477565465489473",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055173542598320621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 @LeigeSee 评论区一堆贱畜不停的yy，恶心死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2054824293830467998",
+        "created_at": "2026-05-16T02:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055477565465489473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            },
+            {
+              "end": 23,
+              "id": "715618813",
+              "start": 14,
+              "username": "LeigeSee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055477565465489473",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055173542598320621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 @LeigeSee 评论区一堆贱畜不停的yy，恶心死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2054824293830467998",
+        "created_at": "2026-05-15T06:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055173542598320621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "715618813",
+              "start": 0,
+              "username": "LeigeSee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055173542598320621",
+        "in_reply_to_user_id": "715618813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1255,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054824293830467998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeigeSee 一群贱货烂裤裆在评论区嘴臭。我强忍不适把你们拉进黑名单。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 53,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜🇨🇦｜叫我M豆或者豆就好｜Bisexual｜infp｜有主人/老公/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/AcyHhjdINC"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2044582265523454025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 377,
+          "like_count": 2919,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2773
+        },
+        "url": "https://t.co/AcyHhjdINC",
+        "username": "sandyyyy0922",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-25T06:48:00.000Z",
+        "description": "全职奶爸，兼职开发点APP啥滴。 | |  最新作品True Face，google play下载链接:\nhttps://t.co/Efdcghc9mp  | |  喜欢各种有趣但没用的知识（故事）（记住的是知识，记不住的是故事）。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "play.google.com/store/apps/det…",
+                "end": 76,
+                "expanded_url": "https://play.google.com/store/apps/details?id=com.yjh.tf",
+                "start": 53,
+                "url": "https://t.co/Efdcghc9mp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tftfapp.com",
+                "end": 23,
+                "expanded_url": "https://tftfapp.com",
+                "start": 0,
+                "url": "https://t.co/TSJxEhh8aE"
+              }
+            ]
+          }
+        },
+        "id": "715618813",
+        "name": "Leige",
+        "pinned_tweet_id": "2027561542695456910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1237998766470221824/jDe6bZDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16826,
+          "following_count": 553,
+          "like_count": 12842,
+          "listed_count": 63,
+          "media_count": 1713,
+          "tweet_count": 21662
+        },
+        "url": "https://t.co/TSJxEhh8aE",
+        "username": "LeigeSee",
+        "verified": true
+      }
+    ]
+  }
+}

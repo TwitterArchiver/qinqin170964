@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2072527313955340316",
+    "created_at": "2026-07-02T03:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072527313955340316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/official_alnst…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/official_alnst/status/1821833798746829029",
+          "start": 6,
+          "url": "https://t.co/QvvaRk6QGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072527313955340316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821833798746829029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的宝宝们 https://t.co/QvvaRk6QGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_1821819619851825153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUhnSrYa8AEHAEJ.jpg",
+        "width": 1780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2072527313955340316",
+        "created_at": "2026-07-02T03:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072527313955340316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/official_alnst…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/official_alnst/status/1821833798746829029",
+              "start": 6,
+              "url": "https://t.co/QvvaRk6QGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072527313955340316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821833798746829029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的宝宝们 https://t.co/QvvaRk6QGp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821819619851825153"
+          ]
+        },
+        "author_id": "1627903133539237888",
+        "conversation_id": "1821833798746829029",
+        "created_at": "2024-08-09T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821833798746829029"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ALNST"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "에이스테"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BckEHPA75k",
+              "end": 36,
+              "expanded_url": "https://x.com/Official_ALNST/status/1821833798746829029/photo/1",
+              "media_key": "3_1821819619851825153",
+              "start": 13,
+              "url": "https://t.co/BckEHPA75k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821833798746829029",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5591,
+          "impression_count": 3222305,
+          "like_count": 86168,
+          "quote_count": 2510,
+          "reply_count": 411,
+          "retweet_count": 14133
+        },
+        "reply_settings": "everyone",
+        "text": "#ALNST #에이스테 https://t.co/BckEHPA75k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 48,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T05:28:58.000Z",
+        "description": "Still alive, it hurts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@VIVINOS",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@VIVINOS",
+                "start": 0,
+                "url": "https://t.co/7Kf5N4j0e6"
+              }
+            ]
+          }
+        },
+        "id": "1627903133539237888",
+        "name": "ALIEN STAGE_official",
+        "pinned_tweet_id": "2006304333504344543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062819279351992320/UgVZuWNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996229,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 493,
+          "media_count": 434,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/7Kf5N4j0e6",
+        "username": "Official_ALNST",
+        "verified": true
+      }
+    ]
+  }
+}

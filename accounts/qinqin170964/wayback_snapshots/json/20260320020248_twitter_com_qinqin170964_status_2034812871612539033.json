@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2034786972699697366",
+    "created_at": "2026-03-20T02:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T03:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034812871612539033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936734981755404288",
+          "start": 0,
+          "username": "xxxx147495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034812871612539033",
+    "in_reply_to_user_id": "1936734981755404288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034807050770030775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxx147495 对啊，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2034786972699697366",
+        "created_at": "2026-03-20T02:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034812871612539033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936734981755404288",
+              "start": 0,
+              "username": "xxxx147495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034812871612539033",
+        "in_reply_to_user_id": "1936734981755404288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034807050770030775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx147495 对啊，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936734981755404288",
+        "conversation_id": "2034786972699697366",
+        "created_at": "2026-03-20T01:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034807050770030775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034807050770030775",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034786972699697366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 有人配得感真的特强…之前有人也是要我微信 我几分钟不理就苛责我为何不回消息…我们只是网友好吗 你把手机摔了我就死了 放下屠刀佛在救你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/互关加wx私）女生互关私）男的私信骚扰我小心你全家/l背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2034138274990854395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 52,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T10:36:28.000Z",
+        "description": "苹果只做苹果事",
+        "id": "1936734981755404288",
+        "location": "未知",
+        "name": "林檎",
+        "pinned_tweet_id": "2034254156920426754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030888005209407488/Swz_X1Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 65,
+          "like_count": 148,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 237
+        },
+        "username": "xxxx147495",
+        "verified": false
+      }
+    ]
+  }
+}

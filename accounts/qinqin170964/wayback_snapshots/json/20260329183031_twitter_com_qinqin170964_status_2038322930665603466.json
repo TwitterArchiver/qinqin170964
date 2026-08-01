@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2038321764749774988",
+    "created_at": "2026-03-29T18:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038322930665603466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992391597003255808",
+          "start": 0,
+          "username": "tiancaiG1ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038322930665603466",
+    "in_reply_to_user_id": "1992391597003255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038321764749774988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancaiG1ovo 看力竭了，就是有这种傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038321753618104320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmS1d5bwAARyal.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2038321764749774988",
+        "created_at": "2026-03-29T18:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038322930665603466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992391597003255808",
+              "start": 0,
+              "username": "tiancaiG1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038322930665603466",
+        "in_reply_to_user_id": "1992391597003255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038321764749774988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancaiG1ovo 看力竭了，就是有这种傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038321753618104320"
+          ]
+        },
+        "author_id": "1992391597003255808",
+        "conversation_id": "2038321764749774988",
+        "created_at": "2026-03-29T18:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038321764749774988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7S3y7nyO55",
+              "end": 140,
+              "expanded_url": "https://x.com/tiancaiG1ovo/status/2038321764749774988/photo/1",
+              "media_key": "3_2038321753618104320",
+              "start": 117,
+              "url": "https://t.co/7S3y7nyO55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038321764749774988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我快气死了，我真的很难想象真的有人以第二性别这几个字作为攻击人的手段，气死我了\n话说知道我是男的马上就要给我扣🐢帽子来着，挺好笑的，不愧是我老乡\n我真对我家乡那个穷山恶水刁民的省份快一点好感没有了，比较考出来也是里面的人的理想不是吗 https://t.co/7S3y7nyO55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "碎碎念/人机来一次举报一次/🈚️🚪/🥺会评论的好宝宝来和我互关）女生互关私）私信骚扰我小心你全家/背景可投喂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2037192278884966797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 60,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T00:36:04.000Z",
+        "description": "叹息间是夜晚   求你们陪我玩https://t.co/faCvjYRwGd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aggg61398",
+                "end": 38,
+                "expanded_url": "http://ngl.link/aggg61398",
+                "start": 15,
+                "url": "https://t.co/faCvjYRwGd"
+              }
+            ]
+          }
+        },
+        "id": "1992391597003255808",
+        "name": "缺乏色彩的阿G",
+        "pinned_tweet_id": "2023360997323669963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023828770399072257/48Bij7r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 113,
+          "like_count": 6873,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1722
+        },
+        "username": "tiancaiG1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

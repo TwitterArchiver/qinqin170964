@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2053464348937560342",
+    "created_at": "2026-05-10T15:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053495208491499577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954008595290632196",
+          "start": 0,
+          "username": "QoQeep_wwwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053495208491499577",
+    "in_reply_to_user_id": "1954008595290632196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053464348937560342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QoQeep_wwwi 好萌啊宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053464333456412672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9e7nqakAAi0MK.jpg",
+        "width": 2018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2053464348937560342",
+        "created_at": "2026-05-10T15:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053495208491499577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954008595290632196",
+              "start": 0,
+              "username": "QoQeep_wwwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053495208491499577",
+        "in_reply_to_user_id": "1954008595290632196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053464348937560342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QoQeep_wwwi 好萌啊宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053464333456412672"
+          ]
+        },
+        "author_id": "1954008595290632196",
+        "conversation_id": "2053464348937560342",
+        "created_at": "2026-05-10T13:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053464348937560342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IETDDL4det",
+              "end": 34,
+              "expanded_url": "https://x.com/QoQeep_wwwi/status/2053464348937560342/photo/1",
+              "media_key": "3_2053464333456412672",
+              "start": 11,
+              "url": "https://t.co/IETDDL4det"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053464348937560342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 300,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次将变成橘毛辣妈～ https://t.co/IETDDL4det"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 52,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T02:35:39.000Z",
+        "description": "那天与你邂逅的辣妈.",
+        "id": "1954008595290632196",
+        "location": "无骨家族职业技术学院",
+        "name": "柠檬无骨辣妈.",
+        "pinned_tweet_id": "2052023453956624420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049159129638543360/HCTCkIxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 461,
+          "like_count": 7710,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 727
+        },
+        "username": "QoQeep_wwwi",
+        "verified": false
+      }
+    ]
+  }
+}

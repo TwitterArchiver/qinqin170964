@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2072757504937996611",
+    "created_at": "2026-07-02T19:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072757504937996611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072757504937996611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉，不管讲多下流的话都没办法掩盖我清纯善良可爱的本质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2072757504937996611",
+        "created_at": "2026-07-02T19:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072757504937996611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072757504937996611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，不管讲多下流的话都没办法掩盖我清纯善良可爱的本质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "💚🩷/🩷🤍🩷",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 51,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 827
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

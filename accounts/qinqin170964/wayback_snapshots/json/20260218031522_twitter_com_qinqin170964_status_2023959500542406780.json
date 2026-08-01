@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2023959500542406780",
+    "created_at": "2026-02-18T03:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023959500542406780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7i__g/status/2…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/7i__g/status/2023915314761609460",
+          "start": 18,
+          "url": "https://t.co/GA0RSmQV1r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023959500542406780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023915314761609460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不会放弃拍这种照片的，后任跑起来 https://t.co/GA0RSmQV1r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 849,
+        "media_key": "3_2023915309049016320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZkQBtXcAA1uuq.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2023959500542406780",
+        "created_at": "2026-02-18T03:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023959500542406780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7i__g/status/2…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/7i__g/status/2023915314761609460",
+              "start": 18,
+              "url": "https://t.co/GA0RSmQV1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023959500542406780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023915314761609460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不会放弃拍这种照片的，后任跑起来 https://t.co/GA0RSmQV1r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023915309049016320"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2023915314761609460",
+        "created_at": "2026-02-18T00:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023915314761609460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGdk4zA6zS",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2023915314761609460/photo/1",
+              "media_key": "3_2023915309049016320",
+              "start": 0,
+              "url": "https://t.co/MGdk4zA6zS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023915314761609460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 19774,
+          "like_count": 1671,
+          "quote_count": 35,
+          "reply_count": 2,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MGdk4zA6zS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Kowloon, Kowloon City, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.18333,
+                  22.31667
+                ],
+                "type": "Point"
+              },
+              "locality": "Kowloon",
+              "region": "Kowloon City"
+            }
+          ]
+        },
+        "description": "来看点让人心情愉悦的/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 38,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 15,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "name": "ًً",
+        "pinned_tweet_id": "2020143277861687409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12957,
+          "following_count": 154,
+          "like_count": 369557,
+          "listed_count": 9,
+          "media_count": 131,
+          "tweet_count": 3714
+        },
+        "username": "7i__g",
+        "verified": false
+      }
+    ]
+  }
+}

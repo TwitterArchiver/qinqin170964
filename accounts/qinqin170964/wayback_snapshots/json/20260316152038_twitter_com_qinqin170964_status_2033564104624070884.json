@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033564094964613120"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2033564104624070884",
+    "created_at": "2026-03-16T15:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033564104624070884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ckfEBJD3wx",
+          "end": 23,
+          "expanded_url": "https://x.com/qinqin170964/status/2033564104624070884/photo/1",
+          "media_key": "3_2033564094964613120",
+          "start": 0,
+          "url": "https://t.co/ckfEBJD3wx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033564104624070884",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ckfEBJD3wx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_2033564094964613120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDirxSRawAAQxb5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033564094964613120"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2033564104624070884",
+        "created_at": "2026-03-16T15:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033564104624070884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ckfEBJD3wx",
+              "end": 23,
+              "expanded_url": "https://x.com/qinqin170964/status/2033564104624070884/photo/1",
+              "media_key": "3_2033564094964613120",
+              "start": 0,
+              "url": "https://t.co/ckfEBJD3wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033564104624070884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ckfEBJD3wx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 42,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2076290979687202998",
+    "created_at": "2026-07-12T13:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076290979687202998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pipo6729311004…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/pipo67293110042/status/2075792003007488424",
+          "start": 3,
+          "url": "https://t.co/Lr9tP4aldB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076290979687202998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075792003007488424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好棒 https://t.co/Lr9tP4aldB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075791730784538624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6xlMUbEAApSHU.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075791725227085824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6xk3nbEAAKmWZ.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2076290979687202998",
+        "created_at": "2026-07-12T13:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076290979687202998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pipo6729311004…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/pipo67293110042/status/2075792003007488424",
+              "start": 3,
+              "url": "https://t.co/Lr9tP4aldB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076290979687202998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075792003007488424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好棒 https://t.co/Lr9tP4aldB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075791730784538624",
+            "3_2075791725227085824"
+          ]
+        },
+        "author_id": "1637375301109026817",
+        "conversation_id": "2075792003007488424",
+        "created_at": "2026-07-11T03:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075792003007488424"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "tillmizi"
+            },
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "ALNST"
+            },
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "ティルミジ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/govEJmz9ZU",
+              "end": 56,
+              "expanded_url": "https://x.com/pipo67293110042/status/2075792003007488424/photo/1",
+              "media_key": "3_2075791730784538624",
+              "start": 33,
+              "url": "https://t.co/govEJmz9ZU"
+            },
+            {
+              "display_url": "pic.x.com/govEJmz9ZU",
+              "end": 56,
+              "expanded_url": "https://x.com/pipo67293110042/status/2075792003007488424/photo/1",
+              "media_key": "3_2075791725227085824",
+              "start": 33,
+              "url": "https://t.co/govEJmz9ZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075792003007488424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 401,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#tillmizi #ALNST #ティルミジ\nガチでさほんとに https://t.co/govEJmz9ZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "💚🩷/🩷🤍🩷",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074679957444567040/J_2N9w6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 51,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T08:48:47.000Z",
+        "description": "おえかき、原神、ヒロアカ、エイステラブ🫶\n⚠雑多アカウント⚠\n無断転載、AI❌️\nhttps://t.co/9c490ENw6I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/pinosukepipopo…",
+                "end": 64,
+                "expanded_url": "https://x.com/pinosukepipopo?t=qk-NUv3uVOLDv",
+                "start": 41,
+                "url": "https://t.co/9c490ENw6I"
+              }
+            ]
+          }
+        },
+        "id": "1637375301109026817",
+        "location": "1年A組寮の植木鉢の中",
+        "name": "一般テレビ",
+        "pinned_tweet_id": "1977307626674520485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067508077923033088/a6OJEcsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 62,
+          "like_count": 6550,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 917
+        },
+        "url": "",
+        "username": "pipo67293110042",
+        "verified": false
+      }
+    ]
+  }
+}

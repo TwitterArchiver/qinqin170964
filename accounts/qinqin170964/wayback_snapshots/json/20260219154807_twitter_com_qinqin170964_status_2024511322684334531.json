@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2024510649779572774",
+    "created_at": "2026-02-19T15:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024511322684334531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001649966381699073",
+          "start": 0,
+          "username": "chuixuebl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024511322684334531",
+    "in_reply_to_user_id": "2001649966381699073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024510649779572774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuixuebl 一般这种时候我都会刷抖音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2024510649779572774",
+        "created_at": "2026-02-19T15:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024511322684334531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001649966381699073",
+              "start": 0,
+              "username": "chuixuebl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024511322684334531",
+        "in_reply_to_user_id": "2001649966381699073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024510649779572774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuixuebl 一般这种时候我都会刷抖音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001649966381699073",
+        "conversation_id": "2024510649779572774",
+        "created_at": "2026-02-19T15:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024510649779572774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024510649779572774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/匿名提问https://t.co/sWICt0MWvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 19,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023596458063417344/HCkKCy77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 30,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T13:45:32.000Z",
+        "description": "晚安｜@awmbwt这个号被盗了 发私信别信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "awmbwt"
+              }
+            ]
+          }
+        },
+        "id": "2001649966381699073",
+        "name": "菠萝吹吹吹雪",
+        "pinned_tweet_id": "2005646418946760816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001662034493009920/n4tsMjtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 81,
+          "like_count": 4652,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 71
+        },
+        "username": "chuixuebl",
+        "verified": false
+      }
+    ]
+  }
+}

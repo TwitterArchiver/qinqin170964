@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2033263175534268719",
+    "created_at": "2026-03-15T19:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T20:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033264132951351784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1727132970228588544",
+          "start": 0,
+          "username": "Slay_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033264132951351784",
+    "in_reply_to_user_id": "1727132970228588544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033263175534268719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Slay_05 好多漂亮的饰品"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2033263117728378880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDeaCGsacAAy08M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2033263175534268719",
+        "created_at": "2026-03-15T19:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T20:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033264132951351784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1727132970228588544",
+              "start": 0,
+              "username": "Slay_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033264132951351784",
+        "in_reply_to_user_id": "1727132970228588544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033263175534268719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Slay_05 好多漂亮的饰品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033263117728378880"
+          ]
+        },
+        "author_id": "1727132970228588544",
+        "conversation_id": "2033263175534268719",
+        "created_at": "2026-03-15T19:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T20:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033263175534268719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Ub6FVgWFQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Slay_05/status/2033263175534268719/photo/1",
+              "media_key": "3_2033263117728378880",
+              "start": 0,
+              "url": "https://t.co/3Ub6FVgWFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033263175534268719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3Ub6FVgWFQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2023822122406342670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 41,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T01:13:04.000Z",
+        "description": "我的世界一直下雨 我淹死了。\n没有🚪 欢迎找我玩\nno gay 不是gay",
+        "id": "1727132970228588544",
+        "location": "距离你200m处 乱葬岗的独伫墓碑",
+        "name": "✞.᛭SlayS🕸️..✞",
+        "pinned_tweet_id": "1764854368556433598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019823255457325056/UFdggtcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 234,
+          "like_count": 15930,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 638
+        },
+        "username": "Slay_05",
+        "verified": false
+      }
+    ]
+  }
+}

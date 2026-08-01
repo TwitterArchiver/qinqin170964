@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2043289364638441801",
+    "created_at": "2026-04-12T14:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043336601401733416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018331895478484993",
+          "start": 0,
+          "username": "Douzi_doki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043336601401733416",
+    "in_reply_to_user_id": "2018331895478484993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043289364638441801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Douzi_doki 明天就喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1947,
+        "media_key": "3_2043289351971581952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs41v2asAAVxDY.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043289352026136576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs41wDbIAAiGOj.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2043289364638441801",
+        "created_at": "2026-04-12T14:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043336601401733416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018331895478484993",
+              "start": 0,
+              "username": "Douzi_doki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043336601401733416",
+        "in_reply_to_user_id": "2018331895478484993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043289364638441801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Douzi_doki 明天就喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043289351971581952",
+            "3_2043289352026136576"
+          ]
+        },
+        "author_id": "2018331895478484993",
+        "conversation_id": "2043289364638441801",
+        "created_at": "2026-04-12T11:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043289364638441801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liW1Y6IV9Z",
+              "end": 40,
+              "expanded_url": "https://x.com/Douzi_doki/status/2043289364638441801/photo/1",
+              "media_key": "3_2043289351971581952",
+              "start": 17,
+              "url": "https://t.co/liW1Y6IV9Z"
+            },
+            {
+              "display_url": "pic.x.com/liW1Y6IV9Z",
+              "end": 40,
+              "expanded_url": "https://x.com/Douzi_doki/status/2043289364638441801/photo/1",
+              "media_key": "3_2043289352026136576",
+              "start": 17,
+              "url": "https://t.co/liW1Y6IV9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043289364638441801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很好喝……喝就对了…….！！ https://t.co/liW1Y6IV9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "pinned_tweet_id": "2041408948855783615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 55,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T14:33:30.000Z",
+        "description": "受け身 04\n• 小豆（あずき）と呼んでください\n• ホームページがAVや性器の映像ばかりの方はフォローしないでください please\n—\n戒奶茶 Day 0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/jmpfkif6ijvbgz…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/jmpfkif6ijvbgz7?t=XfVyYc&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dCYMQei1x3"
+              }
+            ]
+          }
+        },
+        "id": "2018331895478484993",
+        "location": "0.2km",
+        "name": "あずき-",
+        "pinned_tweet_id": "2040002017461198993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038648328968347648/wLYcID2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 31,
+          "like_count": 2237,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/dCYMQei1x3",
+        "username": "Douzi_doki",
+        "verified": false
+      }
+    ]
+  }
+}

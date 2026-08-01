@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2064386672339325407",
+    "created_at": "2026-06-10T02:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064536058658988538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533146577145016320",
+          "start": 0,
+          "username": "badan8888888"
+        },
+        {
+          "end": 21,
+          "id": "2027387008340119552",
+          "start": 14,
+          "username": "Qustsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064536058658988538",
+    "in_reply_to_user_id": "1533146577145016320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064505905698484702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@badan8888888 @Qustsm 我草你老爹了个贱畜，恋童还媚上富了，你这种死畜蝻就应该被男的捅烂屁眼，去死吧死恋童癖，见到你我都要找人拿狼牙棒捅破你的屁眼，拿玻璃渣塞你尿道里面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2064386672339325407",
+        "created_at": "2026-06-10T02:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064536058658988538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533146577145016320",
+              "start": 0,
+              "username": "badan8888888"
+            },
+            {
+              "end": 21,
+              "id": "2027387008340119552",
+              "start": 14,
+              "username": "Qustsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064536058658988538",
+        "in_reply_to_user_id": "1533146577145016320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064505905698484702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badan8888888 @Qustsm 我草你老爹了个贱畜，恋童还媚上富了，你这种死畜蝻就应该被男的捅烂屁眼，去死吧死恋童癖，见到你我都要找人拿狼牙棒捅破你的屁眼，拿玻璃渣塞你尿道里面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533146577145016320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2064386672339325407",
+        "created_at": "2026-06-10T00:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064505905698484702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2027387008340119552",
+              "start": 0,
+              "username": "Qustsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064505905698484702",
+        "in_reply_to_user_id": "2027387008340119552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064386672339325407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qustsm 你这种讨口子配说这些吗？拿自己的逼赚钱。人家14岁性同意，怎么了？抢你饭碗了？你有这功夫，你怎么不去骂萝莉岛？萝莉岛全是顶级精英和富豪，高智商人群。这么成功的人士都爱玩萝莉，普通人却不敢学习。还一直唾弃。这个世界真的是太好笑了。活该穷一辈子啊还体验不了一秒富豪的快乐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063836159923646464/NvQHcIRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 43,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T18:00:15.000Z",
+        "description": "",
+        "id": "1533146577145016320",
+        "name": "镜中男人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044841841187803136/yLgB1M8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 234,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 389
+        },
+        "username": "badan8888888",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T14:16:07.000Z",
+        "description": "170/125 不接线下不恋爱",
+        "id": "2027387008340119552",
+        "location": "江苏",
+        "name": "Qu",
+        "pinned_tweet_id": "2048257696873451576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027424371942510592/stNE5xsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 0,
+          "like_count": 68,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 609
+        },
+        "username": "Qustsm",
+        "verified": false
+      }
+    ]
+  }
+}

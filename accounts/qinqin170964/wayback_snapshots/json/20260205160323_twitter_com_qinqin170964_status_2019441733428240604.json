@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019441719855706114"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2019441733428240604",
+    "created_at": "2026-02-05T16:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T17:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019441733428240604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c85Qsv6wBo",
+          "end": 23,
+          "expanded_url": "https://x.com/qinqin170964/status/2019441733428240604/photo/1",
+          "media_key": "3_2019441719855706114",
+          "start": 0,
+          "url": "https://t.co/c85Qsv6wBo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019441733428240604",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/c85Qsv6wBo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2019441719855706114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZ_i3SacAIP_sN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019441719855706114"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2019441733428240604",
+        "created_at": "2026-02-05T16:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019441733428240604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c85Qsv6wBo",
+              "end": 23,
+              "expanded_url": "https://x.com/qinqin170964/status/2019441733428240604/photo/1",
+              "media_key": "3_2019441719855706114",
+              "start": 0,
+              "url": "https://t.co/c85Qsv6wBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019441733428240604",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c85Qsv6wBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的",
+        "id": "2002003730334621696",
+        "location": "Kowloon City District",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002439042634559491/oYhxdNgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2081994420594102649",
+    "created_at": "2026-07-28T07:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082004479793348856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009594484989026307",
+          "start": 0,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082004479793348856",
+    "in_reply_to_user_id": "2009594484989026307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081994420594102649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe953 支持，关别人鸟事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2081994420594102649",
+        "created_at": "2026-07-28T07:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082004479793348856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009594484989026307",
+              "start": 0,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082004479793348856",
+        "in_reply_to_user_id": "2009594484989026307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081994420594102649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe953 支持，关别人鸟事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009594484989026307",
+        "conversation_id": "2081994420594102649",
+        "created_at": "2026-07-28T06:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081994420594102649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081994420594102649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这片地方有很多我完全无法理解的现象，比如为什么那么多人歧视整容的人\n整的不好看了要被说花钱买罪受/丑人多作怪\n整的好看了要被说有什么用基因还是丑/花钱整脸不知道是要拿脸赚什么钱去呢/模板脸有什么好看的\n我不明白，人家花自己的钱整自己的脸到底和你们有什么关系？为什么那样轻飘飘的攻击别人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 53,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 864
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "记忆森林",
+        "id": "2009594484989026307",
+        "location": "🚪  78",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 84,
+          "like_count": 941,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

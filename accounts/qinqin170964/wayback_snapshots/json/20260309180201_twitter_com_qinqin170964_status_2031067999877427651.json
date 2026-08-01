@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2030689403669233978",
+    "created_at": "2026-03-09T18:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T19:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031067999877427651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1315936774321922049",
+          "start": 0,
+          "username": "RipplesLove1"
+        },
+        {
+          "end": 22,
+          "id": "1917047326990094336",
+          "start": 14,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031067999877427651",
+    "in_reply_to_user_id": "1315936774321922049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030744314821902723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RipplesLove1 @0TwT012 我支持了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2030689403669233978",
+        "created_at": "2026-03-09T18:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T19:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031067999877427651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1315936774321922049",
+              "start": 0,
+              "username": "RipplesLove1"
+            },
+            {
+              "end": 22,
+              "id": "1917047326990094336",
+              "start": 14,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031067999877427651",
+        "in_reply_to_user_id": "1315936774321922049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030744314821902723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RipplesLove1 @0TwT012 我支持了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315936774321922049",
+        "conversation_id": "2030689403669233978",
+        "created_at": "2026-03-08T20:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T21:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030744314821902723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030744314821902723",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1862,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030689403669233978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 那还不如没有那天！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 37,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T08:46:01.000Z",
+        "description": "https://t.co/Ivs9cpkPYy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ripples2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ripples2",
+                "start": 0,
+                "url": "https://t.co/Ivs9cpkPYy"
+              }
+            ]
+          }
+        },
+        "id": "1315936774321922049",
+        "name": "Rippleslove",
+        "pinned_tweet_id": "2023308923391119470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014619121531682816/_8TK--BA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 31,
+          "like_count": 1548,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 3291
+        },
+        "username": "RipplesLove1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 244,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 616
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

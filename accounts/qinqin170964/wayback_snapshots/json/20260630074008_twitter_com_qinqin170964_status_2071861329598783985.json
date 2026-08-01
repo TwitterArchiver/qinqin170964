@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2071861245301620809",
+    "created_at": "2026-06-30T07:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071861329598783985"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071861329598783985",
+    "in_reply_to_user_id": "2002003730334621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071861245301620809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在看完剧情原谅了全世界"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2071861211612798976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMC6y3YXYAAlnuD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2071861245301620809",
+        "created_at": "2026-06-30T07:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071861329598783985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071861329598783985",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071861245301620809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在看完剧情原谅了全世界"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071861211612798976"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2071861245301620809",
+        "created_at": "2026-06-30T07:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071861245301620809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbCy3a7HIk",
+              "end": 29,
+              "expanded_url": "https://x.com/qinqin170964/status/2071861245301620809/photo/1",
+              "media_key": "3_2071861211612798976",
+              "start": 6,
+              "url": "https://t.co/EbCy3a7HIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071861245301620809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉。孩子们 https://t.co/EbCy3a7HIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 46,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

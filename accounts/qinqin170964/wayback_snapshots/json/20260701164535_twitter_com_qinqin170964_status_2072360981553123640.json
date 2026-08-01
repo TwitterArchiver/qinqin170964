@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2066717610327073251",
+    "created_at": "2026-07-01T16:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072360981553123640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354077762693324817",
+          "start": 0,
+          "username": "QilAn_408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072360981553123640",
+    "in_reply_to_user_id": "1354077762693324817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066717610327073251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QilAn_408 太可爱了。。简直萌的我要哭了，画的太完美了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90500,
+        "height": 720,
+        "media_key": "13_2066717278008184832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066717278008184832/img/57dptEiqLn3kG5LR.jpg",
+        "public_metrics": {
+          "view_count": 192051
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066717278008184832/vid/avc1/480x270/2NCsS7BOqWiyChCB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066717278008184832/vid/avc1/640x360/jKpTDImLI6szAPI8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066717278008184832/vid/avc1/1280x720/hg0XMoNfmIRO3ByR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066717278008184832/pl/FAK4WKZiqr1uHB0Y.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2066717610327073251",
+        "created_at": "2026-07-01T16:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072360981553123640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354077762693324817",
+              "start": 0,
+              "username": "QilAn_408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072360981553123640",
+        "in_reply_to_user_id": "1354077762693324817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066717610327073251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QilAn_408 太可爱了。。简直萌的我要哭了，画的太完美了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066717278008184832"
+          ]
+        },
+        "author_id": "1354077762693324817",
+        "conversation_id": "2066717610327073251",
+        "created_at": "2026-06-16T03:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066717610327073251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "에이스테"
+            },
+            {
+              "end": 113,
+              "start": 107,
+              "tag": "ALNST"
+            },
+            {
+              "end": 123,
+              "start": 114,
+              "tag": "Tillmizi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMUhQyc8tT",
+              "end": 147,
+              "expanded_url": "https://x.com/QilAn_408/status/2066717610327073251/video/1",
+              "media_key": "13_2066717278008184832",
+              "start": 124,
+              "url": "https://t.co/NMUhQyc8tT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066717610327073251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1063,
+          "impression_count": 533409,
+          "like_count": 2817,
+          "quote_count": 448,
+          "reply_count": 233,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "【TillxMizi】 KwaiiKawaii 手书💗💗\n\n更衣人偶坠入爱河ed描改\n\n手书为timi原作向单恋，理解为cp/cb均可，不喜欢可以拉黑，请勿提及其他角色与cp，请勿发表攻击性言论🙅🙅\n\n#에이스테 #ALNST #Tillmizi https://t.co/NMUhQyc8tT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "红裤衩总被当成窗花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071656198559109120/UEyBzznu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 47,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T14:44:43.000Z",
+        "description": "20↑/FE3H🦁🦅/AOT🗝️⚾杂食/喜爱着各位的作品💖💓💘❤️‍🔥/偶尔画画/不常在",
+        "id": "1354077762693324817",
+        "name": "ZDuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1355500894763114499/PU0N4CXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3893,
+          "following_count": 201,
+          "like_count": 304,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "QilAn_408",
+        "verified": false
+      }
+    ]
+  }
+}
