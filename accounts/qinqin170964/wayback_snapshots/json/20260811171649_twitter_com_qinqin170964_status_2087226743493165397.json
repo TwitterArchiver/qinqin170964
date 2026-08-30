@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2087226743493165397",
+    "created_at": "2026-08-11T17:16:49.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087226743493165397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lazymiem1eee/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lazymiem1eee/status/2086995431725391958",
+          "start": 5,
+          "url": "https://t.co/U2xLw5nfOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087226743493165397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086995431725391958",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/U2xLw5nfOj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2087226743493165397",
+        "created_at": "2026-08-11T17:16:49.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087226743493165397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lazymiem1eee/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lazymiem1eee/status/2086995431725391958",
+              "start": 5,
+              "url": "https://t.co/U2xLw5nfOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087226743493165397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086995431725391958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/U2xLw5nfOj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078537225965555713",
+        "conversation_id": "2086995431725391958",
+        "created_at": "2026-08-11T01:57:40.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086995431725391958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086995431725391958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10600,
+          "like_count": 176,
+          "quote_count": 6,
+          "reply_count": 91,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我是那种根据对方主页的内容、关注的人、回复过的内容、头像签名决定要不要回复的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2087226743493165397",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1783477294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 50,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 922
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T17:48:21.000Z",
+        "description": "infp/发我想发的/🈚️门不约不聊骚\n什么时候能有属于自己的猫\n匿名信箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loveuuuu82777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/loveuuuu82777",
+                "start": 0,
+                "url": "https://t.co/ZRf3KmAR4M"
+              }
+            ]
+          }
+        },
+        "id": "2078537225965555713",
+        "is_identity_verified": false,
+        "location": "☁️",
+        "most_recent_tweet_id": "2087203032559915451",
+        "name": "脆脆芝士条",
+        "pinned_tweet_id": "2082030712337908093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078537225965555713/1784552635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078756572097110016/ZNPROn4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 10,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/ZRf3KmAR4M",
+        "username": "Lazymiem1eee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

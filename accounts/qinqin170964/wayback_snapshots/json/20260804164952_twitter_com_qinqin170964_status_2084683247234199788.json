@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083884718148435968"
+      ],
+      "media_source_tweet_id": [
+        "2083884722984563129"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2084683247234199788",
+    "created_at": "2026-08-04T16:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084683247234199788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991353053073797123",
+          "start": 3,
+          "username": "run____k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PI2qXvwzPr",
+          "end": 37,
+          "expanded_url": "https://x.com/run____k/status/2083884722984563129/photo/1",
+          "media_key": "3_2083884718148435968",
+          "start": 14,
+          "url": "https://t.co/PI2qXvwzPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084683247234199788",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083884722984563129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @run____k: https://t.co/PI2qXvwzPr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2083884718148435968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtyHDoaQAA256d.jpg",
+        "width": 1378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083884718148435968"
+          ]
+        },
+        "author_id": "1991353053073797123",
+        "conversation_id": "2083884722984563129",
+        "created_at": "2026-08-02T11:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083884722984563129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PI2qXvwzPr",
+              "end": 23,
+              "expanded_url": "https://x.com/run____k/status/2083884722984563129/photo/1",
+              "media_key": "3_2083884718148435968",
+              "start": 0,
+              "url": "https://t.co/PI2qXvwzPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083884722984563129",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 12359,
+          "like_count": 1630,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PI2qXvwzPr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083884718148435968"
+          ],
+          "media_source_tweet_id": [
+            "2083884722984563129"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2084683247234199788",
+        "created_at": "2026-08-04T16:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084683247234199788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991353053073797123",
+              "start": 3,
+              "username": "run____k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PI2qXvwzPr",
+              "end": 37,
+              "expanded_url": "https://x.com/run____k/status/2083884722984563129/photo/1",
+              "media_key": "3_2083884718148435968",
+              "start": 14,
+              "url": "https://t.co/PI2qXvwzPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084683247234199788",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083884722984563129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @run____k: https://t.co/PI2qXvwzPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "压力一只草履虫？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 51,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 890
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T03:49:44.000Z",
+        "description": "嘘の妄想しか話さないし、本当に何を言い出すか分からないので、本気(マジ)でフォロー非推奨 ︎︎︎︎︎︎︎︎",
+        "id": "1991353053073797123",
+        "location": "18⬆️ ",
+        "name": "るんこ。",
+        "pinned_tweet_id": "2080271737976131646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072266313440055296/lDGH8K0l_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 32,
+          "like_count": 3559,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1049
+        },
+        "url": "",
+        "username": "run____k",
+        "verified": false
+      }
+    ]
+  }
+}

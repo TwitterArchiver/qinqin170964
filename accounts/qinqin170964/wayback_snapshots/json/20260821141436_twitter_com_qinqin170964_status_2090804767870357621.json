@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2090667791250866312",
+    "created_at": "2026-08-21T14:14:36.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090804767870357621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749442501402861569",
+          "start": 0,
+          "username": "Bei_laoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090804767870357621",
+    "in_reply_to_user_id": "1749442501402861569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090667791250866312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bei_laoshi 女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_2090667773483790336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOLQ13bsAAoXv4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2090667791250866312",
+        "created_at": "2026-08-21T14:14:36.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090804767870357621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749442501402861569",
+              "start": 0,
+              "username": "Bei_laoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090804767870357621",
+        "in_reply_to_user_id": "1749442501402861569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090667791250866312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bei_laoshi 女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090667773483790336"
+          ]
+        },
+        "author_id": "1749442501402861569",
+        "conversation_id": "2090667791250866312",
+        "created_at": "2026-08-21T05:10:18.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090667791250866312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjVATrhvsY",
+              "end": 26,
+              "expanded_url": "https://x.com/Bei_laoshi/status/2090667791250866312/photo/1",
+              "media_key": "3_2090667773483790336",
+              "start": 3,
+              "url": "https://t.co/rjVATrhvsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090667791250866312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090667773483790336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3707,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 115,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴 https://t.co/rjVATrhvsY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2090804767870357621",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 45,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 949
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-22T14:43:02.000Z",
+        "description": "尊重是最基本的礼貌\n（盗图替我挡灾）",
+        "id": "1749442501402861569",
+        "is_identity_verified": false,
+        "location": "🚪好友位  175",
+        "most_recent_tweet_id": "2090667791250866312",
+        "name": "🌻",
+        "pinned_tweet_id": "2090372112439820518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749442501402861569/1737900885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749442832513880064/XiWFOCCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 51,
+          "like_count": 195,
+          "listed_count": 12,
+          "media_count": 135,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "Bei_laoshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

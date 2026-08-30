@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089776063270567936"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2089776071420084558",
+    "created_at": "2026-08-18T18:06:56.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089776071420084558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kJKBHzxA6F",
+          "end": 28,
+          "expanded_url": "https://x.com/qinqin170964/status/2089776071420084558/photo/1",
+          "media_key": "3_2089776063270567936",
+          "start": 5,
+          "url": "https://t.co/kJKBHzxA6F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089776071420084558",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089776063270567936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呀米呀米 https://t.co/kJKBHzxA6F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2089776063270567936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBgQedbQAA2cY_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089776063270567936"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2089776071420084558",
+        "created_at": "2026-08-18T18:06:56.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089776071420084558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJKBHzxA6F",
+              "end": 28,
+              "expanded_url": "https://x.com/qinqin170964/status/2089776071420084558/photo/1",
+              "media_key": "3_2089776063270567936",
+              "start": 5,
+              "url": "https://t.co/kJKBHzxA6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089776071420084558",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089776063270567936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呀米呀米 https://t.co/kJKBHzxA6F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2089776071420084558",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1783477294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 46,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 936
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

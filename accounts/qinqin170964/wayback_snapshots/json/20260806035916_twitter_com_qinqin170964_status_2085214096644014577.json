@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2085210227289600334",
+    "created_at": "2026-08-06T03:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085214096644014577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1694941597341818880",
+          "start": 0,
+          "username": "huasz4847"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085214096644014577",
+    "in_reply_to_user_id": "1694941597341818880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085210227289600334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huasz4847 这种人贱死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2085210227289600334",
+        "created_at": "2026-08-06T03:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085214096644014577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1694941597341818880",
+              "start": 0,
+              "username": "huasz4847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085214096644014577",
+        "in_reply_to_user_id": "1694941597341818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085210227289600334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huasz4847 这种人贱死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694941597341818880",
+        "conversation_id": "2085210227289600334",
+        "created_at": "2026-08-06T03:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085210227289600334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085210227289600334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真是没完没了了，之后恶评全部删评拉黑处理，非要自己来找不痛快的话就全部当夸赞和喜欢tillmizi处理咯宝宝们☺️感谢你们的喜欢呀，毕竟我实在找不到除了喜欢和关注tillmizi以外，你们过来留下评论的其他理由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "压力一只草履虫？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 51,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T05:16:04.000Z",
+        "description": "🇨🇳 20↑｜中文外的其他语种基本都是使用的翻译器 ｜转载&AI禁止🚫❌｜目前专注于→🩷💚｜非常感谢你的喜欢!",
+        "id": "1694941597341818880",
+        "location": "China",
+        "name": "🌸zzZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046233638552109056/4CmigjYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 78,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "huasz4847",
+        "verified": false
+      }
+    ]
+  }
+}

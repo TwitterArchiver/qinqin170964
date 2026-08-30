@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082860986852397057",
+        "3_2082860986860814336"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082861035158135025",
+    "created_at": "2026-07-30T16:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082861035158135025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TtDdv2yEkQ",
+          "end": 35,
+          "expanded_url": "https://x.com/qinqin170964/status/2082861035158135025/photo/1",
+          "media_key": "3_2082860986852397057",
+          "start": 12,
+          "url": "https://t.co/TtDdv2yEkQ"
+        },
+        {
+          "display_url": "pic.x.com/TtDdv2yEkQ",
+          "end": 35,
+          "expanded_url": "https://x.com/qinqin170964/status/2082861035158135025/photo/1",
+          "media_key": "3_2082860986860814336",
+          "start": 12,
+          "url": "https://t.co/TtDdv2yEkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082861035158135025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广西水果批发市场好便宜 https://t.co/TtDdv2yEkQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082860986852397057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfPCDXbUAEdkfO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082860986860814336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfPCDZbwAAX7ty.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082860986852397057",
+            "3_2082860986860814336"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082861035158135025",
+        "created_at": "2026-07-30T16:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082861035158135025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtDdv2yEkQ",
+              "end": 35,
+              "expanded_url": "https://x.com/qinqin170964/status/2082861035158135025/photo/1",
+              "media_key": "3_2082860986852397057",
+              "start": 12,
+              "url": "https://t.co/TtDdv2yEkQ"
+            },
+            {
+              "display_url": "pic.x.com/TtDdv2yEkQ",
+              "end": 35,
+              "expanded_url": "https://x.com/qinqin170964/status/2082861035158135025/photo/1",
+              "media_key": "3_2082860986860814336",
+              "start": 12,
+              "url": "https://t.co/TtDdv2yEkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082861035158135025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广西水果批发市场好便宜 https://t.co/TtDdv2yEkQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 53,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

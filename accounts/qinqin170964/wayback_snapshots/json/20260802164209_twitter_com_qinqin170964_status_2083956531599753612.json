@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2083884492494970940",
+    "created_at": "2026-08-02T16:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083956531599753612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1851320794586177536",
+          "start": 0,
+          "username": "n_vrmine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083956531599753612",
+    "in_reply_to_user_id": "1851320794586177536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083942529435914624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_vrmine 对吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2083884492494970940",
+        "created_at": "2026-08-02T16:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083956531599753612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1851320794586177536",
+              "start": 0,
+              "username": "n_vrmine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083956531599753612",
+        "in_reply_to_user_id": "1851320794586177536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083942529435914624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_vrmine 对吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851320794586177536",
+        "conversation_id": "2083884492494970940",
+        "created_at": "2026-08-02T15:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083942529435914624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083942529435914624",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083884492494970940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 我唧唧好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "压力一只草履虫？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 52,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 885
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T17:51:00.000Z",
+        "description": "@zz1fswm\n不聊骚不约炮不陪聊不线下🈚️坐标\n私信只回口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "zz1fswm"
+              }
+            ]
+          }
+        },
+        "id": "1851320794586177536",
+        "location": "🚪188",
+        "name": "🍃",
+        "pinned_tweet_id": "2026692168036065437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080690363413757959/vcCjqKkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 219,
+          "like_count": 15275,
+          "listed_count": 8,
+          "media_count": 25,
+          "tweet_count": 1819
+        },
+        "url": "",
+        "username": "n_vrmine",
+        "verified": false
+      }
+    ]
+  }
+}

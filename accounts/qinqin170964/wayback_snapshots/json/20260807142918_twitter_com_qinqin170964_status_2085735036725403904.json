@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2085034105448825019",
+    "created_at": "2026-08-07T14:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085735036725403904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697662724648419328",
+          "start": 0,
+          "username": "mocha90190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085735036725403904",
+    "in_reply_to_user_id": "1697662724648419328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085048956325876108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mocha90190 超绝萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2085034105448825019",
+        "created_at": "2026-08-07T14:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085735036725403904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697662724648419328",
+              "start": 0,
+              "username": "mocha90190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085735036725403904",
+        "in_reply_to_user_id": "1697662724648419328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085048956325876108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mocha90190 超绝萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697662724648419328",
+        "conversation_id": "2085034105448825019",
+        "created_at": "2026-08-05T17:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085048956325876108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085048956325876108",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085034105448825019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 小猫咪～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "压力一只草履虫？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 51,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T17:28:41.000Z",
+        "description": "04 直男 纯当朋友圈发 找我聊天 还有人机滚啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/259758",
+                "end": 23,
+                "expanded_url": "https://ngl.link/259758",
+                "start": 0,
+                "url": "https://t.co/cAbUsFdPYM"
+              }
+            ]
+          }
+        },
+        "id": "1697662724648419328",
+        "name": "mcxbbl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036685199401222144/-oALPmHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 75,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/cAbUsFdPYM",
+        "username": "mocha90190",
+        "verified": false
+      }
+    ]
+  }
+}

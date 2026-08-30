@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2090841004165472733",
+    "created_at": "2026-08-22T14:57:01.000Z",
+    "display_text_range": [
+      23,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091177830520664420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2062241163541925889",
+          "start": 0,
+          "username": "kkkoggii"
+        },
+        {
+          "end": 22,
+          "id": "1551392882409410560",
+          "start": 10,
+          "username": "yang1314171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091177830520664420",
+    "in_reply_to_user_id": "2062241163541925889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091095777133338784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkoggii @yang1314171 卧槽好好学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2090841004165472733",
+        "created_at": "2026-08-22T14:57:01.000Z",
+        "display_text_range": [
+          23,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091177830520664420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2062241163541925889",
+              "start": 0,
+              "username": "kkkoggii"
+            },
+            {
+              "end": 22,
+              "id": "1551392882409410560",
+              "start": 10,
+              "username": "yang1314171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091177830520664420",
+        "in_reply_to_user_id": "2062241163541925889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091095777133338784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkoggii @yang1314171 卧槽好好学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062241163541925889",
+        "conversation_id": "2090841004165472733",
+        "created_at": "2026-08-22T09:30:58.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091095777133338784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551392882409410560",
+              "start": 0,
+              "username": "yang1314171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091095777133338784",
+        "in_reply_to_user_id": "1551392882409410560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1257,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090841004165472733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yang1314171 我第一次剪的时候，每天出门be like：挠唧唧好酥胡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2091177830520664420",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 44,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 951
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T18:33:53.000Z",
+        "description": "05🐣ENTP♍️叫我柯基就好啦🐡\n账号内容雅俗共赏👻&碎碎念🌬️\n🫣匿名提问箱🔽🔽🔽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkoggii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkkoggii",
+                "start": 0,
+                "url": "https://t.co/Ju4lq6e96z"
+              }
+            ]
+          }
+        },
+        "id": "2062241163541925889",
+        "is_identity_verified": false,
+        "location": "airation",
+        "most_recent_tweet_id": "2091175782467162419",
+        "name": "全世界倒數第一不炫壓抑🌍",
+        "pinned_tweet_id": "2086269460562969059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062241163541925889/1786650841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084151038463078400/1GYfgpQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 48,
+          "like_count": 4741,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/Ju4lq6e96z",
+        "username": "kkkoggii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-25T02:24:39.000Z",
+        "description": "平平无奇的码字机器",
+        "id": "1551392882409410560",
+        "is_identity_verified": false,
+        "location": "我爱大奶肌肉0m！😋",
+        "most_recent_tweet_id": "2090855690575413582",
+        "name": "猫羡",
+        "pinned_tweet_id": "2043726521618059281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551392882409410560/1772386552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028162319604424704/1CORGZuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2944,
+          "following_count": 4,
+          "like_count": 4193,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 3212
+        },
+        "url": "",
+        "username": "yang1314171",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2091226193794044118",
+    "created_at": "2026-08-22T21:01:41.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T22:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091269601594335502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832664562086060032",
+          "start": 0,
+          "username": "Amy526969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091269601594335502",
+    "in_reply_to_user_id": "1832664562086060032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091226193794044118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amy526969 哦哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2091226193794044118",
+        "created_at": "2026-08-22T21:01:41.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091269601594335502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832664562086060032",
+              "start": 0,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091269601594335502",
+        "in_reply_to_user_id": "1832664562086060032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091226193794044118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amy526969 哦哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832664562086060032",
+        "conversation_id": "2091226193794044118",
+        "created_at": "2026-08-22T18:09:12.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091226193794044118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091226193794044118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37794,
+          "like_count": 263,
+          "quote_count": 2,
+          "reply_count": 63,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女孩你不能一天开关VPN十几次…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2091269601594335502",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 45,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "宝贝们可以叫我艾米｜🎺 @mili07190 只过互关｜提问箱 https://t.co/mQpJze4fzI｜☝️推广真假自辨｜宝贝们你如果特别恨我这个网友，那你就举起手机狠狠地摔向地面，然后我就消失了呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 55,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 32,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091269613531107509",
+        "name": "amy",
+        "pinned_tweet_id": "2087201498425856397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832664562086060032/1726908072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 143,
+          "like_count": 19783,
+          "listed_count": 3,
+          "media_count": 532,
+          "tweet_count": 7222
+        },
+        "url": "",
+        "username": "Amy526969",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

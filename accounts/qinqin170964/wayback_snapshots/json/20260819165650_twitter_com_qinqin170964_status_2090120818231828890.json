@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2090099173093966073",
+    "created_at": "2026-08-19T16:56:50.000Z",
+    "display_text_range": [
+      8,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090120818231828890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055093621335220224",
+          "start": 0,
+          "username": "ewsmk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090120818231828890",
+    "in_reply_to_user_id": "2055093621335220224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090099173093966073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ewsmk9 已经很完美了女神。。超喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2090099173093966073",
+        "created_at": "2026-08-19T16:56:50.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090120818231828890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055093621335220224",
+              "start": 0,
+              "username": "ewsmk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090120818231828890",
+        "in_reply_to_user_id": "2055093621335220224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090099173093966073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewsmk9 已经很完美了女神。。超喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055093621335220224",
+        "conversation_id": "2090099173093966073",
+        "created_at": "2026-08-19T15:30:49.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090099173093966073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090099173093966073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜画的太赶了，好多细节都没画到，最喜欢的眼睛都没有扣细节…😭😭结果还是迟到两分钟才发"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2090120818231828890",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1783477294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 44,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T01:11:57.000Z",
+        "description": "不管别人怎么说，我的心意是无法阻挡的！",
+        "id": "2055093621335220224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090119573815353848",
+        "name": "깐",
+        "pinned_tweet_id": "2073797316964983281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055093621335220224/1784382888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070462373492830208/bM0RYoMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 29,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 502
+        },
+        "url": "",
+        "username": "ewsmk9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

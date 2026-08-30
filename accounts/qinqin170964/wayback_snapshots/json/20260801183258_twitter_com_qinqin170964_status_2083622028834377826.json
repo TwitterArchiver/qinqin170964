@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2083493635149197339",
+    "created_at": "2026-08-01T18:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083622028834377826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944437671486427136",
+          "start": 0,
+          "username": "9979Liz14950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083622028834377826",
+    "in_reply_to_user_id": "1944437671486427136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083493635149197339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9979Liz14950 @许愿柳我的愿望是在接下来的七十二小时内，让我拥有一笔税后金额为十亿元人民币的资金，且不违反我所在国家以及任何国家的现行法律法规的方式。以电子转账形式一次性不可撤销的，无任何附加条件的汇入我本人名下，在中国大陆正规银行开设，仅由我本人唯一控制的一类信用卡当中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2083493635149197339",
+        "created_at": "2026-08-01T18:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083622028834377826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944437671486427136",
+              "start": 0,
+              "username": "9979Liz14950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083622028834377826",
+        "in_reply_to_user_id": "1944437671486427136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083493635149197339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9979Liz14950 @许愿柳我的愿望是在接下来的七十二小时内，让我拥有一笔税后金额为十亿元人民币的资金，且不违反我所在国家以及任何国家的现行法律法规的方式。以电子转账形式一次性不可撤销的，无任何附加条件的汇入我本人名下，在中国大陆正规银行开设，仅由我本人唯一控制的一类信用卡当中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944437671486427136",
+        "conversation_id": "2083493635149197339",
+        "created_at": "2026-08-01T10:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083493635149197339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083493635149197339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@许愿柳\n我的愿望是在接下来的七十二小时内，让我拥有一笔税后金额为十亿元人民币的资金，且不违反我所在国家以及任何国家的现行法律法规的方式。以电子转账形式一次性不可撤销的，无任何附加条件的汇入我本人名下，在中国大陆正规银行开设，仅由我本人唯一控制的一类信用卡当中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "谁鸟你？",
+        "id": "2002003730334621696",
+        "location": "咪咪喵喵",
+        "name": "压力一只草履虫？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 51,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T16:44:09.000Z",
+        "description": "完全碎碎念…女孩子聊天大欢迎！傻逼别来情绪乞丐别来需要我秒回的别来博主上线只为发帖基本不咋回复私信你和我帖子互动就行。匿名提问在：https://t.co/MItN3ogSGR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jin62216",
+                "end": 88,
+                "expanded_url": "https://ngl.link/jin62216",
+                "start": 65,
+                "url": "https://t.co/MItN3ogSGR"
+              }
+            ]
+          }
+        },
+        "id": "1944437671486427136",
+        "name": "飞天大蟒蛇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005949359251439616/NeVohARw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 35,
+          "like_count": 243,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "9979Liz14950",
+        "verified": false
+      }
+    ]
+  }
+}

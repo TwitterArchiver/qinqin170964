@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2092364369036485041",
+    "created_at": "2026-08-26T10:09:02.000Z",
+    "display_text_range": [
+      31,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092554909917098231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862077231238987776",
+          "start": 0,
+          "username": "Gadagada_foxes"
+        },
+        {
+          "end": 30,
+          "id": "2086772203056771072",
+          "start": 16,
+          "username": "yuchen1108630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092554909917098231",
+    "in_reply_to_user_id": "1862077231238987776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092429674899243198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gadagada_foxes @yuchen1108630 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2092364369036485041",
+        "created_at": "2026-08-26T10:09:02.000Z",
+        "display_text_range": [
+          31,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092554909917098231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862077231238987776",
+              "start": 0,
+              "username": "Gadagada_foxes"
+            },
+            {
+              "end": 30,
+              "id": "2086772203056771072",
+              "start": 16,
+              "username": "yuchen1108630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092554909917098231",
+        "in_reply_to_user_id": "1862077231238987776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092429674899243198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gadagada_foxes @yuchen1108630 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862077231238987776",
+        "conversation_id": "2092364369036485041",
+        "created_at": "2026-08-26T01:51:24.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092429674899243198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2086772203056771072",
+              "start": 0,
+              "username": "yuchen1108630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092429674899243198",
+        "in_reply_to_user_id": "2086772203056771072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24263,
+          "like_count": 418,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092364369036485041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuchen1108630 我靠我也是…甚至会代入片里的男的…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2092554909917098231",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 45,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 972
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-28T10:13:26.000Z",
+        "description": "碎碎念之/写点奇奇怪怪的",
+        "id": "1862077231238987776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092552562251911589",
+        "name": "嘎达嘎达",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862077231238987776/1787670234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083565939828903936/xRkTlvRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 82,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "Gadagada_foxes",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T11:11:58.000Z",
+        "description": "一个人的碎碎念。。。女的\n有老公了。\n不发照片不发语音不聊骚",
+        "id": "2086772203056771072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092549761920544940",
+        "name": "yuchen",
+        "pinned_tweet_id": "2091985533824282669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086772203056771072/1786360817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086774634540867584/8lP2lK70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 44,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "yuchen1108630",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
