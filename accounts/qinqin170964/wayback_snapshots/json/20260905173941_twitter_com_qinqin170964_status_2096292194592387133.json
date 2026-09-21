@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2096292194592387133",
+    "created_at": "2026-09-05T17:39:41.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096292194592387133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1988926483314991104",
+          "start": 3,
+          "username": "hoon77kiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096292194592387133",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16704
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095854849799917803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hoon77kiss: 색깔 없는 물 마시는데 노란 오줌이 나오네 어쩌면 내가 티백인가 봐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2096292194592387133",
+        "created_at": "2026-09-05T17:39:41.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096292194592387133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1988926483314991104",
+              "start": 3,
+              "username": "hoon77kiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096292194592387133",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16704
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095854849799917803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hoon77kiss: 색깔 없는 물 마시는데 노란 오줌이 나오네 어쩌면 내가 티백인가 봐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988926483314991104",
+        "conversation_id": "2095854849799917803",
+        "created_at": "2026-09-04T12:41:49.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095854849799917803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095854849799917803",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5168,
+          "impression_count": 3346856,
+          "like_count": 151242,
+          "quote_count": 1075,
+          "reply_count": 26,
+          "retweet_count": 16704
+        },
+        "reply_settings": "following",
+        "text": "색깔 없는 물 마시는데 노란 오줌이 나오네 어쩌면 내가 티백인가 봐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2096292194592387133",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 45,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-13T11:06:49.000Z",
+        "description": "성훈오빠 만약 내가 지네로 변하면 매일 아침 20분씩 시간 내서 나한테 신발 신겨줄 거야?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/hoon77kiss",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/hoon77kiss",
+                "start": 0,
+                "url": "https://t.co/zVHLAAtjcR"
+              }
+            ]
+          }
+        },
+        "id": "1988926483314991104",
+        "is_identity_verified": false,
+        "location": "(.o̴̶̷︤ _·o̴̶̷︤ )",
+        "most_recent_tweet_id": "2096154668732928065",
+        "name": "了了",
+        "pinned_tweet_id": "2067447262154981875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988926483314991104/1787750466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089965990516011009/a2F8B4rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 684,
+          "like_count": 971,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/zVHLAAtjcR",
+        "username": "hoon77kiss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

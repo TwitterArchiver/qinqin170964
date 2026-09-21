@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2092458192714498518",
+    "created_at": "2026-08-26T11:13:07.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092571036835524670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491064050985291776",
+          "start": 0,
+          "username": "nora14525742"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092571036835524670",
+    "in_reply_to_user_id": "1491064050985291776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092458192714498518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nora14525742 哎呀好可爱呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2092458192714498518",
+        "created_at": "2026-08-26T11:13:07.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092571036835524670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491064050985291776",
+              "start": 0,
+              "username": "nora14525742"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092571036835524670",
+        "in_reply_to_user_id": "1491064050985291776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092458192714498518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nora14525742 哎呀好可爱呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491064050985291776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044419438",
+              "name": "Apple - Watch"
+            }
+          }
+        ],
+        "conversation_id": "2092458192714498518",
+        "created_at": "2026-08-26T03:44:43.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092458192714498518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092458192714498518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 39983,
+          "like_count": 647,
+          "quote_count": 11,
+          "reply_count": 146,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我还记得我们第一次见面我就听见旁边砰砰砰特别大的动静，我还在找什么声音 低头发现他apple watch预警心率148，然后本着医生的信念摸了一下他心脏位置说：要紧吗你别死在这，之后他就以一个非常别扭的姿势坐在车里，后来我才知道他硬了一下午，还不容易软下来闻到我味道又硬…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2092571036835524670",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 45,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 976
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-08T15:00:06.000Z",
+        "description": "love u guys^ ^",
+        "id": "1491064050985291776",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2092570864281878883",
+        "name": "小尾狐",
+        "pinned_tweet_id": "2069747229951406211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491064050985291776/1774727226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036466043896692736/X-2GDs8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 87,
+          "like_count": 743,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "nora14525742",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

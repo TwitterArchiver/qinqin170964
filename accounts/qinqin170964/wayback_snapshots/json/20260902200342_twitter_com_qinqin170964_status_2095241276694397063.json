@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094963142224961536"
+      ],
+      "media_source_tweet_id": [
+        "2094963148176654551"
+      ]
+    },
+    "author_id": "2002003730334621696",
+    "conversation_id": "2095241276694397063",
+    "created_at": "2026-09-02T20:03:42.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095241276694397063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2071227667354140672",
+          "start": 3,
+          "username": "tkk27bb6967"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IXzwMapB0Z",
+          "end": 43,
+          "expanded_url": "https://x.com/tkk27bb6967/status/2094963148176654551/photo/1",
+          "media_key": "3_2094963142224961536",
+          "start": 20,
+          "url": "https://t.co/IXzwMapB0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095241276694397063",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094963142224961536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094963148176654551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tkk27bb6967: 本人 https://t.co/IXzwMapB0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2094963142224961536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLN4NXa4AAh5j_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094963142224961536"
+          ],
+          "media_source_tweet_id": [
+            "2094963148176654551"
+          ]
+        },
+        "author_id": "2002003730334621696",
+        "conversation_id": "2095241276694397063",
+        "created_at": "2026-09-02T20:03:42.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095241276694397063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2071227667354140672",
+              "start": 3,
+              "username": "tkk27bb6967"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXzwMapB0Z",
+              "end": 43,
+              "expanded_url": "https://x.com/tkk27bb6967/status/2094963148176654551/photo/1",
+              "media_key": "3_2094963142224961536",
+              "start": 20,
+              "url": "https://t.co/IXzwMapB0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095241276694397063",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094963142224961536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094963148176654551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tkk27bb6967: 本人 https://t.co/IXzwMapB0Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094963142224961536"
+          ]
+        },
+        "author_id": "2071227667354140672",
+        "conversation_id": "2094963148176654551",
+        "created_at": "2026-09-02T01:38:31.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094963148176654551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXzwMapB0Z",
+              "end": 26,
+              "expanded_url": "https://x.com/tkk27bb6967/status/2094963148176654551/photo/1",
+              "media_key": "3_2094963142224961536",
+              "start": 3,
+              "url": "https://t.co/IXzwMapB0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094963148176654551",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094963142224961536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8579,
+          "like_count": 545,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "本人 https://t.co/IXzwMapB0Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2095241276694397063",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 45,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T13:45:28.000Z",
+        "description": "🏳️‍⚧️transfemboy🏳️‍⚧️\n❤️🧡💛💚💙💜🩵🩷🤍🩷🩵\n\n（femboy指的是立场fem和性别表达无关）\n（性别表达偏向世俗意义的男性化）\n\ncn娇娇，he or she/audhd/纯血直男/非单意识体，成员共用账号所以存在左右脑互搏的情况\n\n杨响是我最爱的女儿（我的tulpa），她的小名是锵锵",
+        "id": "2071227667354140672",
+        "is_identity_verified": false,
+        "location": "淘坤坤de梦幻之逼",
+        "most_recent_tweet_id": "2095178399358783712",
+        "name": "沉睡小男仆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071227667354140672/1785226715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093322876145569792/99aIfYfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 168,
+          "like_count": 1902,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 2605
+        },
+        "url": "",
+        "username": "tkk27bb6967",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

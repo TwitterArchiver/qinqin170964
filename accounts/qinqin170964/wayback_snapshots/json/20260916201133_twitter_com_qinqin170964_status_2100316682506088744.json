@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2100316682506088744",
+    "created_at": "2026-09-16T20:11:33.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T21:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100316682506088744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "837332499713818624",
+          "start": 3,
+          "username": "CHERRSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100316682506088744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099710908444692652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CHERRSR: 朕的龙嘴为何总想用膳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2100316682506088744",
+        "created_at": "2026-09-16T20:11:33.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T21:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100316682506088744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "837332499713818624",
+              "start": 3,
+              "username": "CHERRSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100316682506088744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099710908444692652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CHERRSR: 朕的龙嘴为何总想用膳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "837332499713818624",
+        "conversation_id": "2099710908444692652",
+        "created_at": "2026-09-15T04:04:25.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099710908444692652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099710908444692652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 156849,
+          "like_count": 4234,
+          "quote_count": 26,
+          "reply_count": 326,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "朕的龙嘴为何总想用膳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2100316682506088744",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 45,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1014
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-02T16:03:19.000Z",
+        "description": "好好吃饭 好好睡觉\n另一个我： @JOYI7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "JOYI7777"
+              }
+            ]
+          }
+        },
+        "id": "837332499713818624",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099710908444692652",
+        "name": "一颗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837332499713818624/1787911498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085028502181662722/Xt1j5OEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11287,
+          "following_count": 168,
+          "like_count": 5468,
+          "listed_count": 22,
+          "media_count": 54,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "CHERRSR",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

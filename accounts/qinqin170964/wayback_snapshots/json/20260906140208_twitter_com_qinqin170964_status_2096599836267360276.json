@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2096297726665543746",
+    "created_at": "2026-09-06T14:02:08.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096599836267360276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096599836267360276",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096297726665543746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 好美味好美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096297716175585280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReLqowbwAAZ4rN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2096297726665543746",
+        "created_at": "2026-09-06T14:02:08.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096599836267360276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096599836267360276",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096297726665543746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 好美味好美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096297716175585280"
+          ]
+        },
+        "author_id": "1632079685436727299",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096297726665543746",
+        "created_at": "2026-09-05T18:01:40.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096297726665543746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G59vVPNZ0z",
+              "end": 27,
+              "expanded_url": "https://x.com/xxNANAml/status/2096297726665543746/photo/1",
+              "media_key": "3_2096297716175585280",
+              "start": 4,
+              "url": "https://t.co/G59vVPNZ0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096297726665543746",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096297716175585280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 842,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天 https://t.co/G59vVPNZ0z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2096599836267360276",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 45,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1006
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096552939850801159",
+        "name": "王锦",
+        "pinned_tweet_id": "2020146275459518690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1632079685436727299/1768928465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084309808627519488/SWDsxzUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 215,
+          "like_count": 47381,
+          "listed_count": 7,
+          "media_count": 888,
+          "tweet_count": 10847
+        },
+        "url": "",
+        "username": "xxNANAml",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2094837973141668222",
+    "created_at": "2026-09-01T17:21:07.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T18:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094837973141668222"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094837973141668222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好焦虑好痛苦，闭上眼睛的段时间我怎么都睡不着，我的脑袋里面好像有一个搅拌机，把我的一切都打乱，我恨你，恨你们所有人，我真的搞不懂一切，如果世界按照我的想法运转就好了，好痛苦，为什么偏偏要我承受这一切，为什么人不是可控的，好想销号逃离一切"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2094837973141668222",
+        "created_at": "2026-09-01T17:21:07.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094837973141668222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094837973141668222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好焦虑好痛苦，闭上眼睛的段时间我怎么都睡不着，我的脑袋里面好像有一个搅拌机，把我的一切都打乱，我恨你，恨你们所有人，我真的搞不懂一切，如果世界按照我的想法运转就好了，好痛苦，为什么偏偏要我承受这一切，为什么人不是可控的，好想销号逃离一切"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2094837973141668222",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 45,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

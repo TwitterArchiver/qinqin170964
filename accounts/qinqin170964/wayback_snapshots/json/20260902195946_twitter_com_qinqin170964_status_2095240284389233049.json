@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2095195561796284862",
+    "created_at": "2026-09-02T19:59:46.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095240284389233049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992391597003255808",
+          "start": 0,
+          "username": "tiancaiG1ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095240284389233049",
+    "in_reply_to_user_id": "1992391597003255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095195561796284862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancaiG1ovo 就这样错过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2095195561796284862",
+        "created_at": "2026-09-02T19:59:46.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095240284389233049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992391597003255808",
+              "start": 0,
+              "username": "tiancaiG1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095240284389233049",
+        "in_reply_to_user_id": "1992391597003255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095195561796284862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancaiG1ovo 就这样错过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992391597003255808",
+        "conversation_id": "2095195561796284862",
+        "created_at": "2026-09-02T17:02:03.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095195561796284862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095195561796284862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好那个啊下周要去东莞耍起了，时隔一年突击市民中心，不好的回忆回来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2095240284389233049",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 45,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T00:36:04.000Z",
+        "description": "最是仓皇辞庙日，教坊尤奏离别歌，垂泪对宫娥",
+        "id": "1992391597003255808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095207122539565272",
+        "name": "缺乏色彩的阿G",
+        "pinned_tweet_id": "2023360997323669963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992391597003255808/1764006560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069799482020024321/0k8d_hmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 106,
+          "like_count": 8925,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 2434
+        },
+        "url": "",
+        "username": "tiancaiG1ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2096634496963764543",
+    "created_at": "2026-09-06T16:19:52.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096634496963764543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1475924213651611648",
+          "start": 3,
+          "username": "3pumpsof"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096634496963764543",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3373
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096410964472332466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3pumpsof: 난진짜 부모가 애한테 돈없다는소리 하면안된다 생각하고... 그런얘기 맨날 듣고자란 애는 정서적으로도 불안하고 꿈도 작고 성취도 그닥임\n가난한부모는최악임"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2096634496963764543",
+        "created_at": "2026-09-06T16:19:52.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096634496963764543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1475924213651611648",
+              "start": 3,
+              "username": "3pumpsof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096634496963764543",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3373
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096410964472332466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3pumpsof: 난진짜 부모가 애한테 돈없다는소리 하면안된다 생각하고... 그런얘기 맨날 듣고자란 애는 정서적으로도 불안하고 꿈도 작고 성취도 그닥임\n가난한부모는최악임"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475924213651611648",
+        "conversation_id": "2096410964472332466",
+        "created_at": "2026-09-06T01:31:38.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096410964472332466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096410964472332466",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1716,
+          "impression_count": 959090,
+          "like_count": 20492,
+          "quote_count": 1497,
+          "reply_count": 89,
+          "retweet_count": 3371
+        },
+        "reply_settings": "everyone",
+        "text": "난진짜 부모가 애한테 돈없다는소리 하면안된다 생각하고... 그런얘기 맨날 듣고자란 애는 정서적으로도 불안하고 꿈도 작고 성취도 그닥임\n가난한부모는최악임"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2096634496963764543",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 46,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-28T20:18:57.000Z",
+        "description": "오늘이 지나면",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/3pumpsof",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/3pumpsof",
+                "start": 0,
+                "url": "https://t.co/ARckgn4R2Y"
+              }
+            ]
+          }
+        },
+        "id": "1475924213651611648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096630792617370062",
+        "name": "은행원",
+        "pinned_tweet_id": "2037111798403600414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1475924213651611648/1649343961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524822627894054913/-9eXRPh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 130,
+          "like_count": 53763,
+          "listed_count": 15,
+          "media_count": 2985,
+          "tweet_count": 43842
+        },
+        "url": "https://t.co/ARckgn4R2Y",
+        "username": "3pumpsof",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

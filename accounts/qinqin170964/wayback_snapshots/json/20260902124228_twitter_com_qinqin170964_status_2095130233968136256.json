@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2094841924696031727",
+    "created_at": "2026-09-02T12:42:28.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095130233968136256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944437671486427136",
+          "start": 0,
+          "username": "9979Liz14950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095130233968136256",
+    "in_reply_to_user_id": "1944437671486427136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095110817092120719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9979Liz14950 真的太痛苦了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2094841924696031727",
+        "created_at": "2026-09-02T12:42:28.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095130233968136256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944437671486427136",
+              "start": 0,
+              "username": "9979Liz14950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095130233968136256",
+        "in_reply_to_user_id": "1944437671486427136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095110817092120719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9979Liz14950 真的太痛苦了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944437671486427136",
+        "conversation_id": "2094841924696031727",
+        "created_at": "2026-09-02T11:25:18.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095110817092120719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095110817092120719",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094841924696031727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 真的太痛苦了………….."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2095130233968136256",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 45,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 994
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T16:44:09.000Z",
+        "description": "完全碎碎念…女孩子聊天大欢迎！傻逼别来情绪乞丐别来需要我秒回的别来博主上线只为发帖基本不咋回复私信你和我帖子互动就行。匿名提问在：https://t.co/MItN3ogSGR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jin62216",
+                "end": 88,
+                "expanded_url": "https://ngl.link/jin62216",
+                "start": 65,
+                "url": "https://t.co/MItN3ogSGR"
+              }
+            ]
+          }
+        },
+        "id": "1944437671486427136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095111916792549639",
+        "name": "飞天大蟒蛇",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944437671486427136/1752425159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005949359251439616/NeVohARw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 34,
+          "like_count": 299,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 988
+        },
+        "url": "",
+        "username": "9979Liz14950",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

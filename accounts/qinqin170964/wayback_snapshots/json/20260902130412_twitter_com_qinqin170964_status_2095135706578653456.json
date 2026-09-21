@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2095131251460161662",
+    "created_at": "2026-09-02T13:04:12.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095135706578653456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1851320794586177536",
+          "start": 0,
+          "username": "n_vrmine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095135706578653456",
+    "in_reply_to_user_id": "1851320794586177536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095135014958825918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_vrmine 好奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2095131251460161662",
+        "created_at": "2026-09-02T13:04:12.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095135706578653456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1851320794586177536",
+              "start": 0,
+              "username": "n_vrmine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095135706578653456",
+        "in_reply_to_user_id": "1851320794586177536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095135014958825918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_vrmine 好奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851320794586177536",
+        "conversation_id": "2095131251460161662",
+        "created_at": "2026-09-02T13:01:27.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095135014958825918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002003730334621696",
+              "start": 0,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095135014958825918",
+        "in_reply_to_user_id": "2002003730334621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095131251460161662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin170964 我经常收不到别人评论的通知😳😳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2095135706578653456",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 45,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 995
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T17:51:00.000Z",
+        "description": "@zz1fswm\n不聊骚不约炮不陪聊不线下🈚️坐标\n不回私信 再发拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "zz1fswm"
+              }
+            ]
+          }
+        },
+        "id": "1851320794586177536",
+        "is_identity_verified": false,
+        "location": "🚪188/520",
+        "most_recent_tweet_id": "2095135353825038433",
+        "name": "🍃",
+        "pinned_tweet_id": "2090917455862563027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851320794586177536/1730224377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080690363413757959/vcCjqKkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6881,
+          "following_count": 224,
+          "like_count": 16025,
+          "listed_count": 9,
+          "media_count": 25,
+          "tweet_count": 2011
+        },
+        "url": "",
+        "username": "n_vrmine",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

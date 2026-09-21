@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2092819920497328531",
+    "created_at": "2026-08-27T07:13:10.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092873038991867971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992391597003255808",
+          "start": 0,
+          "username": "tiancaiG1ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092873038991867971",
+    "in_reply_to_user_id": "1992391597003255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092819920497328531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiancaiG1ovo 看起来好好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2092819899387420672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQswnDnbIAAq8UC.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2092819920497328531",
+        "created_at": "2026-08-27T07:13:10.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092873038991867971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992391597003255808",
+              "start": 0,
+              "username": "tiancaiG1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092873038991867971",
+        "in_reply_to_user_id": "1992391597003255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092819920497328531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancaiG1ovo 看起来好好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092819899387420672"
+          ]
+        },
+        "author_id": "1992391597003255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092819920497328531",
+        "created_at": "2026-08-27T03:42:06.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092819920497328531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxYSh2JRTR",
+              "end": 28,
+              "expanded_url": "https://x.com/tiancaiG1ovo/status/2092819920497328531/photo/1",
+              "media_key": "3_2092819899387420672",
+              "start": 5,
+              "url": "https://t.co/cxYSh2JRTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092819920497328531",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092819899387420672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到季节了 https://t.co/cxYSh2JRTR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2092873038991867971",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 44,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T00:36:04.000Z",
+        "description": "最是仓皇辞庙日，教坊尤奏离别歌，垂泪对宫娥",
+        "id": "1992391597003255808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092827258021171402",
+        "name": "缺乏色彩的阿G",
+        "pinned_tweet_id": "2023360997323669963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992391597003255808/1764006560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069799482020024321/0k8d_hmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 105,
+          "like_count": 8623,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 2348
+        },
+        "url": "",
+        "username": "tiancaiG1ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
