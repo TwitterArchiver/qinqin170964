@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002003730334621696",
+    "conversation_id": "2102273328077787335",
+    "created_at": "2026-09-22T05:46:34.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102273328077787335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/san326_c/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/san326_c/status/2102031144879575241",
+          "start": 7,
+          "url": "https://t.co/04GiYsTV7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102273328077787335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102031144879575241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就这样 https://t.co/04GiYsTV7x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2102273328077787335",
+        "created_at": "2026-09-22T05:46:34.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102273328077787335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/san326_c/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/san326_c/status/2102031144879575241",
+              "start": 7,
+              "url": "https://t.co/04GiYsTV7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102273328077787335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102031144879575241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就这样 https://t.co/04GiYsTV7x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684923644445896705",
+        "conversation_id": "2102031144879575241",
+        "created_at": "2026-09-21T13:44:13.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102031144879575241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102031144879575241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 18981,
+          "like_count": 641,
+          "quote_count": 15,
+          "reply_count": 35,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "不吃任何药物，不喝酒，不抽烟，不自残，享受最原汁原味的痛苦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2002003730334621696",
+        "is_identity_verified": false,
+        "location": "咪咪喵喵",
+        "most_recent_tweet_id": "2102273328077787335",
+        "name": "压力一只草履虫？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002003730334621696/1787301901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077765669702217728/ImMuTrGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 44,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1028
+        },
+        "url": "",
+        "username": "qinqin170964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T13:48:15.000Z",
+        "description": "明天世界末日 晚安",
+        "id": "1684923644445896705",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2102057207747789263",
+        "name": "名子",
+        "pinned_tweet_id": "1815071756425859233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684923644445896705/1780121067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889009419394088960/yDoXzfaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 131,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1630
+        },
+        "url": "",
+        "username": "san326_c",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
